@@ -4,4 +4,4 @@ Este foi um projeto desenvolvido durante o curso intensivo de Data science da Aw
 No projeto foram executados os seguites passos :
  - coleta de dados na web, utilizando web-scraping.
  - tratamento dos dados e EDA.
- - teste com algoritmos de machine learning.
+ - teste com algoritmos de machine learning para encontrar o melhor modelo.
