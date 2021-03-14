@@ -1,0 +1,1604 @@
+,logradouro,nome_logradouro,bairro,zona,area,quartos,aluguel
+0,rua,José Timotheo Da Silva, Jardim Peri,norte,51,2,950
+1,rua,Plinio Colás, Lauzane Paulista,norte,126,3,2500
+2,rua,Doutor Gabriel Covelli, Parque Peruche,norte,55,1,900
+3,rua,Dos Camarés  150, Carandiru,norte,58,2,1490
+4,rua,Francisco Da Lira, Jardim Leonor Mendes De Barros,norte,96,2,1211
+5,rua,Nossa Senhora Operária, Vila Guilherme,norte,33,1,1000
+6,rua,Custódio José Duarte, Vila Ede,norte,50,2,950
+7,rua,Campo Comprido, Vila Romero,norte,120,3,1278
+8,rua,Ladeira Velha, Freguesia Do Ó,norte,64,2,1220
+9,rua,Professor Dário Ribeiro, Vila Prado,norte,30,1,700
+10,rua,Professor Paul Hugon, Vila Aurora,norte,100,3,2600
+11,rua,Piratininga, Jardim Brasília (zona Norte),norte,58,2,1900
+12,rua,Tomé De Lara, Tucuruvi,norte,150,3,3950
+13,rua,Itanhangá, Tucuruvi,norte,212,3,3500
+14,rua,Duarte De Azevedo, Santana,norte,78,2,1800
+15,rua,Nicolau Tolentino De Almeida, Vila Dionisia,norte,55,2,1300
+16,rua,Mére Marie Anais De Sion, Vila Cachoeira,norte,60,2,1415
+17,rua,Desembargador Euclides Da Silveira, Casa Verde,norte,50,1,2500
+18,rua,Antonieta Leitão, Nossa Senhora Do Ó,norte,75,1,1400
+19,rua,Pelegrino, Jardim Do Colégio (zona Norte),norte,50,1,1350
+20,rua,Eurico Sodré, Vila Medeiros,norte,40,1,681
+21,rua,Itamonte, Vila Medeiros,norte,60,1,1040
+22,rua,Carlos Adalberto Ilha Macedo, Vila Nova Mazzei,norte,70,2,1500
+23,rua,Desembargador Euclides Da Silveira, Casa Verde,norte,49,1,2400
+24,rua,Corneteiro Jesus, Jardim Felicidade (zona Norte),norte,50,1,1000
+25,rua,Conselheiro Moreira De Barros, Santana,norte,116,3,1500
+26,rua,Desembargador Euclides Da Silveira, Casa Verde,norte,49,1,2550
+27,rua,Sete Barras, Nossa Senhora Do Ó,norte,70,3,2340
+29,rua,Voluntários Da Pátria, Santana,norte,29,1,3300
+31,rua,Amambaí, Vila Maria Baixa,norte,40,1,1350
+32,rua,Piracema, Santa Teresinha,norte,60,2,1980
+33,rua,José Barreto Dos Santos, Vila Mangalot,norte,70,3,1550
+34,rua,Ite, Vila Guilherme,norte,92,2,1800
+35,rua,Copacabana, Santa Teresinha,norte,60,2,1526
+36,rua,Sílvio Rodini, Vila Dom Pedro Ii,norte,60,2,1300
+37,rua,Itaúna, Vila Maria Baixa,norte,59,3,2500
+38,rua,Doutor Luiz Zamenhof, Jardim Paraíso,norte,160,3,4000
+39,rua,Francisco Raposo, Vila Nova Mazzei,norte,150,2,1400
+40,rua,Garção Tinoco, Santana,norte,68,2,1700
+41,rua,Mariquinha Viana, Água Fria,norte,34,1,1000
+42,rua,Padre Venâncio De Resende, Vila Bandeirantes,norte,25,2,850
+43,rua,José Ferreira De Castro, Vila Amélia,norte,50,2,1200
+44,rua,Epaminondas Melo Do Amaral, Sítio Do Mandaqui,norte,59,2,1100
+45,rua,21 De Abril, Jardim Brasília (zona Norte),norte,90,2,1800
+46,rua,Da Esperança, Vila Medeiros,norte,246,6,5000
+47,rua,Soror Angélica, Vila Ester (zona Norte),norte,179,3,3500
+48,rua,Hamburgo, Vila Gustavo,norte,52,2,1800
+49,rua,Adlai Stevenson, Vila Ester (zona Norte),norte,40,1,1300
+50,rua,Manuel Cherem, Vila Paulista,norte,60,2,2000
+51,rua,Aroaba, Jardim Peri,norte,78,2,2500
+52,rua,Doutor Zuquim, Santana,norte,74,2,2000
+53,rua,Sílvio Rodini, Vila Dom Pedro Ii,norte,63,2,1400
+54,rua,Eurico Sodré, Vila Medeiros,norte,30,1,500
+56,rua,Professor José Miziara, Santa Teresinha,norte,62,2,2000
+57,rua,Do Imperador, Vila Paiva,norte,70,3,2000
+58,rua,Doutor Heitor Nascimento, Nossa Senhora Do Ó,norte,70,2,1400
+59,rua,Paulo César, Vila Mazzei,norte,54,2,1200
+60,rua,Cônego Manuel Vaz, Santana,norte,162,3,2500
+61,rua,Hintem Martins, Parque Edu Chaves,norte,180,3,2500
+62,rua,Raul Dias, Parque Mandaqui,norte,90,3,2180
+63,rua,Jorge Valim, Vila Ester (zona Norte),norte,89,3,2630
+64,rua,Ventura Carneiro, Vila Celeste,norte,42,2,1150
+65,rua,Conselheiro Moreira De Barros, Lauzane Paulista,norte,72,2,1600
+66,rua,Almirante Noronha, Jardim São Paulo,norte,173,3,2700
+67,rua,Maria Cândida, Vila Guilherme,norte,150,3,2700
+68,rua,Cadete Ruytemberg Rocha, Parque Mandaqui,norte,200,5,2600
+69,rua,Aragão, Vila Mazzei,norte,40,1,1200
+70,rua,Caraputinga, Vila América,norte,200,3,3000
+71,rua,Major Dantas Cortez, Vila Gustavo,norte,53,2,2000
+72,rua,Garcia Rodrigues, Parque Mandaqui,norte,91,3,1900
+73,rua,Antônio Clemente, Jardim São Paulo,norte,60,2,1850
+74,rua,Lúcia Caiaffa, Vila Pereira Barreto,norte,98,3,1800
+75,rua,Doutor Gabriel Resende Filho, Chora Menino,norte,47,1,1200
+76,rua,Voluntários Da Pátria, Santana,norte,92,3,4000
+77,rua,Capitão Sérvio Rodrigues Caldas, Vila Dom Pedro Ii,norte,76,3,2300
+78,rua,Pero Vidal, Parque Vitória,norte,75,2,1500
+79,rua,Dráusio Giunchetti Rusin, Jardim Rossin,norte,150,4,4500
+80,rua,João Martins Bueno, Vila Nivi,norte,70,2,1700
+81,rua,Daniel Rossi, Santana,norte,152,3,7100
+82,rua,Barra Da Jangada, Parada Inglesa,norte,65,2,1700
+83,rua,Purus, Vila Mazzei,norte,44,2,1600
+84,rua,Itaici, Santa Teresinha,norte,42,2,2200
+85,rua,Almirante Noronha, Jardim São Paulo,norte,72,2,1600
+86,rua,Doutor Guilherme Cristoffel, Santana,norte,139,4,3000
+87,rua,Capitão Gustavo Lauro Korte, Vila Nova Mazzei,norte,60,2,1500
+88,rua,Guerino Giovani Leardini, Vila Barreto,norte,60,2,1600
+89,rua,Francisco Lipi, Jardim Vila Rica,norte,74,2,1500
+90,rua,Francisca Júlia, Santana,norte,210,4,5700
+91,rua,Aguará, Vila Carbone,norte,110,3,1702
+92,rua,Genova, Jardim Leonor Mendes De Barros,norte,240,3,6000
+93,rua,Paulino De Brito, Jardim Brasil,norte,55,2,1500
+94,rua,Professor Oliveira E Sousa, Vila Cavaton,norte,36,1,650
+95,rua,Doutor Olavo Egídio, Santana,norte,60,1,2900
+96,rua,Garcia Rodrigues, Parque Mandaqui,norte,79,2,1250
+97,rua,Marieta Da Silva, Vila Guilherme,norte,95,2,2200
+98,rua,Voluntários Da Pátria, Santana,norte,60,2,2507
+99,rua,Juan Arfe, Vila Cruz Das Almas,norte,48,2,1200
+100,rua,Henrique Leitão, Vila Maria Alta,norte,35,1,1110
+101,rua,Doutor Estevão Montebelo, Vila Picinin,norte,90,3,2600
+102,rua,Borges, Parada Inglesa,norte,46,2,2500
+103,rua,Doutor Ângelo Vita, Vila Zilda,norte,280,4,6000
+104,rua,Vicente Ferreira Leite, Vila Siqueira (zona Norte),norte,49,2,1400
+105,rua,Said Saad, Vila Amália,norte,30,1,770
+106,rua,Quedas, Vila Isolina Mazzei,norte,180,4,4200
+107,rua,Itaici, Santa Teresinha,norte,42,2,2200
+108,rua,Padre Leão Peruche, Vila Mazzei,norte,45,1,1500
+109,rua,Jesuíno De Brito, Freguesia Do Ó,norte,98,3,2100
+110,rua,Judith Zumkeller, Parque Mandaqui,norte,52,2,1800
+111,rua,Da Bica, Jardim Peri,norte,90,3,3200
+112,rua,Juan Arfe, Vila Cruz Das Almas,norte,50,2,1236
+113,rua,Barra Da Jangada, Parada Inglesa,norte,65,2,1700
+114,rua,Barra Da Jangada, Parada Inglesa,norte,65,2,1700
+115,rua,Barra Da Jangada, Parada Inglesa,norte,65,2,1700
+116,rua,Voluntários Da Pátria, Santana,norte,60,2,1650
+117,rua,Ribeiro De Morais, Vila Albertina,norte,68,2,1600
+118,rua,Doutor Gabriel Covelli, Parque Peruche,norte,50,1,1100
+119,rua,Said Saad, Vila Amália,norte,90,2,1600
+120,rua,Brito Peixoto, Vila Primavera,norte,52,2,2147
+121,rua,Professor Dário Ribeiro, Vila Prado,norte,69,2,1915
+122,rua,Alfredo Pujol, Santana,norte,37,2,1700
+123,rua,Pedro Setti, Vila Paiva,norte,200,4,2750
+124,rua,Ausônia, Vila Mazzei,norte,50,2,1300
+125,rua,Henrique Braglia, Vila Dom Pedro Ii,norte,56,2,2306
+126,rua,Torres Da Barra, Jardim Peri,norte,33,1,1824
+127,rua,Visconde De Parnaíba, Jardim Brasília (zona Norte),norte,42,1,2158
+128,rua,Doutor João Batista Soares De Faria, Santana,norte,178,3,3800
+129,rua,Francisco Cid, Vila Palmeiras,norte,100,3,2500
+130,rua,Eugênio Lorenzetti, Jardim Peri,norte,53,2,1650
+131,rua,Rio Verde, Vila Bruna,norte,47,2,1750
+132,rua,Doutor Olavo Egídio, Santana,norte,60,1,3300
+133,rua,Doutor Olavo Egídio, Santana,norte,61,1,3300
+134,rua,Duarte De Azevedo, Santana,norte,53,2,1450
+135,rua,Copacabana, Santa Teresinha,norte,120,3,3800
+136,rua,Zike Tuma, Jardim Palmares (zona Norte),norte,67,3,1590
+137,rua,Relíquia, Jardim Das Laranjeiras,norte,75,2,1850
+138,rua,Pedro Cacunda, Jardim São Paulo,norte,50,2,2300
+139,rua,Soror Angélica, Vila Ester (zona Norte),norte,179,3,3500
+140,rua,Torres Da Barra, Jardim Peri,norte,31,1,1600
+141,rua,Itamonte, Vila Medeiros,norte,20,1,500
+142,rua,Voluntários Da Pátria, Santana,norte,81,2,1750
+143,rua,Padre Leão Peruche, Vila Mazzei,norte,50,2,1733
+144,rua,Antônio De Paula Freitas, Vila Bancária Munhoz,norte,55,1,900
+145,rua,Caetano Desco, Vila Baruel,norte,30,1,1150
+146,rua,Doutor Zuquim, Santana,norte,87,1,4700
+147,rua,Cônego Luís Gonzaga Biazi, Carandiru,norte,40,1,1131
+148,rua,Vitalina Moura, Vila Roque,norte,50,2,1400
+149,rua,Ministro Romeiro Neto, Vila Basileia,norte,55,1,1000
+150,rua,Manuel Correia, Vila Palmeiras,norte,45,1,800
+151,rua,Campo Belo Do Sul 113, Parque Vitória,norte,50,1,1000
+152,rua,José Eduardo Raduan 5, Parque Edu Chaves,norte,80,2,1299
+153,rua,Rodolfo Bardela 335, Brasilândia,norte,30,1,620
+154,rua,Jamunda 79, Vila Mazzei,norte,60,2,1180
+155,rua,Carlos Escobar 282, Santana,norte,10,1,800
+156,rua,Outeiro Da Cruz, Jardim São Paulo,norte,58,2,1550
+157,rua,General Isidoro Dias Lopes,"
+                287",norte,270,3,3000
+159,rua,Álvaro De Abreu,"
+                139",norte,271,4,7500
+160,rua,Said Saad, Vila Amália,norte,26,1,700
+161,rua,Da Grota, Vila Gustavo,norte,80,2,1850
+162,rua,Bela Vista Do Paraíso, Vila Palmeiras,norte,58,2,1200
+163,rua,Capitão Rubens, Parque Edu Chaves,norte,30,1,945
+164,rua,Domingos José Sapienza, Vila Amália,norte,50,2,1550
+165,rua,Doutor Heitor Nascimento, Nossa Senhora Do Ó,norte,55,2,1600
+166,rua,Da Bica, Freguesia Do Ó,norte,25,1,800
+167,rua,Doutor Zuquim, Santana,norte,75,2,1250
+168,rua,Maria Bandini Savoy, Parque Mandaqui,norte,58,2,1300
+169,rua,Juan Arfe, Vila Cruz Das Almas,norte,50,2,1300
+170,rua,Ofion, Vila Guilherme,norte,20,1,850
+171,rua,Ana De Barros, Jardim Santa Inês,norte,65,3,1400
+172,rua,Ascenso Dias Leme, Imirim,norte,40,1,550
+173,rua,Said Saad, Vila Amália,norte,30,1,750
+174,rua,Santo Egídio, Santa Teresinha,norte,60,2,1100
+175,rua,Da Bica, Freguesia Do Ó,norte,70,1,1200
+176,rua,João Rudge, Casa Verde,norte,76,3,2500
+177,rua,Laerte, Vila Mariza Mazzei,norte,75,1,920
+178,rua,Alcindo Bueno De Assis, Barro Branco,norte,55,2,1139
+179,rua,Gávea, Vila Maria,norte,35,1,1200
+181,rua,Manuel De Sousa, Santana,norte,119,4,2950
+182,rua,Ofion, Vila Guilherme,norte,20,1,900
+183,rua,Doutor Zuquim, Santana,norte,35,1,1800
+184,rua,Henrique Braglia, Vila Dom Pedro Ii,norte,35,1,1500
+185,rua,Ministro Fonseca Filho, Jaçanã,norte,70,2,1482
+186,rua,Marieta Da Silva, Vila Guilherme,norte,100,2,2075
+187,rua,Hamburgo, Vila Gustavo,norte,32,1,1300
+188,rua,Voluntários Da Pátria, Santana,norte,200,4,2950
+189,rua,Ataualpa, Parque Novo Mundo,norte,131,2,2350
+191,rua,Gávea, Vila Maria,norte,35,1,1200
+192,rua,Torres Da Barra, Jardim Peri,norte,31,1,1800
+193,rua,Zanzibar, Casa Verde,norte,51,2,1390
+194,rua,Itaici, Santa Teresinha,norte,96,3,1899
+195,rua,Doutor Olavo Egídio, Santana,norte,74,3,2500
+196,rua,Antônio De Souza Costa, Imirim,norte,100,2,2500
+197,rua,Ofion, Vila Guilherme,norte,20,1,950
+198,rua,Magarinos Torres, Vila Maria,norte,70,1,1450
+199,rua,Alfredo Pujol, Santana,norte,56,2,1950
+200,rua,Alfredo Pujol, Santana,norte,42,1,2400
+201,rua,Cândido Figueiredo, Vila Gustavo,norte,87,2,2241
+202,rua,Alferes Magalhães, Santana,norte,58,1,1450
+203,rua,Cabo Antônio Pinton, Parque Novo Mundo,norte,50,2,1700
+204,rua,José Debieux, Santana,norte,57,2,1600
+205,rua,Voluntários Da Pátria, Santana,norte,20,1,1250
+206,rua,Araritaguaba, Vila Maria Alta,norte,40,1,960
+207,rua,Eugênio De Freitas, Vila Guilherme,norte,58,3,2061
+208,rua,Vasconcelos De Barros, Jardim Rossin,norte,90,2,2500
+209,rua,Alfredo Pujol, Santana,norte,96,3,2134
+210,rua,Ezequiel Freire, Santana,norte,70,3,1605
+211,rua,Doutor Zuquim, Santana,norte,45,1,2650
+212,rua,Canatiar, Vila Nova Mazzei,norte,150,3,2600
+213,rua,Pedroso Xavier, Vila Albertina,norte,65,2,2300
+214,rua,Relíquia, Jardim Das Laranjeiras,norte,50,1,1250
+215,rua,São Zeferino, Jardim França,norte,127,2,1750
+217,rua,Das Promessas, Vila Medeiros,norte,70,1,1100
+218,rua,Clara De Oliveira, Santa Teresinha,norte,60,2,1500
+219,rua,Jorge Valim, Parque Peruche,norte,55,2,2400
+220,rua,Macieira, Jardim Peri,norte,55,2,1700
+221,rua,Luis Tavares, Vila Guilherme,norte,126,3,5000
+222,rua,Gávea, Vila Maria,norte,46,2,1600
+223,rua,Joaquim Norberto, Vila Paulicéia,norte,45,1,1800
+224,rua,Doutor Guilherme Cristoffel, Santana,norte,238,3,8000
+225,rua,Duarte De Azevedo, Santana,norte,46,1,1900
+226,rua,Pedro Doll, Santana,norte,130,3,2500
+227,rua,Ministro Romeiro Neto, Vila Basileia,norte,48,1,1350
+228,rua,Jorge Duprat Figueiredo, Vila Paulista,norte,96,2,2700
+229,rua,Duarte De Azevedo, Santana,norte,44,1,1900
+230,rua,Dona Martinha, Santa Teresinha,norte,58,2,2000
+231,rua,Helena Gambini, Vila Bruna,norte,132,3,2800
+232,rua,José Jerônimo Vasconcelos, Parque Mandaqui,norte,140,3,3500
+233,rua,Antônio Ribeiro De Morais, Vila Carbone,norte,73,3,2750
+234,rua,Aluísio Azevedo, Santana,norte,69,2,1700
+235,rua,Comendador Cesar Alfieri, Parque São Luís,norte,67,2,1285
+236,rua,Torres Da Barra, Jardim Peri,norte,31,1,1500
+237,rua,Doutor Guilherme Cristofel, Santana,norte,230,3,5500
+238,rua,Judith Zumkeller, Parque Mandaqui,norte,82,3,2395
+239,rua,Celso Vieira, Vila Pereira Barreto,norte,69,2,2800
+240,rua,Santa Eudóxia 963 - Cs 8, Parque Peruche,norte,50,2,1300
+241,rua,Duarte De Azevedo, Santana,norte,44,1,1900
+242,rua,Jupiá, Santa Teresinha,norte,44,2,3820
+243,rua,Conselheiro Moreira De Barros, Santana,norte,200,4,2300
+244,rua,Américo Boaventura, Santana,norte,100,2,2000
+245,rua,Ezequiel Freire, Santana,norte,46,1,1950
+246,rua,Aragão, Vila Mazzei,norte,60,2,2350
+247,rua,Ministro Romeiro Neto, Vila Basileia,norte,46,1,1200
+248,rua,Juami, Vila Ester (zona Norte),norte,98,2,2650
+249,rua,Estevão Furquim, Jardim Peri,norte,150,2,2750
+250,rua,Alexandre Azevedo, Vila Mazzei,norte,80,2,1699
+251,rua,Copacabana, Santa Teresinha,norte,70,2,1650
+253,rua,Guarajá, Vila Mazzei,norte,45,1,2000
+254,rua,Balsa, Vila Arcádia,norte,49,2,1450
+255,rua,Major Freire, Vila Monte Alegre,sul,68,2,1560
+256,rua,Joaquim Távora, 791,sul,42,1,2700
+257,rua,Bento Coelho Da Silveira, Vila Campestre,sul,76,3,1150
+258,rua,José Alves De Almeida, Jardim Celeste,sul,53,2,1153
+259,rua,Oliveira Alves, Ipiranga,sul,85,3,2950
+260,rua,Cisplatina, Ipiranga,sul,54,2,1200
+261,rua,Democratas, Vila Monte Alegre,sul,140,3,2330
+262,rua,João Bethcem Moreira Filho, Cidade Domitila,sul,50,2,1260
+263,rua,Deputado João Sussumu Hirata, Vila Andrade,sul,65,2,1350
+264,rua,Otávio Tarquínio De Sousa, Campo Belo,sul,32,1,1530
+265,rua,Tenente Otávio Gomes, Aclimação,sul,30,1,700
+266,rua,Marquês De Maricá, Sacomã,sul,55,1,1100
+267,rua,Doutor Aramis Ataíde, Vila Cruzeiro,sul,23,1,1100
+268,rua,Manoel Correia Júnior, Saúde,sul,25,1,1358
+269,rua,Jurupari, Jardim Oriental,sul,40,1,1000
+270,rua,Tenente Azevedo, Aclimação,sul,75,2,2800
+271,rua,Dois De Julho, Ipiranga,sul,45,1,2350
+272,rua,Carlos Petti, Vila Mariana,sul,300,4,10000
+273,rua,Ângelo Bertini, Jardim Celeste,sul,73,3,2600
+274,rua,Santa Rita D#39oeste, Vila Do Encontro,sul,29,1,850
+275,rua,Doutor Nicolau Alberto Defina, Jardim Da Saúde,sul,68,2,900
+276,rua,Caconde, Jardim Paulista,sul,107,2,4000
+277,rua,Osvaldo De Andrade, Vila Cruzeiro,sul,28,1,1200
+278,rua,Gomes De Carvalho, Vila Olímpia,sul,77,2,2900
+279,rua,José Antônio Coelho, Vila Mariana,sul,34,1,1660
+280,rua,Cruz E Souza, Aclimação,sul,54,1,2000
+281,rua,Agostinho Gomes, Ipiranga,sul,57,2,1866
+282,rua,Clodomiro Amazonas, Vila Nova Conceição,sul,40,1,3300
+283,rua,Dois De Julho, Ipiranga,sul,35,1,1700
+284,rua,Barão Do Triunfo, Brooklin Paulista,sul,45,1,1800
+285,rua,Santo Irineu, Bosque Da Saúde,sul,148,3,8250
+286,rua,Gomes De Carvalho, Vila Olímpia,sul,43,1,2700
+287,rua,Capitao Pinto Ferreira, Jardim Paulista,sul,150,3,4000
+288,rua,Joaquim Távora, Vila Mariana,sul,103,3,5800
+289,rua,Taquaruçu, Vila Parque Jabaquara,sul,30,1,980
+290,rua,Costa Aguiar, Ipiranga,sul,57,2,1906
+291,rua,Nelson Gama De Oliveira, Vila Andrade,sul,55,1,1900
+292,rua,Álvaro Luís Roberto De Assumpção, Campo Belo,sul,47,1,2666
+293,rua,Viaza, Jardim Aeroporto,sul,44,1,2550
+294,rua,Maratona, Vila Alexandria,sul,68,1,4500
+295,rua,Doutor Willian Carlos Cassab, Vila Sônia,sul,15,1,1150
+296,rua,Marquesa De Santos, Vila Dom Pedro I,sul,41,1,2400
+297,rua,Clímaco Barbosa, Cambuci,sul,20,1,1210
+298,rua,Guedes Galvão, Parque Jabaquara,sul,18,1,645
+299,rua,Manoel Carneiro Silva, Bosque Da Saúde,sul,105,3,2100
+300,rua,Calixto Da Mota, Vila Mariana,sul,44,1,2600
+301,rua,Nossa Senhora Da Saude, Vila Das Mercês,sul,40,1,1200
+302,rua,Silva Bueno, Ipiranga,sul,80,2,1800
+303,rua,Canário, Moema,sul,58,2,2800
+304,rua,Dois De Julho, Ipiranga,sul,38,1,1900
+305,rua,Aquiles Jovane, Jardim Celeste,sul,60,2,1200
+306,rua,André Luís, Vila Das Mercês,sul,50,2,1500
+307,rua,Monsenhor Jerônimo Rodrigues, Jardim Clímax,sul,39,1,820
+308,rua,Marquês De Maricá, Sacomã,sul,55,1,1100
+309,rua,Peixoto Gomide, Jardim Paulista,sul,100,2,3500
+310,rua,Domingos De Morais, Vila Mariana,sul,92,2,3500
+311,rua,Laranjal, Vila Marte,sul,55,2,1300
+312,rua,Leandro Dupret, Vila Clementino,sul,176,3,10000
+313,rua,Visconde De Inhaúma, Vila Da Saúde,sul,61,2,2900
+314,rua,Abílio Soares, Paraíso,sul,100,2,2600
+315,rua,João Cachoeira, Vila Nova Conceição,sul,30,1,4800
+316,rua,Vieira De Morais, Campo Belo,sul,38,1,2200
+317,rua,Doutor Nicolau De Sousa Queirós, Vila Mariana,sul,45,2,2400
+318,rua,Dos Curupiás, Jabaquara,sul,73,2,1551
+319,rua,Doutor Neto De Araújo, Vila Mariana,sul,100,3,2780
+320,rua,Bamboré, Ipiranga,sul,90,2,2700
+321,rua,Charles Spencer Chaplin, Vila Andrade,sul,49,1,2250
+322,rua,Manuel Buchalla, Sacomã,sul,80,2,1400
+323,rua,Deputado Laércio Corte, Paraíso Do Morumbi,sul,125,1,3650
+324,rua,Pires Da Mota, Aclimação,sul,70,1,2200
+325,rua,Bicudo De Brito, Vila Guarani (z Sul),sul,42,2,1800
+326,rua,Indiana, Brooklin Paulista,sul,95,3,2600
+327,rua,Pamplona, Jardim Paulista,sul,123,3,5600
+328,rua,Rio Grande, Vila Mariana,sul,72,2,2350
+329,rua,Jovina, Vila Mascote,sul,65,2,2200
+330,rua,Jesuíno Arruda, Itaim Bibi,sul,115,3,3500
+331,rua,Leopoldo De Bulhões, Vila Clementino,sul,57,2,3400
+332,rua,Adelino Alves, Santo Amaro,sul,150,3,4330
+333,rua,Professor Vahia De Abreu, Vila Olímpia,sul,85,2,2600
+334,rua,Adolfo Reile, Jardim Celeste,sul,72,2,2750
+335,rua,Borges Lagoa, Vila Clementino,sul,45,1,2900
+336,rua,Doutor Ubaldo Franco Caiubi, Vila São Paulo,sul,70,3,1690
+337,rua,Casa Do Ator, Vila Olímpia,sul,50,2,3500
+338,rua,Quatá, Vila Olímpia,sul,52,1,2900
+339,rua,Edson, Campo Belo,sul,70,2,2831
+340,rua,Gomes De Carvalho, Vila Olímpia,sul,34,1,2000
+341,rua,Casa Do Ator, Vila Olímpia,sul,74,2,4473
+342,rua,Viaza, Jardim Aeroporto,sul,34,1,2816
+343,rua,Antônio De Macedo Soares, 1471 - Campo Belo,sul,69,2,2300
+344,rua,Maracá, Vila Guarani (z Sul),sul,78,2,3175
+345,rua,Lavapés, Cambuci,sul,36,1,2100
+346,rua,Marquesa Santos, Vila Dom Pedro I,sul,41,1,2210
+347,rua,Tutóia, Vila Mariana,sul,104,2,4000
+348,rua,Domiciano Leite Ribeiro, Vila Guarani (z Sul),sul,94,2,4000
+349,rua,Vigário Albernaz, Vila Gumercindo,sul,92,3,2184
+350,rua,Pedro Victor, Vila Firmiano Pinto,sul,72,3,2600
+351,rua,Agostinho Asquini, Vila Mariana,sul,118,3,2600
+352,rua,Bento De Matos, Chácara Santo Antônio,sul,90,3,2750
+353,rua,Ibituruna, Parque Imperial,sul,70,2,2700
+354,rua,Jorge Chammas, Vila Mariana,sul,83,2,5000
+355,rua,Helena, 151 - Vila Olimpia,sul,93,2,7800
+356,rua,Doutor Nicolau Alberto Defina, Jardim Da Saúde,sul,47,2,1300
+357,rua,Guarará, Jardim Paulista,sul,40,1,4000
+358,rua,Gaspar Lourenço, Vila Mariana,sul,30,1,1650
+359,rua,Gama Lobo, Vila Dom Pedro I,sul,75,2,2000
+360,rua,Viena, Sacomã,sul,47,2,1800
+361,rua,Loureiro Da Cruz, Aclimação,sul,47,2,2000
+362,rua,Farid Miguel Haddad, Vila Santa Teresa (zona Sul),sul,50,2,1100
+363,rua,Nicola Rollo, Vila Andrade,sul,89,3,2700
+364,rua,Pamplona, Jardim Paulista,sul,178,3,7000
+365,rua,Viena, Sacomã,sul,49,2,1256
+366,rua,Apacê, Jardim Oriental,sul,100,2,1800
+367,rua,José Bonifácio, Vila Fachini,sul,48,2,1100
+368,rua,José Antônio Coelho, Vila Mariana,sul,35,1,1550
+369,rua,Gabriele D#39annunzio, Campo Belo,sul,54,1,4200
+370,rua,Duque Costa, Vila Sofia,sul,60,3,2500
+371,rua,João Pais, Santo Amaro,sul,59,1,3500
+372,rua,Américo Ribeiro, Vila Gumercindo,sul,70,3,2300
+373,rua,Silveira Da Mota, Cambuci,sul,30,1,1500
+374,rua,Silveira Da Mota, Cambuci,sul,20,1,1200
+375,rua,Tenente Otávio Gomes, Aclimação,sul,27,1,1200
+376,rua,Nelson Gama De Oliveira, Vila Andrade,sul,62,2,3000
+377,rua,Eiras Garcia, Vila Monumento,sul,240,5,3300
+378,rua,Costa Aguiar, Ipiranga,sul,37,1,2200
+379,rua,Bandeira Paulista, Itaim Bibi,sul,120,2,4500
+380,rua,Pamplona, Jardim Paulista,sul,100,3,3250
+381,rua,Jaci, Chácara Inglesa,sul,75,2,1700
+382,rua,Vieira De Morais, Campo Belo,sul,80,3,3000
+383,rua,Luciano Felício Biondo, Jardim Cristal,sul,72,2,2800
+384,rua,Leopoldo Couto Magalhães Júnior, Itaim Bibi,sul,90,2,5600
+385,rua,Antônio Das Chagas, Chácara Santo Antônio,sul,54,2,2850
+386,rua,Castro Alves, Aclimação,sul,34,1,1200
+387,rua,Tenente Negrão, Itaim Bibi,sul,36,1,3000
+388,rua,Maestro Cállia, Vila Mariana,sul,65,2,1550
+390,rua,Alexandre Benois, Vila Andrade,sul,62,3,2200
+391,rua,João Pais, Santo Amaro,sul,64,2,3200
+392,rua,José Da Mota, Vila Andrade,sul,261,3,4600
+393,rua,Santo Juliani, Vila Santo Estéfano,sul,45,2,1600
+394,rua,Nhu-guaçu, Nova Piraju,sul,60,2,4250
+395,rua,Manuel Da Nóbrega, Paraíso,sul,100,3,4000
+396,rua,João Pimenta, Santo Amaro,sul,52,2,3300
+397,rua,Diogo Jácome, Vila Nova Conceição,sul,48,1,5700
+398,rua,Constantino De Sousa, Campo Belo,sul,50,1,3000
+399,rua,Garapeba, Jardim Vila Mariana,sul,110,3,3200
+400,rua,Tuim, Vila Uberabinha,sul,55,2,3150
+401,rua,Clímaco Barbosa, Cambuci,sul,20,1,1100
+402,rua,Francisco José Da Silva, Vila Andrade,sul,38,1,1700
+403,rua,Celso Ramos, Vila Andrade,sul,47,2,1550
+404,rua,Peixoto Gomide, Jardim Paulista,sul,73,2,4200
+405,rua,Doutor Rosalvo De Sales, Vila Brasilina,sul,240,3,4300
+406,rua,Beijuí, Vila Isa,sul,130,2,2700
+407,rua,Tabapuã, Itaim Bibi,sul,78,2,4208
+408,rua,Almeida Góis, Vila Gumercindo,sul,141,2,3000
+409,rua,Alberto Dayjardim Aurelia, Jardim Aurélia,sul,140,3,3990
+410,rua,Alvorada, Vila Olímpia,sul,26,1,2970
+411,rua,Nova York, Brooklin Paulista,sul,41,1,3400
+412,rua,Padre Leonardo, Nova Piraju,sul,69,2,2800
+413,rua,Muniz De Sousa, Aclimação,sul,30,1,1450
+414,rua,Silva Correia, Vila Nova Conceição,sul,77,1,5900
+415,rua,Huitacá, Jardim Da Campina,sul,82,3,1500
+416,rua,Tabapuã, Itaim Bibi,sul,236,3,10900
+417,rua,Professor Vahia De Abreu, Vila Olímpia,sul,72,2,3000
+418,rua,Pascoal Da Ribeira, Jardim Consórcio,sul,196,3,2700
+419,rua,Duque Costa, Vila Sofia,sul,67,3,1700
+421,rua,Maracá, Vila Guarani (z Sul),sul,75,2,3000
+422,rua,Pequetita, Vila Olímpia,sul,53,1,8300
+423,rua,Barão Do Triunfo, Brooklin Paulista,sul,50,1,2593
+424,rua,Sebastiano Mazzoni, Vila Moraes,sul,60,3,1220
+425,rua,Conde De Itu, Santo Amaro,sul,47,1,2613
+426,rua,José Maria Lisboa, Jardim Paulista,sul,224,3,15000
+427,rua,Conde Vicente De Azevedo, Vila Monumento,sul,41,1,1200
+428,rua,Joinville, Vila Mariana,sul,41,1,1430
+429,rua,Gaivota, Moema,sul,180,4,6800
+430,rua,Santa Justina, Vila Olímpia,sul,32,1,1643
+431,rua,Leite Ferraz, Vila Mariana,sul,18,1,1937
+432,rua,França Pinto, Vila Mariana,sul,90,3,3700
+433,rua,Padre Arnaldo Pereira, Parque Jabaquara,sul,250,3,3500
+434,rua,Humberto I, Vila Mariana,sul,33,1,3000
+435,rua,Abrão Calil Rezek, Vila Sônia,sul,248,4,6950
+436,rua,Araguari, Vila Uberabinha,sul,129,3,6000
+437,rua,José Jannarelli, Vila Progredior,sul,180,2,14000
+438,rua,Gomes De Carvalho, Vila Olímpia,sul,42,1,3264
+439,rua,Myron Clark, Parque Jabaquara,sul,180,4,4500
+440,rua,Alexandre Leví, Cambuci,sul,50,2,1800
+441,rua,Vergueiro, Vila Firmiano Pinto,sul,80,2,1832
+442,rua,Bertioga, Chácara Inglesa,sul,38,2,2500
+443,rua,Conde Vicente De Azevedo, Vila Monumento,sul,51,2,1450
+444,rua,Diogo Jacome, Vila Nova Conceição,sul,55,1,5500
+445,rua,Nhu-guaçu, Nova Piraju,sul,60,1,4000
+446,rua,Nova York, Brooklin Paulista,sul,90,3,2600
+447,rua,Marquês De Lages, Vila Moraes,sul,68,3,1200
+448,rua,Da União, Vila Mariana,sul,41,1,1600
+449,rua,Deputado Joaquim Libânio, Vila Mariana,sul,242,3,7000
+450,rua,Antônio Das Chagas, Chácara Santo Antônio,sul,48,1,2330
+451,rua,Casa Do Ator, Vila Olímpia,sul,78,3,3270
+452,rua,Cesar Vallejo, Real Parque,sul,40,1,2300
+453,rua,Alexandre Dumas, Chácara Santo Antônio,sul,49,2,2700
+454,rua,Nossa Senhora Da Saude, Vila Das Mercês,sul,58,2,1900
+455,rua,Cascado, Vila Andrade,sul,49,2,1600
+456,rua,Correia Salgado, Vila Dom Pedro I,sul,25,1,1600
+457,rua,Áureliano Guimarães, Vila Andrade,sul,78,2,2369
+458,rua,Clímaco Barbosa, Cambuci,sul,29,1,1858
+460,rua,Topázio, Vila Mariana,sul,33,1,2600
+461,rua,Santa, Vila Mascote,sul,118,3,4000
+462,rua,Alcindo Guanabara, Jardim Da Glória,sul,72,2,3200
+463,rua,Antônio Das Chagas, Chácara Santo Antônio,sul,54,2,2800
+464,rua,Francisco Cruz, Vila Mariana,sul,93,3,3000
+465,rua,Batataes, Jardim Paulista,sul,31,1,4651
+466,rua,Cesar Vallejo, Chácara Itaim,sul,35,1,1990
+467,rua,Alencar Araripe, Sacomã,sul,82,3,2500
+468,rua,Pássaros E Flores, Jardim Das Acácias,sul,85,3,3200
+469,rua,Henri Dunant, Santo Amaro,sul,36,1,3000
+470,rua,Malebranche, Jardim Vila Mariana,sul,60,2,2100
+471,rua,Doutor Djalma Pinheiro Franco, Vila Santa Catarina,sul,65,3,2850
+472,rua,Alexandre Levi, Cambuci,sul,47,2,2200
+473,rua,André Pujos, Jardim Celeste,sul,52,2,1530
+474,rua,Sampaio Viana, Paraíso,sul,190,3,8000
+475,rua,Ibirajá, Vila Guarani (z Sul),sul,55,2,1850
+476,rua,Alvorada, Vila Olímpia,sul,48,2,4400
+477,rua,Pintassilgo, Vila Uberabinha,sul,60,2,3478
+478,rua,Dos Buritis, Vila Parque Jabaquara,sul,40,1,2200
+479,rua,Maranjaí, Vila Monumento,sul,56,2,2200
+480,rua,Conde Vicente De Azevedo, Vila Monumento,sul,41,1,1500
+481,rua,Doutor Eduardo De Souza Aranha, Vila Nova Conceição,sul,45,1,3000
+482,rua,Gil Eanes, Campo Belo,sul,94,2,3470
+483,rua,Viena, Sacomã,sul,49,2,1670
+484,rua,Das Grumixamas, Vila Parque Jabaquara,sul,150,4,6500
+485,rua,Conde Vicente De Azevedo, Vila Monumento,sul,92,2,1800
+486,rua,Domingos De Morais, Vila Mariana,sul,55,2,2700
+487,rua,Professor Atílio Innocenti, Vila Nova Conceição,sul,45,1,2300
+488,rua,Afonso Celso, Vila Mariana,sul,94,3,2900
+489,rua,Cisplatina, Ipiranga,sul,42,1,2500
+490,rua,Luís Góis, Mirandópolis,sul,85,2,2100
+491,rua,Dos Tapes, Cambuci,sul,56,2,2300
+492,rua,Solemar, Vila Conde Do Pinhal,sul,100,3,1500
+493,rua,Moises Jorge Mussi, Jardim Patente Novo,sul,290,4,2100
+494,rua,Áurea, Vila Mariana,sul,113,3,3500
+495,rua,Pedroso Alvarenga, Itaim Bibi,sul,133,3,5500
+496,rua,Da Mata, Itaim Bibi,sul,85,2,6000
+497,rua,Loefgren, Vila Clementino,sul,117,3,4062
+498,rua,Iguatemi, Itaim Bibi,sul,132,3,5100
+499,rua,Coronel Luís Alves, Vila Mariana,sul,25,1,1350
+500,rua,Do Lavapés, Cambuci,sul,35,1,1875
+501,rua,Constantino De Sousa, Campo Belo,sul,70,2,4245
+502,rua,Doutor Elísio De Castro, Vila Dom Pedro I,sul,90,3,3000
+503,rua,Indiana, Brooklin Paulista,sul,213,4,5000
+504,rua,Manuel Da Nóbrega, Paraíso,sul,75,2,2890
+505,rua,Guararapes, Brooklin Paulista,sul,35,1,3381
+506,rua,Fiandeiras, Vila Olímpia,sul,65,2,4371
+507,rua,Conde Vicente De Azevedo, Vila Monumento,sul,40,1,1500
+508,rua,Francisco Cruz, Vila Mariana,sul,79,2,3015
+509,rua,Vieira De Morais, Campo Belo,sul,145,3,4200
+510,rua,Professora Heloísa Carneiro, Campo Belo,sul,170,3,3600
+511,rua,Dom Salomão Ferraz, Vila Andrade,sul,73,3,2350
+512,rua,José De Oliveira Coelho, Vila Andrade,sul,70,1,3500
+513,rua,Afonso Braz, Vila Nova Conceição,sul,42,1,2325
+514,rua,Jaceru, Vila Gertrudes,sul,51,1,3500
+515,rua,Guapiaçu, Vila Clementino,sul,52,2,2800
+516,rua,Eliezer José De Macedo, Parque Císper,leste,55,2,855
+517,rua,Madre De Deus, Moóca,leste,70,2,1220
+518,rua,Acará-bandeira, Jardim São Francisco (zona Leste),leste,40,2,1300
+519,rua,Faustino Paganini, Chácara Cruzeiro Do Sul,leste,35,1,800
+520,rua,Alto Beni, Vila Cosmopolita,leste,44,2,800
+521,rua,José Mascarenhas, Vila Matilde,leste,33,1,974
+522,rua,Leonhard Euler, Jardim Coimbra,leste,25,1,700
+523,rua,Major Alberto Barbosa 137, Penha De Franca,leste,70,2,1500
+524,rua,Iru, Vila Formosa,leste,62,3,1650
+525,rua,Lagoa Da Barra, Itaquera,leste,55,3,1100
+526,rua,Da Mooca, Moóca,leste,50,1,1100
+527,rua,São Gonçalo Do Piauí, Itaquera,leste,70,2,1100
+528,rua,Príncipe Beira, Vila Alpina,leste,60,2,1686
+529,rua,Rei Alberto Da Bélgica, Chácara Belenzinho,leste,65,1,984
+530,rua,Ouro Fino, Parque Penha,leste,140,3,2125
+531,rua,Antônio Olímpio, Vila União (zona Leste),leste,42,1,660
+532,rua,Bezerros, Parque Císper,leste,50,2,1250
+533,rua,Leopoldo Couto De Magalhães Júnior, Alto Da Mooca,leste,61,1,4500
+534,rua,Luiza Canero, Vila Canero,leste,90,2,1441
+535,rua,Dos1532trilhos, Moóca,leste,100,2,2000
+536,rua,Ricardo Vilela, Penha De Franca,leste,110,3,2200
+537,rua,Dos Junquilhos, Vila Alpina,leste,80,2,1100
+538,rua,Pangauá, Vila Ré,leste,50,1,800
+539,rua,Nhandeara, Vila Carrão,leste,120,3,1600
+540,rua,Alto Belo, Vila Antonieta,leste,40,2,1100
+541,rua,Itanhaém, Vila Prudente,leste,56,2,1805
+542,rua,Nunes Balboa, Vila Carrão,leste,50,2,1400
+543,rua,Uhland, Vila Ema,leste,65,2,1650
+544,rua,Tauandê, Vila Formosa,leste,60,2,2000
+545,rua,São Gil, Tatuapé,leste,60,2,1300
+546,rua,Santa Virgínia, Tatuapé,leste,96,3,2200
+547,rua,Henrique Sousa Queirós, Penha De Franca,leste,80,3,2000
+548,rua,Irma, Vila Ré,leste,40,1,690
+549,rua,Francisca De Paula, Vila Carrão,leste,76,3,1500
+550,rua,Coronel José Lopes De Toledo, Vila Antonieta,leste,45,1,900
+551,rua,Júlio Parigot, Vila Antonieta,leste,50,1,1000
+552,rua,Luís Paulino Da França, Jardim Avelino,leste,115,3,2800
+553,rua,Acuruí, Vila Formosa,leste,96,3,2500
+554,rua,Rosa Mendes, Jardim Penha,leste,49,2,1500
+555,rua,Benjamim Do Monte, Parque Cruzeiro Do Sul,leste,40,1,850
+556,rua,Sara Bernhard, Vila Cláudia,leste,75,3,1700
+557,rua,Sapucaia, Alto Da Mooca,leste,70,2,1500
+558,rua,Campo Largo, Vila Bertioga,leste,85,2,1600
+559,rua,Fidélis Papini, Vila Prudente,leste,74,3,1980
+560,rua,Dos Campineiros, Moóca,leste,70,2,1424
+561,rua,Virgílio De Freitas, Moóca,leste,175,3,3500
+563,rua,Biguatinga, Cidade Antônio Estevão De Carvalho,leste,29,1,740
+564,rua,Monsenhor João Felipo, Moóca,leste,52,2,1750
+565,rua,Pedro Nascimento Ferrador, Alto Da Mooca,leste,100,2,2100
+566,rua,Borges De Figueiredo, Moóca,leste,48,1,1600
+567,rua,Uruçuca, Vila Antonina,leste,63,2,1323
+568,rua,Do Acre, Vila Bertioga,leste,43,2,2094
+569,rua,Atuai, Vila Esperança,leste,56,1,1150
+570,rua,Andrade Réis, Moóca,leste,35,1,1729
+571,rua,Lagoa Do Campelo, Itaquera,leste,41,2,1200
+572,rua,Cândido Vale, Tatuapé,leste,26,1,2000
+573,rua,São Valentim, Vila Carrão,leste,175,4,6000
+574,rua,Rosa Mendes, Jardim Penha,leste,32,2,1300
+575,rua,Santa Cruz Do Piauí, Itaquera,leste,40,1,854
+576,rua,Francisco Gouveia, Quarta Parada,leste,18,1,800
+577,rua,João De Miranda, Jardim Norma,leste,80,2,850
+578,rua,Mirandinha, Penha De Franca,leste,120,3,3200
+579,rua,Engenheiro Guilherme Cristiano Frender, Vila Antonieta,leste,56,2,1500
+580,rua,Treze De Agosto, Vila União (zona Leste),leste,55,1,1200
+581,rua,Padre Benedito De Camargo, Penha De Franca,leste,50,2,1600
+582,rua,Bacairis, Vila Formosa,leste,48,1,2800
+583,rua,Anália Franco, Vila Regente Feijó,leste,70,2,3063
+584,rua,Doutor Roberto Feijó, Parque Da Vila Prudente,leste,48,2,2200
+585,rua,Mandu, Vila Granada,leste,45,2,1150
+586,rua,Vilela, Tatuapé,leste,52,2,2367
+587,rua,Noberto Esteves, Vila São Geraldo,leste,35,1,830
+588,rua,Bom Jesus, Vila Regente Feijó,leste,70,1,1300
+589,rua,Visconde Parnaíba, Moóca,leste,50,2,1365
+590,rua,Solidônio Leite, Vila Ivone,leste,57,2,1400
+591,rua,Leocádia Cintra, Moóca,leste,57,2,2600
+592,rua,Padre José Vieira De Matos, Conjunto Habitacional Padre Manoel Da Nóbrega,leste,48,2,1100
+593,rua,Cantagalo, Vila Gomes Cardim,leste,134,3,6000
+594,rua,Emílio Mallet, Vila Gomes Cardim,leste,93,3,1700
+595,rua,Euclides Pacheco, Vila Gomes Cardim,leste,93,3,3500
+596,rua,Hipódromo, Moóca,leste,64,3,2300
+597,rua,Leopoldo Machado, Vila Laís,leste,95,2,1500
+598,rua,Mauro Pinheiro, Chácara Califórnia,leste,35,1,1120
+599,rua,Jardim Das Margaridas, Vila Buenos Aires,leste,90,2,1400
+600,rua,Coronel Irineu De Castro, Jardim Anália Franco,leste,160,2,5000
+601,rua,Arnaldo Cintra, Vila Moreira,leste,49,2,2000
+602,rua,Piraçununga, Vila Bertioga,leste,58,2,2500
+603,rua,Jardim Das Margaridas, Vila Buenos Aires,leste,75,2,1400
+604,rua,Imbaçal, Parada Xv De Novembro,leste,84,2,950
+605,rua,Guaimbé, Moóca,leste,140,3,3300
+606,rua,Tacacazeiro, Jardim Eliane,leste,125,3,2100
+607,rua,Ângelo Andrade, Conjunto Residencial José Bonifácio,leste,41,2,800
+608,rua,Orfanato, Vila Prudente,leste,49,1,1400
+609,rua,Recife, Guaiaúna,leste,140,2,2500
+610,rua,Val De Palmas, Vila Santa Clara,leste,47,2,1600
+611,rua,São Bento Do Sapucaí, Vila Guilhermina,leste,150,2,2100
+612,rua,Baguassu, Vila Regente Feijó,leste,68,2,3439
+613,rua,Itanhaém, Vila Prudente,leste,55,2,1900
+614,rua,Rosário Do Sul, Jardim Maringá,leste,85,1,1040
+615,rua,Amaro Bezerra Cavalcanti, Vila Matilde,leste,15,1,700
+616,rua,Doutor Ernesto Mariano, Tatuapé,leste,90,3,2350
+617,rua,Da Mooca, Moóca,leste,68,3,3200
+618,rua,Nova Aurora, Vila Guilhermina,leste,45,2,1500
+619,rua,Lavínia, Quarta Parada,leste,33,1,1550
+620,rua,Agostinho Alegro, Conjunto Residencial José Bonifácio,leste,120,3,1900
+621,rua,Pantojo, Vila Regente Feijó,leste,89,3,2620
+622,rua,Renzo Baldini, Parada Xv De Novembro,leste,45,2,1100
+623,rua,Marechal Barbacena, Vila Regente Feijó,leste,140,3,3100
+624,rua,Santo Aniceto, Vila Nhocune,leste,120,2,1400
+625,rua,Américo Sugai, Vila Jacuí,leste,80,1,900
+626,rua,Piraja, Moóca,leste,30,1,650
+627,rua,Petrobrás, Vila Antonieta,leste,125,3,3000
+628,rua,Louis Garneray, Vila Buenos Aires,leste,50,1,1300
+629,rua,César Dacorso Filho, Parque Boturussu,leste,50,1,900
+630,rua,Antunes Maciel, Alto Da Mooca,leste,55,2,1700
+631,rua,Carolina Fonseca, Vila Santana,leste,65,2,1200
+632,rua,Carlos Silva, Chácara Califórnia,leste,68,3,1950
+633,rua,Américo Sugai, Vila Jacuí,leste,150,2,1500
+634,rua,São Donato, Vila Guilhermina,leste,98,2,1800
+635,rua,Maniutuba, Chácara Santo Antônio (zona Leste),leste,78,2,1500
+636,rua,Louis Garneray, Vila Buenos Aires,leste,45,1,1200
+637,rua,Carlos Silva, Chácara Califórnia,leste,68,3,1950
+638,rua,Luís Alardo De Menezes, Vila Califórnia,leste,50,2,1150
+639,rua,Guaiaúna, Guaiaúna,leste,52,2,1750
+640,rua,Paulina, Chácara Mafalda,leste,117,3,2700
+641,rua,Atucuri, Chácara Santo Antônio (zona Leste),leste,66,3,1900
+642,rua,Porto Alegre, Vila Bertioga,leste,60,2,3800
+643,rua,Icaraí, Tatuapé,leste,90,3,2500
+644,rua,Maniutuba, Chácara Santo Antônio (zona Leste),leste,78,3,1500
+645,rua,Wandenkolk, Moóca,leste,62,1,1650
+646,rua,Porto Alegre, Vila Bertioga,leste,55,2,2131
+647,rua,Omachá, Penha De Franca,leste,36,2,1100
+648,rua,Lagoa Do Campelo, Itaquera,leste,41,2,1000
+649,rua,Serra De Bragança, Vila Gomes Cardim,leste,70,2,2500
+650,rua,Costa Barros, Sítio Pinheirinho,leste,65,3,1017
+651,rua,Pedro Talarico, Vila Talarico,leste,57,2,1734
+652,rua,Doutor Alarico Silveira, Chácara Califórnia,leste,52,2,2390
+653,rua,Olho D’água Do Borges, Vila Silvia,leste,45,2,1000
+654,rua,Itanhaém, Vila Prudente,leste,48,2,1950
+655,rua,Omachá, Penha De Franca,leste,36,2,1100
+656,rua,Omachá, Penha De Franca,leste,36,2,1100
+657,rua,Nonoai, Parque Císper,leste,60,1,1200
+658,rua,Platina, Vila Azevedo,leste,56,2,2200
+659,rua,Vitoantonio Del Vecchio, Parque Da Mooca,leste,90,2,2250
+660,rua,Cirene Jorge Ribeiro, Vila Salete,leste,54,2,1700
+661,rua,Manuel Figueiredo, Jardim Vila Formosa,leste,80,2,1400
+662,rua,Limoeiro Do Ajuru, Vila Monte Santo,leste,67,2,1400
+663,rua,Omachá, Penha De Franca,leste,36,2,1100
+664,rua,Omachá, Penha De Franca,leste,36,2,1100
+665,rua,Omachá, Penha De Franca,leste,36,2,1100
+666,rua,Driades, Jardim Casa Pintada,leste,60,2,1300
+667,rua,Marciano Capella, Vila Ré,leste,58,2,12000
+668,rua,Tobiaras, Vila Esperança,leste,40,1,2100
+669,rua,Euclides Pacheco 803, Vila Gomes Cardim,leste,50,1,1900
+670,rua,Omachá, Penha De Franca,leste,36,2,1100
+671,rua,Omachá, Penha De Franca,leste,36,2,1100
+672,rua,Coelho Lisboa, Cidade Mãe Do Ceu,leste,145,2,2500
+673,rua,Andréa Feliciani, Conjunto Habitacional Padre Manoel De Paiva,leste,48,2,1000
+674,rua,Antônio Olímpio, Vila União (zona Leste),leste,35,1,700
+675,rua,Da Mooca, Moóca,leste,22,1,1740
+676,rua,Maria Daffré, Quinta Da Paineira,leste,59,2,2100
+677,rua,Filipe Camarão, Tatuapé,leste,74,2,3050
+678,rua,Retiro, Maranhão,leste,49,2,1890
+679,rua,Antônieta De Morais, Vila Matilde,leste,70,3,1900
+680,rua,Imbaçal, Parada Xv De Novembro,leste,47,2,1100
+681,rua,Nova Friburgo, Jardim Penha,leste,65,2,1500
+682,rua,Eliezer José De Macedo, Parque Císper,leste,250,2,2480
+683,rua,General Sousa Neto, Vila Aricanduva,leste,200,3,3600
+684,rua,Omachá, Penha De Franca,leste,36,2,1100
+685,rua,Costa Barros, Sítio Pinheirinho,leste,57,2,1200
+686,rua,Sete De Outubro, Chácara Califórnia,leste,192,3,8000
+687,rua,Ibitirama, Vila Prudente,leste,53,2,1500
+688,rua,Henrique Casela, Jardim América Da Penha,leste,45,1,1000
+689,rua,Henrique Casela, Jardim América Da Penha,leste,44,2,1400
+690,rua,São Jorge, Parque São Jorge,leste,63,2,1810
+691,rua,Renato, Vila Ré,leste,105,3,1750
+692,rua,Omachá, Penha De Franca,leste,36,2,1100
+693,rua,Omachá, Penha De Franca,leste,36,2,1100
+694,rua,Moliterno, Penha De Franca,leste,63,2,1900
+695,rua,Isidoro, Belenzinho,leste,76,3,3200
+696,rua,Omachá, Penha De Franca,leste,36,2,1100
+697,rua,Tuiuti, Tatuapé,leste,170,4,2850
+698,rua,Mariano De Sousa, Chácara Santo Antônio (zona Leste),leste,68,2,1800
+699,rua,Pantojo, Vila Regente Feijó,leste,95,3,3400
+700,rua,Itapura, Vila Gomes Cardim,leste,60,1,2300
+701,rua,Enrico Bastiglia, Parque Da Mooca,leste,57,2,2700
+702,rua,Castanhal, Cidade Patriarca,leste,100,1,850
+703,rua,Coronel João De Oliveira Melo, Vila Antonieta,leste,90,3,2700
+704,rua,Benedito Otoni, Vila Ré,leste,67,3,2300
+705,rua,Maria José Da Conceição, Lajeado,leste,69,2,1280
+706,rua,Manuel Leiroz, Vila Penteado,leste,60,2,1800
+707,rua,Edgar De Sousa, Vila Aricanduva,leste,75,2,1550
+708,rua,Abadiânia, Vila Guilhermina,leste,38,1,1000
+709,rua,Bruno Cavalcante Feder, Vila Prudente,leste,50,2,1500
+710,rua,Cantagalo, Vila Gomes Cardim,leste,86,3,2600
+711,rua,Adelaide De Freitas, Moóca,leste,130,2,3600
+712,rua,Astorga, Vila Guilhermina,leste,35,1,1500
+713,rua,Professor Rodolfo São Tiago, Belenzinho,leste,120,3,2200
+714,rua,Itapiruna, Jardim Penha,leste,35,1,600
+715,rua,Nova Jerusalém, Chácara Santo Antônio (zona Leste),leste,63,1,1250
+716,rua,Dante Pellacani, Vila Regente Feijó,leste,55,3,3108
+717,rua,Miragem, Vila Regente Feijó,leste,150,2,3300
+718,rua,Astorga, Vila Guilhermina,leste,35,1,1500
+719,rua,Anita Sabá, Vila Marieta,leste,30,1,650
+720,rua,Borges De Figueiredo, Moóca,leste,50,1,2150
+721,rua,Almirante Calheiros, Tatuapé,leste,117,3,2980
+722,rua,Reboujo, Chácara Santo Antônio (zona Leste),leste,63,1,1250
+723,rua,Maestro Furio Franceschini, Cidade Continental,leste,70,1,1365
+724,rua,Antônio Dos Santos, Jardim Matarazzo,leste,96,2,2100
+725,rua,Dona Escolástica M. Da Fonseca, Vila Matilde,leste,111,3,3500
+726,rua,Ganges, Vila Carrão,leste,56,2,2100
+728,rua,Padre Estevão Pernet, Vila Gomes Cardim,leste,56,2,2600
+729,rua,Gregório Matos, Vila Regente Feijó,leste,90,3,3000
+730,rua,Flávio Tambellini, Parque Santa Madalena,leste,40,1,820
+731,rua,Lagoa Do Campêlo, Itaquera,leste,42,2,1300
+732,rua,Visconde De Inhomerim, Moóca,leste,80,2,1800
+733,rua,Visconde De Parnaíba, Lajeado,leste,45,1,2091
+734,rua,Dona Vitória Speers, Vila Formosa,leste,80,3,1500
+735,rua,Jarauara, Vila Ré,leste,70,2,1300
+736,rua,Antônio De Barros, Vila Carrão,leste,60,2,1850
+737,rua,Estevan De Araújo Almeida, Parada Xv De Novembro,leste,48,2,920
+738,rua,Piruini, Jardim Jaú (zona Leste),leste,50,2,1200
+739,rua,Serra De São Domingos, Vila Carmosina,leste,37,1,1450
+740,rua,Carneiro Leão, Moóca,leste,50,2,1950
+741,rua,Duarte Lôbo, Conjunto Residencial José Bonifácio,leste,50,2,1200
+742,rua,Shobee Kumagai, Jardim Belém,leste,100,2,1600
+743,rua,Ana César, Vila Cunha Bueno,leste,25,1,850
+744,rua,Barata Ribeiro, Conjunto Habitacional Sitio Conceição,leste,60,2,2700
+745,rua,Miragem, Vila Regente Feijó,leste,72,2,1500
+746,rua,Serra De Bragança, Vila Gomes Cardim,leste,55,1,3300
+747,rua,Júlio Parigot, Vila Antonieta,leste,60,1,1100
+748,rua,Dona Cecília Santana, Vila Granada,leste,120,2,1650
+749,rua,Pedro Ângelo Cavazóglio, Parque Das Paineiras,leste,65,2,1050
+750,rua,Ferreira De Oliveira, Alto Do Pari,leste,70,2,2500
+751,rua,Dona Vitória Speers,1011,leste,85,2,1900
+752,rua,Henrique Casela, Jardim América Da Penha,leste,47,1,1500
+753,rua,Serra Da Bocaina, Quarta Parada,leste,63,2,1900
+754,rua,Pantojo, Vila Regente Feijó,leste,109,3,2500
+755,rua,Retiro, Maranhão,leste,48,2,1800
+756,rua,Serra De Bragança, Vila Gomes Cardim,leste,35,1,2500
+757,rua,Tomé Ribeiro, Jardim Sapopemba,leste,49,2,1150
+758,rua,Antônio Pizzoli, Vila Santo Estevão,leste,38,1,1200
+759,rua,Antônio De Barros, Vila Carrão,leste,60,2,1850
+760,rua,Barão Do Serro Largo, Vila Regente Feijó,leste,73,2,1470
+761,rua,Santo Antoninho Do Carrão, Vila Carrão,leste,30,1,820
+762,rua,Rosa Mendes, Jardim Penha,leste,49,2,1500
+763,rua,João Barbosa, Cidade Mãe Do Ceu,leste,160,2,2191
+764,rua,Vinte E Nove De Outubro, Vila Matilde,leste,75,3,1750
+765,rua,Rosa Mendes, Jardim Penha,leste,49,2,1500
+766,rua,Cajazeiras, Jardim Casa Pintada,leste,50,2,1250
+767,rua,Umberto Gorgati, Vila Talarico,leste,45,1,1000
+768,rua,Ajuru, Chácara Califórnia,leste,125,2,1500
+769,rua,Coronel José Menezes, Cangaíba,leste,74,2,1100
+770,rua,Doutor João Gualberto De Oliveira, Vila Santana,leste,60,2,1302
+771,rua,Vieira De Morais, Lajeado,leste,127,4,3300
+772,rua,Campo Largo, Vila Bertioga,leste,76,3,2690
+773,rua,Francisco Gouvêia, Quarta Parada,leste,24,1,1100
+774,rua,Pantojo, Vila Regente Feijó,leste,90,3,2338
+775,rua,Emília Marengo, Vila Regente Feijó,leste,65,2,2100
+776,rua,Antero De Quental, Vila Santa Clara,leste,50,2,1650
+777,rua,Reboujo, Chácara Santo Antônio (zona Leste),leste,50,1,2200
+778,rua,Dos Trilhos, Moóca,leste,90,3,2300
+779,rua,Agrimensor Sugaya, Colônia (zona Leste),leste,50,2,1200
+780,rua,Viana Do Castelo, Vila Califórnia,leste,77,1,870
+781,rua,Capitão João Cesário, Penha De Franca,leste,92,3,3500
+782,rua,Xavier Gouveia, Parque Colonial,leste,154,4,13000
+783,rua,Ouricuri, Vila Formosa,leste,36,1,1850
+784,rua,Adélino De Almeida Castilho, Maranhão,leste,130,3,2500
+785,rua,Boleeiro, Itaquera,leste,124,3,3200
+786,rua,Reboujo, Chácara Santo Antônio (zona Leste),leste,50,1,2200
+787,rua,José Alves Dos Santos, Vila Campanela,leste,39,2,1250
+788,rua,Oswaldo Arouca, Vila Formosa,leste,105,2,3700
+789,rua,Madre De Deus, Moóca,leste,92,1,2100
+790,rua,Manuel Leiroz, Vila Penteado,leste,60,2,2000
+791,rua,Arnaldo Vallardi Portilho, Penha De Franca,leste,40,2,1500
+792,rua,Parianas, Jardim Jaú (zona Leste),leste,180,2,3500
+793,rua,Retiro, Maranhão,leste,47,2,1539
+794,rua,Mooca, Moóca,leste,85,2,2117
+795,rua,Bento Gonçalves, Vila Regente Feijó,leste,22,1,1150
+796,rua,Nova Jerusalém, Chácara Santo Antônio (zona Leste),leste,84,3,3000
+797,rua,Rubéns Galvão De França, Parque Boturussu,leste,35,1,600
+798,rua,Do Orfanato, Vila Prudente,leste,34,1,1332
+799,rua,Arnaldo Vallardi Portilho, Penha De Franca,leste,40,1,1100
+800,rua,Bento Gonçalves, Vila Regente Feijó,leste,25,1,1100
+801,rua,Bento Gonçalves, Vila Regente Feijó,leste,25,1,1100
+802,rua,Taquarytinga, Alto Da Mooca,leste,35,1,850
+803,rua,Nossa Senhora Da Penha, Penha De Franca,leste,40,1,1000
+804,rua,Aiamá, Maranhão,leste,22,1,650
+805,rua,Matias João Tavares, Vila Caxambu,leste,35,1,670
+806,rua,Costa Barros, Sítio Pinheirinho,leste,45,2,1200
+807,rua,Ministro Carlos Maximiliano, Jardim Maringá,leste,40,1,550
+808,rua,Lydia Damus Maksoud, Jardim Ampliação,oeste,75,3,1000
+809,rua,Coronel Bento Bicudo, Piqueri,oeste,49,2,1400
+810,rua,Antônio De Almeida Naves 000, Butantã,oeste,90,2,3200
+811,rua,Corinto, Butantã,oeste,70,3,1650
+812,rua,Domingos Mazzeu, Vila Lageado,oeste,55,2,1850
+813,rua,Guaicurus, Água Branca,oeste,180,2,2500
+814,rua,David Ben Gurion, Jardim Monte Kemel,oeste,87,3,1509
+815,rua,Sebastião Cortês, Perdizes,oeste,48,1,2000
+816,rua,Paulo Ribeiro Da Luz, Vila Gomes,oeste,20,1,1100
+817,rua,Bazílio Da Silva, Jardim Monte Alegre,oeste,50,3,1363
+818,rua,João Simões De Souza, Parque Rebouças,oeste,48,2,1719
+819,rua,Cotoxó, Perdizes,oeste,67,1,2100
+820,rua,Antônio Sant#39ana Abranches, Instituto De Previdência,oeste,150,2,3500
+821,rua,Próspero Cesarino Paoliello, Conjunto Residencial Butantã,oeste,40,1,1200
+822,rua,Do Símbolo, Jardim Ampliação,oeste,80,2,950
+823,rua,Mário Zanini, Jardim Pinheiros,oeste,65,2,1386
+824,rua,Heitor Penteado, Sumarezinho,oeste,50,2,2000
+825,rua,Paraguaçu, Perdizes,oeste,105,3,3000
+826,rua,Trajano Reis, Jardim Das Vertentes,oeste,49,2,1650
+827,rua,Croata, Vila Ipojuca,oeste,84,2,2000
+828,rua,Poetisa Colombina, Jardim Bonfiglioli,oeste,60,2,2000
+829,rua,Ibiraçu 76, Vila Madalena,oeste,67,2,3300
+830,rua,Carlos Weber, Vila Leopoldina,oeste,60,2,5000
+831,rua,Alves Guimarães, Pinheiros,oeste,66,1,4900
+832,rua,Carolina Nabuco, Rio Pequeno,oeste,125,2,2200
+833,rua,Acopiara, Alto Da Lapa,oeste,150,3,3600
+834,rua,Vicente Ferreira, Jaguaré,oeste,40,1,1250
+835,rua,Frei Inácio Da Conceição, Vila São Luís,oeste,25,1,1298
+836,rua,Pantaleão Brás, Jardim Ester,oeste,60,2,1350
+837,rua,Catão, Vila Romana,oeste,72,1,1418
+838,rua,Joseph Nigri, Água Branca,oeste,58,2,3700
+839,rua,Hassib Mofarrej, Vila Leopoldina,oeste,35,1,1950
+840,rua,Coronel Camisão, Vila Gomes,oeste,63,2,2000
+841,rua,Professor Artur Ramos, Jardim Paulistano,oeste,44,1,3300
+842,rua,Francisco Luiz De Souza Júnior, Água Branca,oeste,45,2,1590
+844,rua,Barão De Tefé, Água Branca,oeste,106,3,2000
+845,rua,Coriolano, Vila Romana,oeste,127,3,4500
+846,rua,Capote Valente, Pinheiros,oeste,40,1,2800
+847,rua,Senador César Lacerda Vergueiro, Sumarezinho,oeste,80,2,3000
+848,rua,Alves Guimarães, Pinheiros,oeste,87,3,3950
+849,rua,Heitor Ariente, Jardim Das Vertentes,oeste,280,3,3600
+851,rua,Domingos Lopes Da Silva, Vila Suzana,oeste,248,4,2500
+852,rua,Manuel De Carvalho, Piqueri,oeste,35,1,750
+853,rua,Theo Dutra, Jardim Colombo,oeste,205,4,4900
+854,rua,Capote Valente, Pinheiros,oeste,40,1,2550
+855,rua,Poetisa Colombina, Jardim Bonfiglioli,oeste,60,2,1800
+856,rua,Paulo Sergio De Macedo, Lar São Paulo,oeste,76,3,2000
+857,rua,Belmonte, Bela Aliança,oeste,122,2,8000
+858,rua,Professor Paulo Tavares, Vila Hamburguesa,oeste,187,3,5000
+859,rua,Francisco Marcondes Vieira, Lar São Paulo,oeste,120,3,5000
+860,rua,Henrique Chaves, Jardim Ester,oeste,68,3,3500
+861,rua,Comendador Elias Assi, Butantã,oeste,66,2,3500
+862,rua,Diana, Perdizes,oeste,85,2,2100
+863,rua,Geremia Lunardelli, Jardim Peri Peri,oeste,58,2,1400
+864,rua,Azem Abdalla Azem, Jardim Bonfiglioli,oeste,100,2,1500
+865,rua,Josino Bezerra Da Silva, Jardim Ester Yolanda,oeste,75,2,1800
+866,rua,Paes Leme, Pinheiros,oeste,70,2,5600
+867,rua,Arthur Soares De Pinho, Vila Graziela,oeste,40,1,1200
+868,rua,Sebastião Martins, Jardim Bonfiglioli,oeste,70,2,1530
+869,rua,Sansão Alves Dos Santos, Cidade Moncoes,oeste,50,2,3087
+870,rua,Flórida, Cidade Moncoes,oeste,47,1,7200
+871,rua,Capote Valente, Pinheiros,oeste,66,1,3528
+872,rua,Luís Araújo Faria, Jardim Monte Kemel,oeste,126,4,5000
+873,rua,Caraíbas, Perdizes,oeste,120,3,2000
+874,rua,Fernão Dias, Pinheiros,oeste,43,1,4360
+875,rua,Carlos Weber, Vila Leopoldina,oeste,53,2,2700
+876,rua,João Avelino Pinho Mellão, Fazenda Morumbi,oeste,165,4,839
+877,rua,Pio Xi, Alto Da Lapa,oeste,120,3,3300
+878,rua,Pernambuco, Higienópolis,oeste,296,4,10000
+879,rua,Fábia, Vila Romana,oeste,206,3,12000
+880,rua,Critios, Vila Suzana,oeste,185,3,2600
+881,rua,Horácio Lane, Pinheiros,oeste,121,3,9000
+882,rua,Joselyr De Moura Bastos, City América,oeste,136,4,5000
+883,rua,Tomaz Da Mota, Jardim Pinheiros,oeste,157,3,3000
+884,rua,Berlioz, Alto De Pinheiros,oeste,100,4,8200
+885,rua,Doutor Miranda De Azevedo, Vila Anglo Brasileira,oeste,40,1,1350
+886,rua,Tucuna, Perdizes,oeste,55,2,2180
+887,rua,Torres Da Barra, Água Branca,oeste,31,1,1500
+888,rua,Diana, Perdizes,oeste,115,4,4424
+889,rua,Elizabeth Barbegian Baldinato, Vila Suzana,oeste,96,3,3000
+890,rua,Amália De Noronha, Pinheiros,oeste,56,2,3900
+891,rua,São Benedito, Jardim Novo Santo Amaro,oeste,70,2,5000
+892,rua,José De Andrade Moraes, Vila Adalgisa,oeste,94,2,2500
+893,rua,Cardeal Arcoverde, Pinheiros,oeste,42,1,3286
+894,rua,Arruda Alvim, Pinheiros,oeste,45,1,2950
+895,rua,João Simões De Souza, Parque Rebouças,oeste,56,2,1700
+896,rua,Américo Alves Pereira Filho, Vila Morumbi,oeste,200,3,8000
+897,rua,Heitor Penteado, Sumarezinho,oeste,70,2,2000
+898,rua,Capitão Prudente, Pinheiros,oeste,133,3,3300
+899,rua,Hungria, Jardim Europa,oeste,130,2,9000
+900,rua,Marie Nader Calfat, Jardim Ampliação,oeste,37,1,1800
+901,rua,Harmonia, Sumarezinho,oeste,90,2,4700
+902,rua,José Correia Lima, Jardim Felicidade (zona Oeste),oeste,81,3,2357
+903,rua,Pais Leme, Pinheiros,oeste,70,1,6000
+904,rua,Senador César Lacerda Vergueiro, Sumarezinho,oeste,102,3,3500
+905,rua,Roma, Lapa,oeste,62,2,2900
+906,rua,Ourânia, Vila Madalena,oeste,70,2,2500
+907,rua,Maranhão, Higienópolis,oeste,180,3,4800
+908,rua,Professor Celso Quirino Dos Santos, Cidade São Francisco,oeste,62,3,2200
+909,rua,Desembargador Guimarães, Água Branca,oeste,34,1,2713
+910,rua,Francisco Luiz De Souza Júnior, Água Branca,oeste,45,2,2100
+911,rua,Doutor Edmur De Castro Cotti, Jardim Rizzo,oeste,105,2,2500
+912,rua,Manuel Dias De Oliveira, Jardim Alvorada (zona Oeste),oeste,41,2,1500
+913,rua,Roque Petrella, Vila Cordeiro,oeste,51,1,3575
+914,rua,Heinrich Hertz, Cidade Moncoes,oeste,110,3,3000
+915,rua,Alagoas, Higienópolis,oeste,38,1,2250
+916,rua,Pensilvânia, Cidade Moncoes,oeste,178,3,11500
+917,rua,Barão De Jaguara, Conjunto Residencial Morada Do Sol,oeste,45,1,1753
+918,rua,Paraguaçu, Perdizes,oeste,55,1,1880
+919,rua,Diogo Ortiz, Lapa,oeste,140,2,2500
+920,rua,Teodoro Sampaio, Pinheiros,oeste,65,2,4700
+921,rua,Sabará, Higienópolis,oeste,100,2,2500
+922,rua,Joaquim Roseira, Jardim Novo Taboão,oeste,47,2,1500
+923,rua,João Moura, Pinheiros,oeste,26,1,3000
+924,rua,Comendador Elias Assi, Caxingui,oeste,66,2,4000
+925,rua,Bazílio Da Silva, Jardim Monte Alegre,oeste,55,2,1500
+926,rua,Prado Valadares, Vila Polopoli,oeste,80,2,2100
+927,rua,Joaquim Antunes, Pinheiros,oeste,107,3,3700
+928,rua,Agostinho Cantu, Butantã,oeste,64,2,2250
+929,rua,Teodoro Sampaio, Pinheiros,oeste,65,2,4700
+930,rua,Constantino Fraga, Vila Hamburguesa,oeste,65,2,1700
+931,rua,Monte Alegre, Perdizes,oeste,171,3,8500
+932,rua,Arruda Alvim, Pinheiros,oeste,47,1,2650
+933,rua,Itambé, Higienópolis,oeste,96,2,4200
+934,rua,Desembargador Guimarães, Água Branca,oeste,33,1,2537
+935,rua,Francisco Marcondes Vieira, Lar São Paulo,oeste,102,3,3465
+936,rua,Professor Dias Castejon, Jardim Monte Kemel,oeste,70,2,2250
+937,rua,Cláudio, Água Branca,oeste,128,3,3500
+938,rua,Pensilvânia, Cidade Moncoes,oeste,178,4,10431
+939,rua,Pedro Sernagiotti, Parque São Domingos,oeste,162,3,4000
+940,rua,Cláudio Henrique De Paula, Vila Rica,oeste,110,2,1700
+941,rua,Araçatuba, Vila Ipojuca,oeste,150,2,4500
+942,rua,Mateus Grou, Pinheiros,oeste,94,2,5350
+943,rua,Cardoso De Almeida, Perdizes,oeste,170,3,3500
+945,rua,Constantino Fraga, Vila Hamburguesa,oeste,65,2,1500
+946,rua,Doutor Cândido Espinheira, Perdizes,oeste,70,2,2725
+947,rua,Francisco Leitão, Pinheiros,oeste,64,1,3000
+948,rua,Mateus Grou, Pinheiros,oeste,51,1,2500
+949,rua,Santa Crescência, Ferreira,oeste,47,2,1600
+950,rua,Raul Pompéia, Vila Pompéia,oeste,110,4,5000
+951,rua,Ministro Godói, Perdizes,oeste,75,3,2300
+952,rua,Tucuna, Perdizes,oeste,160,4,6000
+953,rua,Doutor Virgílio De Carvalho Pinto, Pinheiros,oeste,40,1,3500
+954,rua,Antônio Aggio, Jardim Ampliação,oeste,165,4,2790
+955,rua,Professor José Horácio Meirelles Teixeira, Vila Suzana,oeste,163,4,5000
+956,rua,Doutor Virgílio De Carvalho Pinto, Pinheiros,oeste,40,1,3500
+957,rua,Roque Petrella, Vila Cordeiro,oeste,96,3,3924
+958,rua,Monte Alegre, Perdizes,oeste,45,1,2100
+960,rua,Manuel Henrique Lopes, Pinheiros,oeste,59,2,2300
+961,rua,Ribeiro De Barros, Vila Anglo Brasileira,oeste,77,3,4000
+962,rua,Ordenações Manuelinas, Vila Morse,oeste,144,3,2500
+963,rua,Coronel Ferreira Leal, Vila Gomes,oeste,50,1,2200
+964,rua,Nicolau Barreto, Vila Cordeiro,oeste,49,1,3200
+965,rua,Teodoro Sampaio, Pinheiros,oeste,60,2,3500
+966,rua,Eusébio De Paiva, Vila Ipojuca,oeste,150,2,4340
+967,rua,Doutor Homem De Melo, Perdizes,oeste,100,2,2900
+968,rua,Dos Pinheiros, Pinheiros,oeste,48,1,2027
+969,rua,Dankmar Adler, Vila Suzana,oeste,122,2,3500
+970,rua,Caiubí, Perdizes,oeste,215,3,10000
+971,rua,Doutor Alfredo Di Vernieri, Conjunto Residencial Butantã,oeste,30,1,1500
+972,rua,Major Rubens Florentino Vaz, Vila Pirajussara,oeste,10,1,1500
+973,rua,Vanderlei, Perdizes,oeste,79,2,2600
+974,rua,Padre Carvalho, Pinheiros,oeste,74,2,3200
+975,rua,Cayowaá, Perdizes,oeste,78,3,3400
+976,rua,Oscar Freire, Pinheiros,oeste,60,1,3800
+977,rua,Jorge Americano, Alto Da Lapa,oeste,110,3,2474
+978,rua,Torres Da Barra, Água Branca,oeste,31,1,1750
+979,rua,Oscar Freire, Jardim Paulistano,oeste,83,2,2500
+980,rua,Alves Guimarães, Pinheiros,oeste,80,2,3200
+981,rua,Tucuna, Perdizes,oeste,120,3,2600
+982,rua,Alves Guimarães, Pinheiros,oeste,33,1,3690
+983,rua,Doutor José Elias, Alto Da Lapa,oeste,60,1,5000
+984,rua,Jorge Americano, Alto Da Lapa,oeste,67,3,2200
+985,rua,Parnamirim, Jaguaré,oeste,63,3,2200
+986,rua,São Manuel, Pinheiros,oeste,110,3,3500
+987,rua,Alves Guimarães, Pinheiros,oeste,33,1,3490
+988,rua,Fradique Coutinho, Pinheiros,oeste,30,1,2700
+989,rua,Oscar Freire, Pinheiros,oeste,125,3,5000
+991,rua,Sansão Alves Dos Santos, Cidade Moncoes,oeste,55,1,5995
+992,rua,Fortunato Ferraz, Vila Anastácio,oeste,49,2,2490
+993,rua,Santa Isabel Do Rio Negro, Jardim Íris,oeste,50,2,1850
+994,rua,Amália De Noronha, Pinheiros,oeste,40,1,2400
+995,rua,Fradique Coutinho, Pinheiros,oeste,22,1,2100
+996,rua,Manuel Guedes, Jardim Europa,oeste,46,1,4000
+997,rua,Do Simbolo, Jardim Ampliação,oeste,72,2,1870
+998,rua,Doutor Luiz Migliano, Jardim Caboré,oeste,150,2,4000
+999,rua,Doutor Luiz Migliano, Jardim Caboré,oeste,64,2,2263
+1001,rua,João Simões De Souza, Parque Rebouças,oeste,75,2,2500
+1002,rua,Cônego Eugênio Leite, Pinheiros,oeste,65,2,3600
+1003,rua,Minerva, Perdizes,oeste,67,2,2455
+1004,rua,Dona Veridiana, Higienópolis,oeste,60,2,2700
+1005,rua,Nicolau Barreto, Vila Cordeiro,oeste,49,1,3200
+1006,rua,Doutor Carlos Aldrovandi, Jardim Parque Morumbi,oeste,53,2,1826
+1007,rua,Butantã, Pinheiros,oeste,120,2,3600
+1008,rua,Pernambuco, Higienópolis,oeste,206,2,8500
+1009,rua,Coronel Camisão, Vila Gomes,oeste,64,2,2500
+1010,rua,Fernão Dias, Pinheiros,oeste,114,2,8535
+1011,rua,Camburiú, Vila Ipojuca,oeste,62,2,3131
+1012,rua,Capote Valente, Pinheiros,oeste,52,1,3300
+1013,rua,Faustolo, Água Branca,oeste,61,2,3000
+1014,rua,Turiassu, Perdizes,oeste,24,1,1880
+1015,rua,Fernão Dias, Pinheiros,oeste,60,1,4000
+1016,rua,Professor Ciridião Buarque, Vila Anglo Brasileira,oeste,42,1,2500
+1017,rua,Flórida, Cidade Moncoes,oeste,100,3,4579
+1018,rua,Cayowaá, Perdizes,oeste,55,1,2904
+1019,rua,Doutor Laerte Setubal, Vila Suzana,oeste,64,2,1960
+1020,rua,Coronel Luís Barroso, Jardim Novo Santo Amaro,oeste,41,1,2240
+1021,rua,Francisco Luís De Souza Júnior, Água Branca,oeste,45,2,1672
+1022,rua,Raul Adalberto De Campos, Vila Madalena,oeste,84,2,2800
+1023,rua,Girassol, Vila Madalena,oeste,112,3,4200
+1024,rua,Cotoxó, Perdizes,oeste,85,2,2443
+1025,rua,Delfina, Vila Madalena,oeste,56,2,5603
+1026,rua,Sansão Alves Dos Santos, Cidade Moncoes,oeste,44,2,3250
+1027,rua,João Moura, Pinheiros,oeste,62,2,4500
+1028,rua,Oscar Freire, Pinheiros,oeste,48,2,4337
+1029,rua,Doutor Cândido Espinheira, Perdizes,oeste,186,5,12000
+1030,rua,Tucuna, Perdizes,oeste,48,1,2599
+1031,rua,Itapicuru, Perdizes,oeste,60,2,2451
+1032,rua,Ministro Ferreira Alves, Perdizes,oeste,75,2,4300
+1033,rua,Piauí, Higienópolis,oeste,130,3,5000
+1034,rua,Arizona, Cidade Moncoes,oeste,43,1,4800
+1035,rua,Itaiteva, Jardim Ampliação,oeste,44,2,1370
+1036,rua,Martinico Prado, Vila Madalena,oeste,160,3,4125
+1037,rua,Mourato Coelho, Pinheiros,oeste,36,1,3750
+1038,rua,Carlos Weber, Vila Leopoldina,oeste,270,3,9000
+1039,rua,Américo Alves Pereira Filho, Vila Morumbi,oeste,220,4,4000
+1040,rua,Nazira Carone, Jardim Ampliação,oeste,49,1,1900
+1041,rua,Mourato Coelho, Pinheiros,oeste,34,1,2794
+1042,rua,Apiacás, Perdizes,oeste,70,2,2100
+1043,rua,Michael Faraday, Cidade Moncoes,oeste,80,2,3694
+1044,rua,Pais Leme, Pinheiros,oeste,90,2,6800
+1045,rua,Croata, Vila Ipojuca,oeste,126,4,3900
+1046,rua,Cayowaá, Perdizes,oeste,81,3,3300
+1047,rua,Oscar Freire, Pinheiros,oeste,180,3,8000
+1048,rua,Lincoln Albuquerque, Perdizes,oeste,206,3,12500
+1049,rua,José De Andrade Moraes, Vila Adalgisa,oeste,65,2,2350
+1050,rua,Quintana, Cidade Moncoes,oeste,54,1,3000
+1051,rua,Venâncio Aires, Vila Pompéia,oeste,101,2,3000
+1052,rua,Joáo Gomes Junior 116, Jardim Bonfiglioli,oeste,125,3,3300
+1053,rua,Pais Leme, Pinheiros,oeste,68,1,5750
+1054,rua,Apinajés, Sumarezinho,oeste,97,3,3566
+1055,rua,Antônio Júlio Dos Santos, Fazenda Morumbi,oeste,47,2,1402
+1056,rua,Guaraiúva,268,oeste,50,2,1850
+1057,rua,Sebastião Gil, Pinheiros,oeste,47,1,2150
+1058,rua,Francisco Leitão, Pinheiros,oeste,58,1,3000
+1059,rua,João Avelino Pinho Mellão, Fazenda Morumbi,oeste,55,2,1445
+1060,rua,Frei Bonifácio Dux, Jardim Colombo,oeste,90,2,1900
+1061,rua,Chico Mana, Vila Analia,oeste,30,1,798
+1062,rua,Alvaro Rodrigues, Vila Cordeiro,oeste,26,1,2776
+1063,rua,Itirapuã, Jardim Iracema,oeste,35,1,1050
+1064,rua,Doutor Osvaldo Mellone, Vila Prel,oeste,30,1,1050
+1065,rua,Mourato Coelho, 1344,oeste,250,3,11000
+1066,rua,Capote Valente, Pinheiros,oeste,35,1,4152
+1067,rua,Alvaro Rodrigues, Vila Cordeiro,oeste,29,1,2776
+1068,rua,Bela Cintra, Consolação,centro,43,1,1200
+1069,rua,Glicério, Liberdade,centro,45,2,1600
+1070,rua,Carneiro Leão, Brás,centro,76,3,1400
+1071,rua,Domingos Paiva, Brás,centro,50,2,3000
+1072,rua,Santo Amaro, Bela Vista,centro,36,1,1000
+1073,rua,Carlos Sampaio, Bela Vista,centro,54,1,1500
+1074,rua,Abolição, Bela Vista,centro,35,1,1100
+1075,rua,Paim, Bela Vista,centro,28,1,800
+1076,rua,Afonso Pena, Bom Retiro,centro,43,2,1700
+1077,rua,Conselheiro Brotero, Santa Cecília,centro,142,3,3500
+1078,rua,Nestor Pestana, Consolação,centro,35,1,1187
+1079,rua,Amaral Gurgel, Consolação,centro,29,1,1093
+1080,rua,24 De Maio, República,centro,58,1,1284
+1081,rua,Guarani, Bom Retiro,centro,80,2,1650
+1082,rua,Carlos Sampaio, Bela Vista,centro,100,3,3000
+1083,rua,Tabatinguera, Sé,centro,23,1,1300
+1084,rua,Álvaro Guimarães, Bela Vista,centro,33,1,3500
+1085,rua,Albuquerque Lins, Santa Cecília,centro,69,1,2500
+1086,rua,Prates, Bom Retiro,centro,120,2,1800
+1087,rua,Doutor Melo Alves, Cerqueira César,centro,269,3,15000
+1088,rua,Da Consolação, Consolação,centro,47,2,2750
+1089,rua,Treze De Maio, Bela Vista,centro,30,1,1300
+1090,rua,Margarida, Barra Funda,centro,70,1,1580
+1091,rua,Ana Cintra, Campos Elíseos,centro,26,1,1100
+1092,rua,Nestor Pestana, Consolação,centro,35,1,1187
+1093,rua,Da Consolação, Consolação,centro,40,1,1838
+1094,rua,Santa Isabel, Vila Buarque,centro,40,1,3200
+1095,rua,Tabatinguera, Sé,centro,42,1,1100
+1096,rua,Martins Fontes, Centro,centro,35,1,1200
+1097,rua,Amaral Gurgel, Vila Buarque,centro,30,1,1443
+1098,rua,Marquês Itu, Vila Buarque,centro,123,3,2838
+1099,rua,Maria Antônia, Vila Buarque,centro,26,1,1428
+1100,rua,Doutor Cesário Mota Júnior, Vila Buarque,centro,82,2,2060
+1101,rua,Jaceguai, Bela Vista,centro,25,1,1229
+1102,rua,Jesuíno Pascoal, Vila Buarque,centro,34,1,1150
+1103,rua,Manoel Dutra, Bela Vista,centro,40,1,1500
+1104,rua,Aurora, Santa Efigênia,centro,36,1,1190
+1105,rua,Frei Caneca, Consolação,centro,60,1,3400
+1106,rua,Martiniano De Carvalho, Bela Vista,centro,97,2,3650
+1107,rua,Afonso Pena, Bom Retiro,centro,43,2,1760
+1108,rua,Vitorino Carmilo, Barra Funda,centro,70,2,1750
+1109,rua,Dona Antônia De Queirós, Consolação,centro,40,1,2000
+1110,rua,Caio Prado, Consolação,centro,64,2,3600
+1111,rua,Tamandaré, Liberdade,centro,31,1,3200
+1112,rua,Afonso Pena, Bom Retiro,centro,42,2,2200
+1113,rua,Domingos Paiva, Brás,centro,57,2,3000
+1114,rua,Lopes De Oliveira, Barra Funda,centro,50,1,1450
+1115,rua,Tagipuru, Barra Funda,centro,55,2,2800
+1116,rua,Lopes De Oliveira, Barra Funda,centro,50,1,1450
+1117,rua,Luís Pachêco, Luz,centro,27,2,1350
+1118,rua,Otto De Alencar, Liberdade,centro,33,1,1450
+1119,rua,Lopes De Oliveira, Barra Funda,centro,50,1,1450
+1120,rua,Lopes De Oliveira, Barra Funda,centro,50,1,1450
+1121,rua,Jaceguai, Bela Vista,centro,38,1,2000
+1122,rua,Santo Amaro, Bela Vista,centro,80,2,4413
+1123,rua,Maria Antônia, Vila Buarque,centro,44,1,1700
+1124,rua,Herculano De Freitas, Bela Vista,centro,34,1,1800
+1125,rua,Doutor Albuquerque Lins, Santa Cecília,centro,97,3,2950
+1126,rua,Frei Caneca, Consolação,centro,24,1,2300
+1127,rua,Itararé, Bela Vista,centro,36,1,2100
+1128,rua,General Jardim, Vila Buarque,centro,100,2,2500
+1129,rua,Tamandaré, Liberdade,centro,32,1,1500
+1130,rua,Melo Alves, Cerqueira César,centro,78,2,4300
+1131,rua,Jaguaribe, Vila Buarque,centro,45,1,2950
+1132,rua,Aurora, Santa Efigênia,centro,48,2,1600
+1133,rua,Francisco Gonçalves De Andrade Machado, Bela Vista,centro,45,1,1400
+1134,rua,Das Carmelitas, Sé,centro,40,1,1200
+1135,rua,Conselheiro Furtado, Liberdade,centro,25,1,1578
+1136,rua,General Jardim, Vila Buarque,centro,100,2,2500
+1137,rua,Frei Caneca, Consolação,centro,50,2,2000
+1138,rua,Bela Cintra, Consolação,centro,45,1,3100
+1139,rua,São Vicente De Paula, Santa Cecília,centro,86,2,4300
+1140,rua,Doutor Plínio Barreto, Bela Vista,centro,52,1,3100
+1141,rua,Conselheiro Furtado, Liberdade,centro,35,1,1000
+1142,rua,Oscar Freire, Cerqueira César,centro,178,3,5900
+1143,rua,Cônego Vicente Miguel Marino, Barra Funda,centro,33,1,1920
+1144,rua,Doutor Penaforte Mendes, Bela Vista,centro,40,1,1500
+1145,rua,Santo Amaro, Bela Vista,centro,60,1,1539
+1147,rua,Baronesa De Itu, Santa Cecília,centro,48,1,2600
+1148,rua,Martinico Prado, Vila Buarque,centro,45,1,2515
+1149,rua,Santo Antônio, Bela Vista,centro,50,1,3200
+1150,rua,Vergueiro, Liberdade,centro,23,1,4350
+1151,rua,Das Palmeiras, Vila Buarque,centro,105,2,2300
+1152,rua,Doutor Roberto Mercatelli, Barra Funda,centro,110,2,3000
+1153,rua,Vitorino Carmilo, Barra Funda,centro,85,2,2500
+1154,rua,Martim Francisco, Vila Buarque,centro,80,2,2500
+1155,rua,São Joaquim, Liberdade,centro,85,2,1800
+1156,rua,São Carlos Do Pinhal, Bela Vista,centro,120,2,4718
+1157,rua,Marquês De Itu, Vila Buarque,centro,40,1,1300
+1158,rua,Dos Franceses, Morro Dos Ingleses,centro,36,1,1600
+1159,rua,Da Consolação, Cerqueira César,centro,98,2,3900
+1160,rua,Coronel Silva Gomes, Canindé,centro,70,2,2500
+1161,rua,Basílio Da Cunha, Vila Deodoro,centro,87,3,1900
+1162,rua,Da Glória, Liberdade,centro,28,1,1900
+1163,rua,Doutor Seng, Bela Vista,centro,46,1,2800
+1164,rua,Glicério, Liberdade,centro,53,2,2700
+1165,rua,Asdrúbal Do Nascimento, Bela Vista,centro,78,1,1400
+1166,rua,Augusta, Consolação,centro,32,1,1321
+1167,rua,Barão De Iguape, Liberdade,centro,45,2,3500
+1168,rua,Aurora, Santa Efigênia,centro,30,1,1900
+1169,rua,Conselheiro Furtado, Liberdade,centro,24,1,2500
+1170,rua,Major Sertório, Vila Buarque,centro,30,1,1800
+1171,rua,Conselheiro Furtado, Liberdade,centro,35,1,1000
+1172,rua,Paim, Bela Vista,centro,74,2,5200
+1173,rua,Brigadeiro Galvão, Barra Funda,centro,47,2,2500
+1174,rua,Martiniano De Carvalho, Bela Vista,centro,50,1,1500
+1175,rua,Glicério, Liberdade,centro,39,1,2000
+1176,rua,Cristiano Viana, Cerqueira César,centro,100,3,3500
+1177,rua,Azevedo Marques, Santa Cecília,centro,78,1,2390
+1178,rua,São Carlos Do Pinhal, Bela Vista,centro,70,1,3150
+1179,rua,Doutor Seng, Bela Vista,centro,50,1,1600
+1180,rua,Imaculada Conceição, Vila Buarque,centro,52,1,2060
+1181,rua,Genebra, Bela Vista,centro,34,1,2431
+1182,rua,Martim Burchard, Brás,centro,45,2,1785
+1183,rua,São Carlos Do Pinhal, Bela Vista,centro,130,2,4700
+1184,rua,Santa Branca, Bela Vista,centro,100,2,4000
+1185,rua,Santo Antônio, Bela Vista,centro,35,1,2800
+1186,rua,Rubens Meireles, Várzea Da Barra Funda,centro,41,1,2400
+1187,rua,Santa Isabel, Vila Buarque,centro,52,2,3800
+1188,rua,Maestro Cardim, Bela Vista,centro,92,2,2350
+1189,rua,Santo Amaro, Bela Vista,centro,30,1,1100
+1190,rua,Matias Aíres, Consolação,centro,115,3,4400
+1191,rua,Bela Cintra, Consolação,centro,47,1,1200
+1192,rua,Bela Cintra, Consolação,centro,80,3,6500
+1193,rua,Dona Antônia De Queirós, Consolação,centro,40,1,2500
+1194,rua,Mesquita, Vila Deodoro,centro,55,2,2200
+1195,rua,Turiassú, Parque Industrial Tomas Edson,centro,25,1,2509
+1196,rua,General Jardim, Vila Buarque,centro,33,1,1200
+1197,rua,Santo Antônio, Bela Vista,centro,170,3,3200
+1198,rua,Frei Caneca, Consolação,centro,30,1,1600
+1199,rua,Frei Caneca, Consolação,centro,24,1,2200
+1200,rua,Doutor Seng, Bela Vista,centro,70,1,3300
+1201,rua,Carlos Sampaio, Bela Vista,centro,42,1,1495
+1202,rua,Washington Luís, Centro,centro,23,1,2400
+1203,rua,Baronesa De Itu, Santa Cecília,centro,84,2,3700
+1204,rua,Martiniano De Carvalho, Bela Vista,centro,56,2,2600
+1205,rua,Doutor Seng, Bela Vista,centro,45,1,2336
+1206,rua,Major Quedinho, Centro,centro,65,2,4400
+1207,rua,Doutor José Manuel, Santa Cecília,centro,50,1,1600
+1208,rua,Albuquerque Lins, Santa Cecília,centro,50,1,2457
+1209,rua,Frei Caneca, Consolação,centro,40,1,1916
+1210,rua,Vitorino Carmilo, Barra Funda,centro,80,2,2500
+1211,rua,Avanhandava, Bela Vista,centro,36,1,2000
+1212,rua,Doutor Gabriel Dos Santos, Santa Cecília,centro,170,3,5000
+1213,rua,Da Consolação, Consolação,centro,55,2,2900
+1214,rua,Tupi, Santa Cecília,centro,55,1,1700
+1216,rua,Das Palmeiras, Vila Buarque,centro,44,1,2500
+1217,rua,Brigadeiro Galvão, Barra Funda,centro,65,2,2200
+1218,rua,Bela Cintra, Consolação,centro,85,2,4000
+1219,rua,Da Consolação, Consolação,centro,35,1,4620
+1220,rua,Dos Franceses, Morro Dos Ingleses,centro,53,1,1650
+1221,rua,Da Consolação, Consolação,centro,39,1,1632
+1222,rua,Basílio Da Cunha, Vila Deodoro,centro,90,3,2800
+1223,rua,Tupi, Santa Cecília,centro,90,2,2600
+1224,rua,Capistrano De Abreu, Barra Funda,centro,50,2,2350
+1225,rua,Maria Antônia, Vila Buarque,centro,32,1,2150
+1226,rua,Vinte E Cinco De Janeiro, Luz,centro,44,2,2200
+1227,rua,Alegria, Brás,centro,40,1,2300
+1228,rua,Augusta, Consolação,centro,88,2,2435
+1229,rua,Frei Caneca, Consolação,centro,40,1,1800
+1231,rua,Bela Cintra, Consolação,centro,44,1,2209
+1232,rua,José Kauer, Brás,centro,35,1,1800
+1233,rua,Barata Ribeiro, Bela Vista,centro,65,2,4200
+1234,rua,Frei Caneca, Consolação,centro,90,2,2900
+1235,rua,Visconde De Parnaíba, Brás,centro,52,2,2970
+1236,rua,Paim, Bela Vista,centro,34,1,10000
+1237,rua,Doutor Cesário Mota Júnior, Vila Buarque,centro,24,1,1490
+1238,rua,Bela Cintra, Consolação,centro,113,3,5700
+1239,rua,Santo Antônio, Bela Vista,centro,48,1,2200
+1240,rua,Caio Prado, Consolação,centro,47,1,2400
+1241,rua,Bela Cintra, Consolação,centro,35,1,1500
+1242,rua,Caio Prado, Consolação,centro,114,2,2800
+1243,rua,Cônego Vicente Miguel Marino, Barra Funda,centro,33,1,1751
+1244,rua,Conselheiro Ramalho, Bela Vista,centro,58,2,2398
+1245,rua,Martiniano De Carvalho, Bela Vista,centro,64,2,3600
+1246,rua,Tamandaré, Liberdade,centro,70,2,4000
+1247,rua,Doutor Brasilio Machado, Santa Cecília,centro,109,2,2600
+1248,rua,Antônio Carlos, Consolação,centro,47,1,2500
+1249,rua,Santo Antônio, Bela Vista,centro,35,1,2430
+1250,rua,Das Palmeiras, Vila Buarque,centro,57,1,2700
+1251,rua,Treze De Maio, Bela Vista,centro,40,1,1500
+1252,rua,Maria José, Bela Vista,centro,88,2,2220
+1253,rua,Tamandaré, Liberdade,centro,39,1,1600
+1254,rua,Bela Cintra, Consolação,centro,180,2,8900
+1255,rua,Álvaro De Carvalho, Centro,centro,44,1,2450
+1256,rua,Doutor Sérgio Meira, Barra Funda,centro,58,2,2100
+1257,rua,Helvétia, Campos Elíseos,centro,35,1,2286
+1258,rua,Bela Cintra, Consolação,centro,48,1,1700
+1259,rua,Artur Prado, Bela Vista,centro,185,3,9000
+1260,rua,Santo Antonio, Bela Vista,centro,65,2,1985
+1261,rua,Vinte E Cinco De Janeiro, Luz,centro,47,2,2100
+1262,rua,Brigadeiro Tobias, Centro,centro,30,1,2330
+1263,rua,Da Consolação, Cerqueira César,centro,58,1,6000
+1264,rua,Adolfo Gordo, Campos Elíseos,centro,37,1,2032
+1265,rua,Carlos Sampaio, Bela Vista,centro,89,2,2600
+1266,rua,Santo Antônio, Bela Vista,centro,35,1,2430
+1267,rua,Major Diogo, Bela Vista,centro,61,2,1900
+1268,rua,Santa Isabel, Vila Buarque,centro,52,2,3390
+1269,rua,Aureliano Coutinho, Vila Buarque,centro,70,2,3400
+1270,rua,Brigadeiro Tobias, Centro,centro,30,1,2430
+1271,rua,Bela Cintra, Consolação,centro,30,1,2846
+1272,rua,Martins Fontes, Centro,centro,200,3,3334
+1273,rua,Helvétia, Campos Elíseos,centro,36,1,2400
+1274,rua,Santo Antônio, Bela Vista,centro,35,1,2300
+1275,rua,Paim, Bela Vista,centro,97,2,2700
+1276,rua,Santo Antônio, Bela Vista,centro,35,1,2542
+1277,rua,Doutor Vila Nova, Vila Buarque,centro,68,2,2137
+1278,rua,Rêgo Freitas, República,centro,20,1,1922
+1279,rua,Albuquerque Lins, Santa Cecília,centro,69,1,2351
+1280,rua,Amaral Gurgel, Consolação,centro,35,1,1700
+1281,rua,Consolação, Cerqueira César,centro,28,1,2100
+1282,rua,Genebra, Bela Vista,centro,38,1,2150
+1283,rua,Da Consolação, Cerqueira César,centro,71,2,3000
+1284,rua,Avanhandava, Bela Vista,centro,28,1,1900
+1285,rua,Da Consolação, Cerqueira César,centro,130,2,4900
+1286,rua,Frei Caneca, Consolação,centro,42,1,1985
+1287,rua,Tupi, Santa Cecília,centro,75,1,2000
+1288,rua,Bela Cintra, Consolação,centro,34,1,3150
+1289,rua,General Rondon, Campos Elíseos,centro,149,2,1980
+1290,rua,Albuquerque Lins, Santa Cecília,centro,60,1,2000
+1291,rua,Frei Caneca, Consolação,centro,24,1,2200
+1292,rua,Washington Luís, Centro,centro,23,1,2500
+1293,rua,Professor Picarolo, Bela Vista,centro,70,2,4000
+1294,rua,Bela Cintra, Consolação,centro,28,1,3200
+1295,rua,Pio Xii, Liberdade,centro,62,2,2600
+1296,rua,Doutor Melo Alves, Cerqueira César,centro,32,1,3300
+1297,rua,Luís Coelho, Consolação,centro,48,1,2125
+1298,rua,Avanhandava, Bela Vista,centro,45,1,1854
+1299,rua,Frei Caneca, Consolação,centro,24,1,2200
+1300,rua,Newton Prado, Bom Retiro,centro,52,2,2300
+1301,rua,Tagipuru, Barra Funda,centro,85,2,3666
+1302,rua,Timbiras, Santa Efigênia,centro,30,1,1500
+1303,rua,Da Consolação, Cerqueira César,centro,183,2,5500
+1304,rua,Santo Amaro, Bela Vista,centro,40,1,1626
+1305,rua,Conselheiro Brotero, Barra Funda,centro,71,3,3300
+1306,rua,Palmeiras, Vila Buarque,centro,42,1,2150
+1307,rua,Prates, Bom Retiro,centro,100,2,2241
+1308,rua,Frei Caneca, Consolação,centro,40,1,2600
+1309,rua,Genebra, Bela Vista,centro,38,1,1955
+1310,rua,Consolação, Consolação,centro,34,1,1300
+1311,rua,Jaraguá, Bom Retiro,centro,57,2,2600
+1312,rua,Luís Pachêco, Luz,centro,27,1,1350
+1313,rua,Doutor Penaforte Mendes, Bela Vista,centro,30,1,1800
+1314,rua,Guaianases, 1508 - Campos Elíseos,centro,39,1,990
+1315,rua,Major Sertório, Vila Buarque,centro,30,1,1500
+1316,rua,Major Sertório, Vila Buarque,centro,35,1,1400
+1317,rua,Manoel Dutra, Bela Vista,centro,50,1,2514
+1318,rua,Da Consolação, Cerqueira César,centro,29,1,1900
+1319,rua,Augusta, Consolação,centro,70,2,2500
+1320,rua,Major Diogo, Bela Vista,centro,40,1,1400
+1321,rua,Frei Caneca, Consolação,centro,30,1,1280
+1322,rua,Luís Pachêco, Luz,centro,27,1,1350
+1323,rua,Conselheiro Ramalho, Bela Vista,centro,30,1,1100
+1324,rua,Bela Cintra, Consolação,centro,43,1,1200
+1325,rua,Doutor Falcão Filho, Centro,centro,28,1,1000
+1326,rua,Bela Cintra, Consolação,centro,47,1,1200
+1327,rua,Bela Cintra, Consolação,centro,50,1,1700
+1328,rua,Conselheiro Nébias, Campos Elíseos,centro,42,1,1200
+1329,rua,Frei Caneca, Consolação,centro,30,1,1500
+1330,rua,Da Consolação, Cerqueira César,centro,30,1,1750
+1331,rua,Jaguaribe, Vila Buarque,centro,61,1,2250
+1332,rua,Adolfo Gordo, Campos Elíseos,centro,30,1,1400
+1333,avenida,Direitos Humanos, Imirim,norte,77,3,1800
+1334,avenida,Basiléia, Lauzane Paulista,norte,52,2,1200
+1335,avenida,Imirim, Imirim,norte,32,1,850
+1336,avenida,Miguel Conejo, Vila Albertina,norte,130,4,3300
+1337,avenida,Conceição, Vila Paiva,norte,33,1,991
+1338,avenida,General Ataliba Leonel, Parada Inglesa,norte,80,3,3200
+1339,avenida,General Ataliba Leonel, Parada Inglesa,norte,75,3,1900
+1340,avenida,Nova Cantareira, Tucuruvi,norte,148,3,4500
+1341,avenida,Álvaro Machado Pedrosa, Parada Inglesa,norte,77,3,2000
+1342,avenida,Álvaro Machado Pedrosa, Parada Inglesa,norte,67,2,1500
+1343,avenida,Casa Verde, Casa Verde,norte,30,1,1000
+1344,avenida,Júlio Buono, Vila Gustavo,norte,143,3,2300
+1345,avenida,Conceição, Vila Paiva,norte,42,1,1000
+1346,avenida,Jaçanã, Jaçanã,norte,51,2,1635
+1347,avenida,Túlio Teodoro De Campos, Vila Paulista,norte,78,3,1695
+1348,avenida,Inajar De Souza, Limão,norte,57,2,2400
+1349,avenida,Rangel Pestana, Jardim Brasília (zona Norte),norte,35,1,1500
+1350,avenida,Tenente Júlio Prado Neves, Vila Albertina,norte,120,3,2000
+1351,avenida,Braz Leme, Santana,norte,83,3,3060
+1352,avenida,Itaberaba, Nossa Senhora Do Ó,norte,110,2,3000
+1353,avenida,Raimundo Pereira De Magalhães, Jardim Peri,norte,36,1,1200
+1354,avenida,Joaquina Ramalho, Vila Guilherme,norte,160,3,2500
+1355,avenida,Henri Janor, Vila Santa Terezinha (zona Norte),norte,70,2,1600
+1356,avenida,General Ataliba Leonel, Santana,norte,80,3,3200
+1357,avenida,Sebastião Henriques, Vila Siqueira (zona Norte),norte,63,3,2700
+1358,avenida,Mazzei, Vila Mazzei,norte,53,2,2200
+1359,avenida,Daniel Malettini, Vila Aurora,norte,67,3,1300
+1360,avenida,Celso Garcia, Jardim Brasília (zona Norte),norte,45,2,2000
+1361,avenida,Doutor Benedito Estevam Dos Santos, Vila Maria Alta,norte,35,1,1000
+1362,avenida,Antônio De Souza Noschese, Jardim Peri,norte,60,2,1700
+1363,avenida,Mofarrej, Jardim Peri,norte,70,2,3750
+1364,avenida,Elísio Teixeira Leite, Vila Brasilândia,norte,97,2,1600
+1365,avenida,Maestro Villa-lobos, Vila Gustavo,norte,70,2,1500
+1366,avenida,Paulo Lincoln Do Valle Pontin, Jaçanã,norte,60,2,1500
+1367,avenida,Santa Inês, Parque Mandaqui,norte,73,3,1700
+1368,avenida,Conceição, Carandiru,norte,70,2,2800
+1369,avenida,Jardim Japão, Jardim Brasil,norte,36,1,860
+1370,avenida,Leôncio De Magalhães, Jardim São Paulo,norte,60,1,1355
+1371,avenida,Fuad Lutfalla, Vila Maria Trindade,norte,50,1,1350
+1372,avenida,Mazzei, Vila Mazzei,norte,60,1,1108
+1373,avenida,José Maria Fernandes, Parque Novo Mundo,norte,58,2,1500
+1374,avenida,Guapira, Tucuruvi,norte,42,1,1600
+1375,avenida,Parada Pinto, Vila Nova Cachoeirinha,norte,72,3,1400
+1376,avenida,Jardim Japão, Jardim Brasil,norte,36,1,968
+1377,avenida,Cônego José Salomon, Jardim Peri,norte,70,2,1200
+1378,avenida,Elísio Teixeira Leite, Vila Brasilândia,norte,49,2,1650
+1379,avenida,Milton Da Rocha, Vila Sabrina,norte,40,1,1000
+1380,avenida,Milton Da Rocha, Vila Sabrina,norte,40,1,1100
+1381,avenida,Júlio Buono, Vila Gustavo,norte,60,2,2600
+1382,avenida,Imirim, Imirim,norte,55,2,1800
+1383,avenida,Ordem E Progresso, Jardim Das Laranjeiras,norte,100,3,1850
+1384,avenida,João Pessoa, Lauzane Paulista,norte,56,2,1600
+1385,avenida,Professora Virgília Rodrigues Alves De Carvalho Pinto, Jardim Leonor Mendes De Barros,norte,50,2,1790
+1386,avenida,Paula Ferreira, Freguesia Do Ó,norte,89,2,2250
+1387,avenida,Daniel Malettini, Vila Aurora,norte,70,3,1300
+1388,avenida,Leonardo Da Vinci, Vila Guarani (z Sul),sul,65,2,1400
+1389,avenida,Benigno Carrera, Vila Campestre,sul,35,1,900
+1390,avenida,Lacerda Franco, Cambuci,sul,68,2,1500
+1391,avenida,Macuco, Moema,sul,60,2,2600
+1392,avenida,Ibirapuera, Indianópolis,sul,27,1,792
+1393,avenida,Santo Amaro, Brooklin Paulista,sul,75,2,1700
+1395,avenida,Cupecê, Jardim Prudência,sul,64,2,2100
+1396,avenida,Itaboraí, Bosque Da Saúde,sul,56,2,1600
+1397,avenida,Moema, Moema,sul,30,1,1800
+1398,avenida,Dos Carinás, Indianópolis,sul,63,2,3200
+1399,avenida,Nove De Julho, Jardim Paulista,sul,110,3,4000
+1400,avenida,Engenheiro Armando De Arruda Pereira, Jabaquara,sul,59,2,1762
+1401,avenida,Brigadeiro Luís Antônio, Jardim Paulista,sul,105,3,3751
+1402,avenida,Nhandú, Planalto Paulista,sul,15,1,1200
+1403,avenida,Nove De Julho, Jardim Paulista,sul,98,2,4000
+1404,avenida,Dos Ourives, Jardim São Savério,sul,42,2,1140
+1405,avenida,Coronel José Píres De Andrade, Vila Moinho Velho,sul,86,2,3960
+1406,avenida,Chibarás, Moema,sul,41,1,2500
+1407,avenida,Dos Ourives, Jardim São Savério,sul,64,2,1600
+1408,avenida,Cupecê, Jardim Prudência,sul,40,2,1700
+1409,avenida,Lins De Vasconcelos, Vila Mariana,sul,34,1,1400
+1410,avenida,Dos Ourives, Jardim São Savério,sul,50,2,1272
+1411,avenida,Mascote, Vila Mascote,sul,41,1,2000
+1412,avenida,Fagundes Filho, Vila Monte Alegre,sul,72,2,1900
+1413,avenida,Sargento Geraldo Sant’ana, Jardim Taquaral,sul,70,2,2200
+1414,avenida,Fagundes Filho, Vila Monte Alegre,sul,54,2,1800
+1415,avenida,Giovanni Gronchi, Vila Andrade,sul,98,3,2400
+1416,avenida,Miguel Yunes, Usina Piratininga,sul,62,2,2200
+1417,avenida,Água Funda, Vila Guarani (z Sul),sul,250,5,4000
+1419,avenida,Francisco Rodrigues, Vila Constança,sul,260,3,4500
+1420,avenida,Sargento Geraldo Sant#39ana, Jardim Taquaral,sul,70,3,1600
+1421,avenida,Dos Carinás, Indianópolis,sul,25,1,3000
+1422,avenida,Rouxinol, Indianópolis,sul,110,3,3050
+1423,avenida,Duquesa De Goiás, Real Parque,sul,37,1,1569
+1424,avenida,Itaboraí, Bosque Da Saúde,sul,98,2,3900
+1425,avenida,Santo Amaro, Brooklin Paulista,sul,59,2,5900
+1426,avenida,Giovanni Gronchi, Vila Andrade,sul,56,2,1217
+1427,avenida,Tiradentes, Cidade Luz,sul,49,2,1900
+1428,avenida,Adolfo Pinheiro, Santo Amaro,sul,94,3,2900
+1429,avenida,Santo Amaro, Brooklin Paulista,sul,75,2,1900
+1430,avenida,Santo Amaro, Brooklin Paulista,sul,75,1,1900
+1431,avenida,Macuco, Moema,sul,80,2,4900
+1432,avenida,Dos Ourives, Jardim São Savério,sul,40,2,1300
+1433,avenida,Professor Francisco Morato, Vila Sônia,sul,67,2,2900
+1434,avenida,Presidente Juscelino Kubitschek, Vila Nova Conceição,sul,54,1,7000
+1435,avenida,Fagundes Filho, Vila Monte Alegre,sul,60,2,3000
+1436,avenida,Conselheiro Rodrigues Alves 751, Vila Mariana,sul,50,1,3000
+1437,avenida,Portugal, Brooklin Paulista,sul,49,1,4000
+1438,avenida,Jandira, Indianópolis,sul,120,3,4700
+1439,avenida,Doutor Lino De Moraes Leme, Jardim Aeroporto,sul,128,3,2500
+1440,avenida,Doutor Altino Arantes, Vila Clementino,sul,100,2,11000
+1441,avenida,Pavão, Indianópolis,sul,50,2,3300
+1442,avenida,Jacutinga, Indianópolis,sul,68,2,3300
+1443,avenida,Jandira, Indianópolis,sul,120,3,6000
+1444,avenida,Dos Carinás, Indianópolis,sul,26,1,3500
+1445,avenida,Agami, Moema,sul,85,2,3200
+1446,avenida,Professor Alceu Maynard Araújo, Vila Cruzeiro,sul,173,3,8000
+1447,avenida,Francisco Nóbrega Barbosa, Parque Alves De Lima,sul,75,2,3690
+1448,avenida,Ibiúna, Vila Aricanduva,leste,65,2,1100
+1449,avenida,Inconfidência Mineira, Vila Antonieta,leste,30,1,864
+1450,avenida,Montemagno, Vila Formosa,leste,40,1,1100
+1451,avenida,Paes De Barros, Moóca,leste,110,3,2350
+1452,avenida,Águia De Haia, Parque Paineiras,leste,60,2,800
+1453,avenida,Celso Garcia, Tatuapé,leste,290,4,3200
+1454,avenida,Conselheiro Carrão, Chácara Califórnia,leste,54,2,1322
+1456,avenida,Marcondes De Brito, Chácara Seis De Outubro,leste,65,2,1300
+1457,avenida,Vila Ema, Vila Ema,leste,82,2,1350
+1458,avenida,Guilherme Giorgi, Vila Carrão,leste,145,3,3700
+1459,avenida,Matapi, Jardim Santa Terezinha (zona Leste),leste,48,2,800
+1460,avenida,Doutor Assis Ribeiro, Engenheiro Goulart,leste,50,2,1300
+1461,avenida,Vila Ema, Vila Prudente,leste,70,3,2061
+1462,avenida,Celso Garcia, Tatuapé,leste,80,3,2430
+1463,avenida,São Miguel, Vila Marieta,leste,74,2,1700
+1464,avenida,Ibiúna, Vila Aricanduva,leste,42,1,1350
+1465,avenida,Líder, Cidade Líder,leste,43,2,1300
+1466,avenida,Waldemar Tietz, Conjunto Habitacional Padre José De Anchieta,leste,65,2,1250
+1467,avenida,Vila Ema, Vila Ema,leste,58,2,1800
+1468,avenida,Alberto Ramos, Jardim Independencia,leste,63,3,1700
+1469,avenida,Olavo Egídio De Souza Aranha, Parque Císper,leste,65,3,1300
+1470,avenida,Sapopemba, Sapopemba,leste,56,2,1500
+1471,avenida,Sapopemba, Sapopemba,leste,56,2,1400
+1472,avenida,Cassandoca, Moóca,leste,70,3,2306
+1473,avenida,Dezenove De Janeiro, Vila Carrão,leste,60,2,2200
+1474,avenida,Paes De Barros, Moóca,leste,257,4,5000
+1475,avenida,Doutor Assis Ribeiro, Engenheiro Goulart,leste,90,2,1400
+1476,avenida,Regente Feijó, Vila Regente Feijó,leste,68,3,4200
+1477,avenida,Regente Feijó, Vila Regente Feijó,leste,55,1,4400
+1478,avenida,Conselheiro Carrão, Vila Carrão,leste,55,2,2100
+1479,avenida,Doutor Francisco Mesquita, Quinta Da Paineira,leste,38,1,1886
+1480,avenida,Doutor Orêncio Vidigal, Vila Carlos De Campos,leste,75,3,2123
+1481,avenida,Doutor Francisco Mesquita, Quinta Da Paineira,leste,36,1,1319
+1482,avenida,Melchert,  439,leste,39,2,1500
+1483,avenida,Doutor João Guimarães, Jardim Taboão,oeste,70,2,900
+1484,avenida,Do Anastacio, City América,oeste,63,3,1500
+1485,avenida,Aparecida Do Rio Negro, Jardim Íris,oeste,45,2,1420
+1486,avenida,Sumaré, Perdizes,oeste,105,2,2100
+1487,avenida,Doutor Gastão Vidigal, Vila Leopoldina,oeste,93,2,3800
+1488,avenida,Raimundo Pereira De Magalhães, Vila Anastácio,oeste,130,4,6500
+1489,avenida,Mofarrej, Vila Leopoldina,oeste,80,2,3500
+1490,avenida,Interlagos, Jardim Umuarama,oeste,67,3,2300
+1492,avenida,Anastácio, City América,oeste,51,2,2450
+1493,avenida,Imperatriz Leopoldina, Vila Leopoldina,oeste,45,1,1524
+1494,avenida,Albert Bartholome, Jardim Das Vertentes,oeste,64,2,2700
+1495,avenida,Albert Bartholome, Jardim Das Vertentes,oeste,83,3,2962
+1496,avenida,Engenheiro Luiz Carlos Berrini, Cidade Moncoes,oeste,69,2,4080
+1498,avenida,Interlagos, Jardim Umuarama,oeste,72,3,2720
+1499,avenida,Pedroso De Morais, Pinheiros,oeste,50,2,2500
+1500,avenida,Mofarrej, Vila Leopoldina,oeste,70,1,3500
+1501,avenida,Eliseu De Almeida, Instituto De Previdência,oeste,50,2,3400
+1502,avenida,Engenheiro Heitor Antônio Eiras García, Jardim Esmeralda,oeste,41,2,1100
+1503,avenida,Otacílio Tomanik, Vila Polopoli,oeste,70,2,1500
+1504,avenida,Nossa Senhora Da Assunção, Vila Butantã,oeste,20,1,750
+1505,avenida,Ernesto Igel, Lapa,oeste,70,3,3100
+1506,avenida,Doutora Ruth Cardoso, Pinheiros,oeste,95,2,3500
+1507,avenida,Diógenes Ribeiro De Lima, Alto Da Lapa,oeste,63,2,4000
+1508,avenida,Miguel Frias E Vasconcelos, Jaguaré,oeste,54,2,1000
+1509,avenida,Raimundo Pereira De Magalhães, Jardim Íris,oeste,45,2,1800
+1510,avenida,Marechal Mário Guedes, Jaguaré,oeste,70,3,2625
+1511,avenida,Marechal Fiuza De Castro, Jardim Pinheiros,oeste,50,2,1300
+1512,avenida,Marechal Fiuza De Castro, Jardim Pinheiros,oeste,47,2,1450
+1513,avenida,Albert Bartholome, Jardim Das Vertentes,oeste,82,3,2700
+1514,avenida,José Joaquim Seabra, Jardim Ivana,oeste,70,2,2000
+1515,avenida,Jaguaré, Jaguaré,oeste,69,2,1275
+1516,avenida,Benedito De Lima, Vila Antônio,oeste,150,5,3500
+1517,avenida,Das Nações Unidas, Pinheiros,oeste,93,3,3000
+1518,avenida,Padre Antônio José Dos Santos, Cidade Moncoes,oeste,80,3,2300
+1519,avenida,Marechal Juarez Távora, Super Quadra Morumbi,oeste,180,3,3700
+1520,avenida,Anacé, Jardim Umarizal,oeste,66,2,3000
+1521,avenida,Higienópolis, Higienópolis,oeste,50,1,2600
+1522,avenida,Engenheiro Luiz Carlos Berrini, Cidade Moncoes,oeste,87,2,6100
+1523,avenida,Pompéia, Vila Pompéia,oeste,56,2,4023
+1524,avenida,Marquês De São Vicente, Água Branca,oeste,76,2,3900
+1525,avenida,Nossa Senhora Da Assunção, Vila Butantã,oeste,73,3,2050
+1526,avenida,Diógenes Ribeiro De Lima, Alto Da Lapa,oeste,84,2,3100
+1527,avenida,Dona Helena Pereira De Moraes, Parque Do Morumbi,oeste,142,3,5500
+1528,avenida,Doutor Guilherme Dumont Vilares, Jardim Londrina,oeste,116,2,3500
+1529,avenida,Ernesto Igel, Lapa,oeste,70,2,3700
+1530,avenida,Escola Politécnica, Rio Pequeno,oeste,50,2,1400
+1531,avenida,Francisco Matarazzo, Água Branca,oeste,20,1,2000
+1532,avenida,Pablo 987, Jardim Bonfiglioli,oeste,80,2,1500
+1533,avenida,Mofarrej, Vila Leopoldina,oeste,70,1,3500
+1534,avenida,Rebouças, Pinheiros,oeste,37,1,4350
+1535,avenida,Rangel Pestana, Brás,centro,40,1,950
+1536,avenida,Rio Branco, Campos Elíseos,centro,84,1,1650
+1537,avenida,São João, Santa Cecília,centro,42,1,1250
+1538,avenida,Nove De Julho, Bela Vista,centro,56,2,1800
+1539,avenida,9 De Julho, Bela Vista,centro,144,2,2800
+1540,avenida,Duque De Caxias, Campos Elíseos,centro,50,1,1260
+1541,avenida,Duque De Caxias, Campos Elíseos,centro,52,2,2500
+1542,avenida,São João, Santa Cecília,centro,43,1,1500
+1543,avenida,São João, Santa Cecília,centro,66,2,2200
+1544,avenida,Celso Garcia, Brás,centro,56,2,1700
+1545,avenida,Ipiranga, República,centro,30,1,1300
+1546,avenida,São João, Santa Cecília,centro,32,1,1224
+1547,avenida,Nove De Julho, Bela Vista,centro,29,1,1350
+1549,avenida,Nove De Julho, Bela Vista,centro,50,3,1853
+1550,avenida,Duque De Caxias, Campos Elíseos,centro,26,1,2300
+1551,avenida,Ipiranga, República,centro,50,2,1500
+1552,avenida,Brigadeiro Luís Antônio, Bela Vista,centro,118,3,3412
+1553,avenida,Duque De Caxias, Campos Elíseos,centro,38,1,1360
+1554,avenida,Nove De Julho, Bela Vista,centro,38,1,2200
+1555,avenida,Cásper Líbero, Centro,centro,25,1,2700
+1556,avenida,Angélica, Santa Cecília,centro,140,3,4650
+1557,avenida,São João, Santa Cecília,centro,40,1,1700
+1558,avenida,Angélica, Santa Cecília,centro,193,3,12000
+1559,avenida,Alcântara Machado, Brás,centro,53,1,1170
+1560,avenida,Vieira De Carvalho, República,centro,32,1,1150
+1561,avenida,Paulista, Bela Vista,centro,107,3,3605
+1562,avenida,Cásper Líbero, Centro,centro,50,1,1426
+1563,avenida,Nove De Julho, Bela Vista,centro,40,1,2177
+1564,avenida,São João, República,centro,90,1,1100
+1565,avenida,Santana, Centro,centro,45,1,950
+1566,avenida,Nove De Julho, Bela Vista,centro,33,1,1000
+1567,avenida,Nove De Julho, Bela Vista,centro,22,1,1200
+1568,avenida,São João, Santa Cecília,centro,33,1,1400
+1569,alameda,Afonso Schmidt, Santa Teresinha,norte,30,1,916
+1570,alameda,Joaquim Eugênio De Lima, Jardim Paulistano (zona Norte),norte,50,1,2225
+1571,alameda,Campinas, Jardim Paulista,sul,110,2,4600
+1572,alameda,Jaú, Jardim Paulista,sul,155,3,2900
+1573,alameda,Casa Branca, Jardim Paulista,sul,40,1,3100
+1574,alameda,Joaquim Eugênio De Lima, Jardim Paulista,sul,82,2,3900
+1575,alameda,Jaú, Jardim Paulista,sul,60,2,3000
+1576,alameda,Lorena, Jardim Paulista,sul,50,2,3000
+1577,alameda,Itu, Jardim Paulista,sul,106,3,3500
+1578,alameda,Joaquim Eugênio De Lima, Jardim Paulista,sul,45,1,2000
+1579,alameda,Lorena, Jardim Paulista,sul,29,1,1600
+1580,alameda,Dos Jurupis, Indianópolis,sul,40,1,1790
+1581,alameda,Joaquim Eugênio De Lima, Jardim Paulista,sul,45,1,2000
+1582,alameda,Campinas, Jardim Paulista,sul,31,1,1434
+1583,alameda,Dos Tacaúnas, Lajeado,leste,156,3,3350
+1584,alameda,Eduardo Prado, Campos Elíseos,centro,33,1,1200
+1585,alameda,Santos, Cerqueira César,centro,30,1,1950
+1586,alameda,Santos, Cerqueira César,centro,23,1,1875
+1587,alameda,Ministro Rocha Azevedo, Cerqueira César,centro,51,1,3400
+1588,alameda,Barão De Limeira, Campos Elíseos,centro,115,2,2300
+1589,alameda,Ministro Rocha Azevedo, Cerqueira César,centro,107,1,14000
+1590,alameda,Barão Limeira, Campos Elíseos,centro,35,1,990
+1591,alameda,Barros, Santa Cecília,centro,54,2,2756
+1592,alameda,Barão De Limeira, Campos Elíseos,centro,75,2,2300
+1593,alameda,Glete, Campos Elíseos,centro,87,2,2060
+1594,alameda,Dino Bueno, Campos Elíseos,centro,54,1,1400
+1595,alameda,Santos, Cerqueira César,centro,23,1,1875
+1596,alameda,Olga, Barra Funda,centro,51,1,3150
+1597,alameda,Ministro Rocha Azevedo, Cerqueira César,centro,78,2,6700
+1598,alameda,Ministro Rocha Azevedo, Cerqueira César,centro,55,1,5500
+1599,alameda,Eduardo Prado, Campos Elíseos,centro,30,1,900
+1600,praca,Nami Jafet, Ipiranga,sul,130,4,3900
+1601,praca,Doutor Pereira Do Rego, Cidade Patriarca,leste,80,2,1067
+1602,praca,General Gentil Falcão, Cidade Moncoes,oeste,96,2,4000
+1604,praca,General Gentil Falcão, Cidade Moncoes,oeste,80,2,3000
+1605,praca,Santo Epifânio, Vila Indiana,oeste,18,1,1400
+1606,praca,Marechal Deodoro, Santa Cecília,centro,98,2,2600
+1607,praca,Quatorze Bis, Bela Vista,centro,72,2,2850
+1608,praca,Júlio Mesquita, Santa Efigênia,centro,46,1,1534
+1609,praca,Da República, República,centro,28,1,2500
+1610,praca,Marechal Deodoro, Santa Cecília,centro,77,2,1900
+1611,praca,Marechal Deodoro, Santa Cecília,centro,70,1,2000
+1612,praca,Júlio Mesquita, Santa Efigênia,centro,45,1,3000
+1613,praca,Da República, República,centro,39,1,2400
+1614,avenida,Conceição, Vila Paiva,norte,55,2,2134
+1615,avenida,Nossa Senhora Do Loreto 237, Vila Medeiros,norte,35,1,1100
+1616,avenida,Interlagos, Interlagos,sul,74,3,1900
+1617,avenida,Paranaguá, Jardim Matarazzo,leste,55,2,995
+1618,avenida,Prof. Alfonso Bovero, Perdizes,oeste,53,2,2349
+1619,travessa,B, Vila Gustavo,norte,40,1,990
+1620,travessa,Manuel Fraga, Vila Nova Mazzei,norte,180,3,3000
+1621,travessa,Barra Do Ribeiro, Vila Barbosa,norte,69,1,766
+1622,travessa,Preciosa, Lauzane Paulista,norte,40,1,900
+1623,rua,Dr. Miranda De Azevedo, Vila Pompéia,oeste,110,3,4500
+1624,rua,Monte Alegre, Perdizes,oeste,135,4,3800
+1625,rua,Álvaro De Carvalho, Centro,centro,48,1,2200
+1626,rua,Das Tâmaras, Vila Paulista,norte,30,1,900
+1627,rua,Sílvio De Moura, Vila Dom Pedro Ii,norte,87,3,2700
+1628,rua,Major Quedinho, Centro,centro,27,1,1000
+1629,avenida,Maestro Villa Lobos, Vila Gustavo,norte,60,2,1600
