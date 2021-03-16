@@ -1,1634 +1,2336 @@
-logradouro,nome_logradouro,bairro,zona,area,quartos,aluguel
-rua,José Timotheo Da Silva, Jardim Peri,norte,51,2,950
-rua,Plinio Colás, Lauzane Paulista,norte,126,3,2500
-rua,Doutor Gabriel Covelli, Parque Peruche,norte,55,1,900
-rua,Dos Camarés  150, Carandiru,norte,58,2,1490
-rua,Francisco Da Lira, Jardim Leonor Mendes De Barros,norte,96,2,1211
-rua,Nossa Senhora Operária, Vila Guilherme,norte,33,1,1000
-rua,Custódio José Duarte, Vila Ede,norte,50,2,950
-rua,Campo Comprido, Vila Romero,norte,120,3,1278
-rua,Ladeira Velha, Freguesia Do Ó,norte,64,2,1220
-rua,Professor Dário Ribeiro, Vila Prado,norte,30,1,700
-rua,Professor Paul Hugon, Vila Aurora,norte,100,3,2600
-rua,Piratininga, Jardim Brasília (zona Norte),norte,58,2,1900
-rua,Tomé De Lara, Tucuruvi,norte,150,3,3950
-rua,Itanhangá, Tucuruvi,norte,212,3,3500
-rua,Duarte De Azevedo, Santana,norte,78,2,1800
-rua,Nicolau Tolentino De Almeida, Vila Dionisia,norte,55,2,1300
-rua,Mére Marie Anais De Sion, Vila Cachoeira,norte,60,2,1415
-rua,Desembargador Euclides Da Silveira, Casa Verde,norte,50,1,2500
-rua,Antonieta Leitão, Nossa Senhora Do Ó,norte,75,1,1400
-rua,Pelegrino, Jardim Do Colégio (zona Norte),norte,50,1,1350
-rua,Eurico Sodré, Vila Medeiros,norte,40,1,681
-rua,Itamonte, Vila Medeiros,norte,60,1,1040
-rua,Carlos Adalberto Ilha Macedo, Vila Nova Mazzei,norte,70,2,1500
-rua,Desembargador Euclides Da Silveira, Casa Verde,norte,49,1,2400
-rua,Corneteiro Jesus, Jardim Felicidade (zona Norte),norte,50,1,1000
-rua,Conselheiro Moreira De Barros, Santana,norte,116,3,1500
-rua,Desembargador Euclides Da Silveira, Casa Verde,norte,49,1,2550
-rua,Sete Barras, Nossa Senhora Do Ó,norte,70,3,2340
-rua,Dom Luís Felipe De Orleans, Vila Maria Baixa,norte,450,4,4500
-rua,Voluntários Da Pátria, Santana,norte,29,1,3300
-rua,Maestro Antão Fernandes, Jardim São Bento,norte,350,1,10000
-rua,Amambaí, Vila Maria Baixa,norte,40,1,1350
-rua,Piracema, Santa Teresinha,norte,60,2,1980
-rua,José Barreto Dos Santos, Vila Mangalot,norte,70,3,1550
-rua,Ite, Vila Guilherme,norte,92,2,1800
-rua,Copacabana, Santa Teresinha,norte,60,2,1526
-rua,Sílvio Rodini, Vila Dom Pedro Ii,norte,60,2,1300
-rua,Itaúna, Vila Maria Baixa,norte,59,3,2500
-rua,Doutor Luiz Zamenhof, Jardim Paraíso,norte,160,3,4000
-rua,Francisco Raposo, Vila Nova Mazzei,norte,150,2,1400
-rua,Garção Tinoco, Santana,norte,68,2,1700
-rua,Mariquinha Viana, Água Fria,norte,34,1,1000
-rua,Padre Venâncio De Resende, Vila Bandeirantes,norte,25,2,850
-rua,José Ferreira De Castro, Vila Amélia,norte,50,2,1200
-rua,Epaminondas Melo Do Amaral, Sítio Do Mandaqui,norte,59,2,1100
-rua,21 De Abril, Jardim Brasília (zona Norte),norte,90,2,1800
-rua,Da Esperança, Vila Medeiros,norte,246,6,5000
-rua,Soror Angélica, Vila Ester (zona Norte),norte,179,3,3500
-rua,Hamburgo, Vila Gustavo,norte,52,2,1800
-rua,Adlai Stevenson, Vila Ester (zona Norte),norte,40,1,1300
-rua,Manuel Cherem, Vila Paulista,norte,60,2,2000
-rua,Aroaba, Jardim Peri,norte,78,2,2500
-rua,Doutor Zuquim, Santana,norte,74,2,2000
-rua,Sílvio Rodini, Vila Dom Pedro Ii,norte,63,2,1400
-rua,Eurico Sodré, Vila Medeiros,norte,30,1,500
-rua,Felício Tarabay, Barro Branco,norte,400,4,7000
-rua,Professor José Miziara, Santa Teresinha,norte,62,2,2000
-rua,Do Imperador, Vila Paiva,norte,70,3,2000
-rua,Doutor Heitor Nascimento, Nossa Senhora Do Ó,norte,70,2,1400
-rua,Paulo César, Vila Mazzei,norte,54,2,1200
-rua,Cônego Manuel Vaz, Santana,norte,162,3,2500
-rua,Hintem Martins, Parque Edu Chaves,norte,180,3,2500
-rua,Raul Dias, Parque Mandaqui,norte,90,3,2180
-rua,Jorge Valim, Vila Ester (zona Norte),norte,89,3,2630
-rua,Ventura Carneiro, Vila Celeste,norte,42,2,1150
-rua,Conselheiro Moreira De Barros, Lauzane Paulista,norte,72,2,1600
-rua,Almirante Noronha, Jardim São Paulo,norte,173,3,2700
-rua,Maria Cândida, Vila Guilherme,norte,150,3,2700
-rua,Cadete Ruytemberg Rocha, Parque Mandaqui,norte,200,5,2600
-rua,Aragão, Vila Mazzei,norte,40,1,1200
-rua,Caraputinga, Vila América,norte,200,3,3000
-rua,Major Dantas Cortez, Vila Gustavo,norte,53,2,2000
-rua,Garcia Rodrigues, Parque Mandaqui,norte,91,3,1900
-rua,Antônio Clemente, Jardim São Paulo,norte,60,2,1850
-rua,Lúcia Caiaffa, Vila Pereira Barreto,norte,98,3,1800
-rua,Doutor Gabriel Resende Filho, Chora Menino,norte,47,1,1200
-rua,Voluntários Da Pátria, Santana,norte,92,3,4000
-rua,Capitão Sérvio Rodrigues Caldas, Vila Dom Pedro Ii,norte,76,3,2300
-rua,Pero Vidal, Parque Vitória,norte,75,2,1500
-rua,Dráusio Giunchetti Rusin, Jardim Rossin,norte,150,4,4500
-rua,João Martins Bueno, Vila Nivi,norte,70,2,1700
-rua,Daniel Rossi, Santana,norte,152,3,7100
-rua,Barra Da Jangada, Parada Inglesa,norte,65,2,1700
-rua,Purus, Vila Mazzei,norte,44,2,1600
-rua,Itaici, Santa Teresinha,norte,42,2,2200
-rua,Almirante Noronha, Jardim São Paulo,norte,72,2,1600
-rua,Doutor Guilherme Cristoffel, Santana,norte,139,4,3000
-rua,Capitão Gustavo Lauro Korte, Vila Nova Mazzei,norte,60,2,1500
-rua,Guerino Giovani Leardini, Vila Barreto,norte,60,2,1600
-rua,Francisco Lipi, Jardim Vila Rica,norte,74,2,1500
-rua,Francisca Júlia, Santana,norte,210,4,5700
-rua,Aguará, Vila Carbone,norte,110,3,1702
-rua,Genova, Jardim Leonor Mendes De Barros,norte,240,3,6000
-rua,Paulino De Brito, Jardim Brasil,norte,55,2,1500
-rua,Professor Oliveira E Sousa, Vila Cavaton,norte,36,1,650
-rua,Doutor Olavo Egídio, Santana,norte,60,1,2900
-rua,Garcia Rodrigues, Parque Mandaqui,norte,79,2,1250
-rua,Marieta Da Silva, Vila Guilherme,norte,95,2,2200
-rua,Voluntários Da Pátria, Santana,norte,60,2,2507
-rua,Juan Arfe, Vila Cruz Das Almas,norte,48,2,1200
-rua,Henrique Leitão, Vila Maria Alta,norte,35,1,1110
-rua,Doutor Estevão Montebelo, Vila Picinin,norte,90,3,2600
-rua,Borges, Parada Inglesa,norte,46,2,2500
-rua,Doutor Ângelo Vita, Vila Zilda,norte,280,4,6000
-rua,Vicente Ferreira Leite, Vila Siqueira (zona Norte),norte,49,2,1400
-rua,Said Saad, Vila Amália,norte,30,1,770
-rua,Quedas, Vila Isolina Mazzei,norte,180,4,4200
-rua,Itaici, Santa Teresinha,norte,42,2,2200
-rua,Padre Leão Peruche, Vila Mazzei,norte,45,1,1500
-rua,Jesuíno De Brito, Freguesia Do Ó,norte,98,3,2100
-rua,Judith Zumkeller, Parque Mandaqui,norte,52,2,1800
-rua,Da Bica, Jardim Peri,norte,90,3,3200
-rua,Juan Arfe, Vila Cruz Das Almas,norte,50,2,1236
-rua,Barra Da Jangada, Parada Inglesa,norte,65,2,1700
-rua,Barra Da Jangada, Parada Inglesa,norte,65,2,1700
-rua,Barra Da Jangada, Parada Inglesa,norte,65,2,1700
-rua,Voluntários Da Pátria, Santana,norte,60,2,1650
-rua,Ribeiro De Morais, Vila Albertina,norte,68,2,1600
-rua,Doutor Gabriel Covelli, Parque Peruche,norte,50,1,1100
-rua,Said Saad, Vila Amália,norte,90,2,1600
-rua,Brito Peixoto, Vila Primavera,norte,52,2,2147
-rua,Professor Dário Ribeiro, Vila Prado,norte,69,2,1915
-rua,Alfredo Pujol, Santana,norte,37,2,1700
-rua,Pedro Setti, Vila Paiva,norte,200,4,2750
-rua,Ausônia, Vila Mazzei,norte,50,2,1300
-rua,Henrique Braglia, Vila Dom Pedro Ii,norte,56,2,2306
-rua,Torres Da Barra, Jardim Peri,norte,33,1,1824
-rua,Visconde De Parnaíba, Jardim Brasília (zona Norte),norte,42,1,2158
-rua,Doutor João Batista Soares De Faria, Santana,norte,178,3,3800
-rua,Francisco Cid, Vila Palmeiras,norte,100,3,2500
-rua,Eugênio Lorenzetti, Jardim Peri,norte,53,2,1650
-rua,Rio Verde, Vila Bruna,norte,47,2,1750
-rua,Doutor Olavo Egídio, Santana,norte,60,1,3300
-rua,Doutor Olavo Egídio, Santana,norte,61,1,3300
-rua,Duarte De Azevedo, Santana,norte,53,2,1450
-rua,Copacabana, Santa Teresinha,norte,120,3,3800
-rua,Zike Tuma, Jardim Palmares (zona Norte),norte,67,3,1590
-rua,Relíquia, Jardim Das Laranjeiras,norte,75,2,1850
-rua,Pedro Cacunda, Jardim São Paulo,norte,50,2,2300
-rua,Soror Angélica, Vila Ester (zona Norte),norte,179,3,3500
-rua,Torres Da Barra, Jardim Peri,norte,31,1,1600
-rua,Itamonte, Vila Medeiros,norte,20,1,500
-rua,Voluntários Da Pátria, Santana,norte,81,2,1750
-rua,Padre Leão Peruche, Vila Mazzei,norte,50,2,1733
-rua,Antônio De Paula Freitas, Vila Bancária Munhoz,norte,55,1,900
-rua,Caetano Desco, Vila Baruel,norte,30,1,1150
-rua,Doutor Zuquim, Santana,norte,87,1,4700
-rua,Cônego Luís Gonzaga Biazi, Carandiru,norte,40,1,1131
-rua,Vitalina Moura, Vila Roque,norte,50,2,1400
-rua,Ministro Romeiro Neto, Vila Basileia,norte,55,1,1000
-rua,Manuel Correia, Vila Palmeiras,norte,45,1,800
-rua,Campo Belo Do Sul 113, Parque Vitória,norte,50,1,1000
-rua,José Eduardo Raduan 5, Parque Edu Chaves,norte,80,2,1299
-rua,Rodolfo Bardela 335, Brasilândia,norte,30,1,620
-rua,Jamunda 79, Vila Mazzei,norte,60,2,1180
-rua,Carlos Escobar 282, Santana,norte,10,1,800
-rua,Outeiro Da Cruz, Jardim São Paulo,norte,58,2,1550
-rua,General Isidoro Dias Lopes,"
-                287",norte,270,3,3000
-rua,Estrela Do Indaiá,"
-                172",norte,450,4,8500
-rua,Álvaro De Abreu,"
-                139",norte,271,4,7500
-rua,Said Saad, Vila Amália,norte,26,1,700
-rua,Da Grota, Vila Gustavo,norte,80,2,1850
-rua,Bela Vista Do Paraíso, Vila Palmeiras,norte,58,2,1200
-rua,Capitão Rubens, Parque Edu Chaves,norte,30,1,945
-rua,Domingos José Sapienza, Vila Amália,norte,50,2,1550
-rua,Doutor Heitor Nascimento, Nossa Senhora Do Ó,norte,55,2,1600
-rua,Da Bica, Freguesia Do Ó,norte,25,1,800
-rua,Doutor Zuquim, Santana,norte,75,2,1250
-rua,Maria Bandini Savoy, Parque Mandaqui,norte,58,2,1300
-rua,Juan Arfe, Vila Cruz Das Almas,norte,50,2,1300
-rua,Ofion, Vila Guilherme,norte,20,1,850
-rua,Ana De Barros, Jardim Santa Inês,norte,65,3,1400
-rua,Ascenso Dias Leme, Imirim,norte,40,1,550
-rua,Said Saad, Vila Amália,norte,30,1,750
-rua,Santo Egídio, Santa Teresinha,norte,60,2,1100
-rua,Da Bica, Freguesia Do Ó,norte,70,1,1200
-rua,João Rudge, Casa Verde,norte,76,3,2500
-rua,Laerte, Vila Mariza Mazzei,norte,75,1,920
-rua,Alcindo Bueno De Assis, Barro Branco,norte,55,2,1139
-rua,Gávea, Vila Maria,norte,35,1,1200
-rua,Parque Da Fonte, Barro Branco,norte,438,4,9540
-rua,Manuel De Sousa, Santana,norte,119,4,2950
-rua,Ofion, Vila Guilherme,norte,20,1,900
-rua,Doutor Zuquim, Santana,norte,35,1,1800
-rua,Henrique Braglia, Vila Dom Pedro Ii,norte,35,1,1500
-rua,Ministro Fonseca Filho, Jaçanã,norte,70,2,1482
-rua,Marieta Da Silva, Vila Guilherme,norte,100,2,2075
-rua,Hamburgo, Vila Gustavo,norte,32,1,1300
-rua,Voluntários Da Pátria, Santana,norte,200,4,2950
-rua,Ataualpa, Parque Novo Mundo,norte,131,2,2350
-rua,Parque Da Fonte, Barro Branco,norte,500,3,15000
-rua,Gávea, Vila Maria,norte,35,1,1200
-rua,Torres Da Barra, Jardim Peri,norte,31,1,1800
-rua,Zanzibar, Casa Verde,norte,51,2,1390
-rua,Itaici, Santa Teresinha,norte,96,3,1899
-rua,Doutor Olavo Egídio, Santana,norte,74,3,2500
-rua,Antônio De Souza Costa, Imirim,norte,100,2,2500
-rua,Ofion, Vila Guilherme,norte,20,1,950
-rua,Magarinos Torres, Vila Maria,norte,70,1,1450
-rua,Alfredo Pujol, Santana,norte,56,2,1950
-rua,Alfredo Pujol, Santana,norte,42,1,2400
-rua,Cândido Figueiredo, Vila Gustavo,norte,87,2,2241
-rua,Alferes Magalhães, Santana,norte,58,1,1450
-rua,Cabo Antônio Pinton, Parque Novo Mundo,norte,50,2,1700
-rua,José Debieux, Santana,norte,57,2,1600
-rua,Voluntários Da Pátria, Santana,norte,20,1,1250
-rua,Araritaguaba, Vila Maria Alta,norte,40,1,960
-rua,Eugênio De Freitas, Vila Guilherme,norte,58,3,2061
-rua,Vasconcelos De Barros, Jardim Rossin,norte,90,2,2500
-rua,Alfredo Pujol, Santana,norte,96,3,2134
-rua,Ezequiel Freire, Santana,norte,70,3,1605
-rua,Doutor Zuquim, Santana,norte,45,1,2650
-rua,Canatiar, Vila Nova Mazzei,norte,150,3,2600
-rua,Pedroso Xavier, Vila Albertina,norte,65,2,2300
-rua,Relíquia, Jardim Das Laranjeiras,norte,50,1,1250
-rua,São Zeferino, Jardim França,norte,127,2,1750
-rua,Joaquim José Da Cruz Secco, Barro Branco,norte,500,4,14000
-rua,Das Promessas, Vila Medeiros,norte,70,1,1100
-rua,Clara De Oliveira, Santa Teresinha,norte,60,2,1500
-rua,Jorge Valim, Parque Peruche,norte,55,2,2400
-rua,Macieira, Jardim Peri,norte,55,2,1700
-rua,Luis Tavares, Vila Guilherme,norte,126,3,5000
-rua,Gávea, Vila Maria,norte,46,2,1600
-rua,Joaquim Norberto, Vila Paulicéia,norte,45,1,1800
-rua,Doutor Guilherme Cristoffel, Santana,norte,238,3,8000
-rua,Duarte De Azevedo, Santana,norte,46,1,1900
-rua,Pedro Doll, Santana,norte,130,3,2500
-rua,Ministro Romeiro Neto, Vila Basileia,norte,48,1,1350
-rua,Jorge Duprat Figueiredo, Vila Paulista,norte,96,2,2700
-rua,Duarte De Azevedo, Santana,norte,44,1,1900
-rua,Dona Martinha, Santa Teresinha,norte,58,2,2000
-rua,Helena Gambini, Vila Bruna,norte,132,3,2800
-rua,José Jerônimo Vasconcelos, Parque Mandaqui,norte,140,3,3500
-rua,Antônio Ribeiro De Morais, Vila Carbone,norte,73,3,2750
-rua,Aluísio Azevedo, Santana,norte,69,2,1700
-rua,Comendador Cesar Alfieri, Parque São Luís,norte,67,2,1285
-rua,Torres Da Barra, Jardim Peri,norte,31,1,1500
-rua,Doutor Guilherme Cristofel, Santana,norte,230,3,5500
-rua,Judith Zumkeller, Parque Mandaqui,norte,82,3,2395
-rua,Celso Vieira, Vila Pereira Barreto,norte,69,2,2800
-rua,Santa Eudóxia 963 - Cs 8, Parque Peruche,norte,50,2,1300
-rua,Duarte De Azevedo, Santana,norte,44,1,1900
-rua,Jupiá, Santa Teresinha,norte,44,2,3820
-rua,Conselheiro Moreira De Barros, Santana,norte,200,4,2300
-rua,Américo Boaventura, Santana,norte,100,2,2000
-rua,Ezequiel Freire, Santana,norte,46,1,1950
-rua,Aragão, Vila Mazzei,norte,60,2,2350
-rua,Ministro Romeiro Neto, Vila Basileia,norte,46,1,1200
-rua,Juami, Vila Ester (zona Norte),norte,98,2,2650
-rua,Estevão Furquim, Jardim Peri,norte,150,2,2750
-rua,Alexandre Azevedo, Vila Mazzei,norte,80,2,1699
-rua,Copacabana, Santa Teresinha,norte,70,2,1650
-rua,Camatei, Vila Nivi,norte,320,4,3750
-rua,Guarajá, Vila Mazzei,norte,45,1,2000
-rua,Balsa, Vila Arcádia,norte,49,2,1450
-rua,Major Freire, Vila Monte Alegre,sul,68,2,1560
-rua,Joaquim Távora, 791,sul,42,1,2700
-rua,Bento Coelho Da Silveira, Vila Campestre,sul,76,3,1150
-rua,José Alves De Almeida, Jardim Celeste,sul,53,2,1153
-rua,Oliveira Alves, Ipiranga,sul,85,3,2950
-rua,Cisplatina, Ipiranga,sul,54,2,1200
-rua,Democratas, Vila Monte Alegre,sul,140,3,2330
-rua,João Bethcem Moreira Filho, Cidade Domitila,sul,50,2,1260
-rua,Deputado João Sussumu Hirata, Vila Andrade,sul,65,2,1350
-rua,Otávio Tarquínio De Sousa, Campo Belo,sul,32,1,1530
-rua,Tenente Otávio Gomes, Aclimação,sul,30,1,700
-rua,Marquês De Maricá, Sacomã,sul,55,1,1100
-rua,Doutor Aramis Ataíde, Vila Cruzeiro,sul,23,1,1100
-rua,Manoel Correia Júnior, Saúde,sul,25,1,1358
-rua,Jurupari, Jardim Oriental,sul,40,1,1000
-rua,Tenente Azevedo, Aclimação,sul,75,2,2800
-rua,Dois De Julho, Ipiranga,sul,45,1,2350
-rua,Carlos Petti, Vila Mariana,sul,300,4,10000
-rua,Ângelo Bertini, Jardim Celeste,sul,73,3,2600
-rua,Santa Rita D#39oeste, Vila Do Encontro,sul,29,1,850
-rua,Doutor Nicolau Alberto Defina, Jardim Da Saúde,sul,68,2,900
-rua,Caconde, Jardim Paulista,sul,107,2,4000
-rua,Osvaldo De Andrade, Vila Cruzeiro,sul,28,1,1200
-rua,Gomes De Carvalho, Vila Olímpia,sul,77,2,2900
-rua,José Antônio Coelho, Vila Mariana,sul,34,1,1660
-rua,Cruz E Souza, Aclimação,sul,54,1,2000
-rua,Agostinho Gomes, Ipiranga,sul,57,2,1866
-rua,Clodomiro Amazonas, Vila Nova Conceição,sul,40,1,3300
-rua,Dois De Julho, Ipiranga,sul,35,1,1700
-rua,Barão Do Triunfo, Brooklin Paulista,sul,45,1,1800
-rua,Santo Irineu, Bosque Da Saúde,sul,148,3,8250
-rua,Gomes De Carvalho, Vila Olímpia,sul,43,1,2700
-rua,Capitao Pinto Ferreira, Jardim Paulista,sul,150,3,4000
-rua,Joaquim Távora, Vila Mariana,sul,103,3,5800
-rua,Taquaruçu, Vila Parque Jabaquara,sul,30,1,980
-rua,Costa Aguiar, Ipiranga,sul,57,2,1906
-rua,Nelson Gama De Oliveira, Vila Andrade,sul,55,1,1900
-rua,Álvaro Luís Roberto De Assumpção, Campo Belo,sul,47,1,2666
-rua,Viaza, Jardim Aeroporto,sul,44,1,2550
-rua,Maratona, Vila Alexandria,sul,68,1,4500
-rua,Doutor Willian Carlos Cassab, Vila Sônia,sul,15,1,1150
-rua,Marquesa De Santos, Vila Dom Pedro I,sul,41,1,2400
-rua,Clímaco Barbosa, Cambuci,sul,20,1,1210
-rua,Guedes Galvão, Parque Jabaquara,sul,18,1,645
-rua,Manoel Carneiro Silva, Bosque Da Saúde,sul,105,3,2100
-rua,Calixto Da Mota, Vila Mariana,sul,44,1,2600
-rua,Nossa Senhora Da Saude, Vila Das Mercês,sul,40,1,1200
-rua,Silva Bueno, Ipiranga,sul,80,2,1800
-rua,Canário, Moema,sul,58,2,2800
-rua,Dois De Julho, Ipiranga,sul,38,1,1900
-rua,Aquiles Jovane, Jardim Celeste,sul,60,2,1200
-rua,André Luís, Vila Das Mercês,sul,50,2,1500
-rua,Monsenhor Jerônimo Rodrigues, Jardim Clímax,sul,39,1,820
-rua,Marquês De Maricá, Sacomã,sul,55,1,1100
-rua,Peixoto Gomide, Jardim Paulista,sul,100,2,3500
-rua,Domingos De Morais, Vila Mariana,sul,92,2,3500
-rua,Laranjal, Vila Marte,sul,55,2,1300
-rua,Leandro Dupret, Vila Clementino,sul,176,3,10000
-rua,Visconde De Inhaúma, Vila Da Saúde,sul,61,2,2900
-rua,Abílio Soares, Paraíso,sul,100,2,2600
-rua,João Cachoeira, Vila Nova Conceição,sul,30,1,4800
-rua,Vieira De Morais, Campo Belo,sul,38,1,2200
-rua,Doutor Nicolau De Sousa Queirós, Vila Mariana,sul,45,2,2400
-rua,Dos Curupiás, Jabaquara,sul,73,2,1551
-rua,Doutor Neto De Araújo, Vila Mariana,sul,100,3,2780
-rua,Bamboré, Ipiranga,sul,90,2,2700
-rua,Charles Spencer Chaplin, Vila Andrade,sul,49,1,2250
-rua,Manuel Buchalla, Sacomã,sul,80,2,1400
-rua,Deputado Laércio Corte, Paraíso Do Morumbi,sul,125,1,3650
-rua,Pires Da Mota, Aclimação,sul,70,1,2200
-rua,Bicudo De Brito, Vila Guarani (z Sul),sul,42,2,1800
-rua,Indiana, Brooklin Paulista,sul,95,3,2600
-rua,Pamplona, Jardim Paulista,sul,123,3,5600
-rua,Rio Grande, Vila Mariana,sul,72,2,2350
-rua,Jovina, Vila Mascote,sul,65,2,2200
-rua,Jesuíno Arruda, Itaim Bibi,sul,115,3,3500
-rua,Leopoldo De Bulhões, Vila Clementino,sul,57,2,3400
-rua,Adelino Alves, Santo Amaro,sul,150,3,4330
-rua,Professor Vahia De Abreu, Vila Olímpia,sul,85,2,2600
-rua,Adolfo Reile, Jardim Celeste,sul,72,2,2750
-rua,Borges Lagoa, Vila Clementino,sul,45,1,2900
-rua,Doutor Ubaldo Franco Caiubi, Vila São Paulo,sul,70,3,1690
-rua,Casa Do Ator, Vila Olímpia,sul,50,2,3500
-rua,Quatá, Vila Olímpia,sul,52,1,2900
-rua,Edson, Campo Belo,sul,70,2,2831
-rua,Gomes De Carvalho, Vila Olímpia,sul,34,1,2000
-rua,Casa Do Ator, Vila Olímpia,sul,74,2,4473
-rua,Viaza, Jardim Aeroporto,sul,34,1,2816
-rua,Antônio De Macedo Soares, 1471 - Campo Belo,sul,69,2,2300
-rua,Maracá, Vila Guarani (z Sul),sul,78,2,3175
-rua,Lavapés, Cambuci,sul,36,1,2100
-rua,Marquesa Santos, Vila Dom Pedro I,sul,41,1,2210
-rua,Tutóia, Vila Mariana,sul,104,2,4000
-rua,Domiciano Leite Ribeiro, Vila Guarani (z Sul),sul,94,2,4000
-rua,Vigário Albernaz, Vila Gumercindo,sul,92,3,2184
-rua,Pedro Victor, Vila Firmiano Pinto,sul,72,3,2600
-rua,Agostinho Asquini, Vila Mariana,sul,118,3,2600
-rua,Bento De Matos, Chácara Santo Antônio,sul,90,3,2750
-rua,Ibituruna, Parque Imperial,sul,70,2,2700
-rua,Jorge Chammas, Vila Mariana,sul,83,2,5000
-rua,Helena, 151 - Vila Olimpia,sul,93,2,7800
-rua,Doutor Nicolau Alberto Defina, Jardim Da Saúde,sul,47,2,1300
-rua,Guarará, Jardim Paulista,sul,40,1,4000
-rua,Gaspar Lourenço, Vila Mariana,sul,30,1,1650
-rua,Gama Lobo, Vila Dom Pedro I,sul,75,2,2000
-rua,Viena, Sacomã,sul,47,2,1800
-rua,Loureiro Da Cruz, Aclimação,sul,47,2,2000
-rua,Farid Miguel Haddad, Vila Santa Teresa (zona Sul),sul,50,2,1100
-rua,Nicola Rollo, Vila Andrade,sul,89,3,2700
-rua,Pamplona, Jardim Paulista,sul,178,3,7000
-rua,Viena, Sacomã,sul,49,2,1256
-rua,Apacê, Jardim Oriental,sul,100,2,1800
-rua,José Bonifácio, Vila Fachini,sul,48,2,1100
-rua,José Antônio Coelho, Vila Mariana,sul,35,1,1550
-rua,Gabriele D#39annunzio, Campo Belo,sul,54,1,4200
-rua,Duque Costa, Vila Sofia,sul,60,3,2500
-rua,João Pais, Santo Amaro,sul,59,1,3500
-rua,Américo Ribeiro, Vila Gumercindo,sul,70,3,2300
-rua,Silveira Da Mota, Cambuci,sul,30,1,1500
-rua,Silveira Da Mota, Cambuci,sul,20,1,1200
-rua,Tenente Otávio Gomes, Aclimação,sul,27,1,1200
-rua,Nelson Gama De Oliveira, Vila Andrade,sul,62,2,3000
-rua,Eiras Garcia, Vila Monumento,sul,240,5,3300
-rua,Costa Aguiar, Ipiranga,sul,37,1,2200
-rua,Bandeira Paulista, Itaim Bibi,sul,120,2,4500
-rua,Pamplona, Jardim Paulista,sul,100,3,3250
-rua,Jaci, Chácara Inglesa,sul,75,2,1700
-rua,Vieira De Morais, Campo Belo,sul,80,3,3000
-rua,Luciano Felício Biondo, Jardim Cristal,sul,72,2,2800
-rua,Leopoldo Couto Magalhães Júnior, Itaim Bibi,sul,90,2,5600
-rua,Antônio Das Chagas, Chácara Santo Antônio,sul,54,2,2850
-rua,Castro Alves, Aclimação,sul,34,1,1200
-rua,Tenente Negrão, Itaim Bibi,sul,36,1,3000
-rua,Maestro Cállia, Vila Mariana,sul,65,2,1550
-rua,Deputado Laércio Corte, Paraíso Do Morumbi,sul,360,4,6300
-rua,Alexandre Benois, Vila Andrade,sul,62,3,2200
-rua,João Pais, Santo Amaro,sul,64,2,3200
-rua,José Da Mota, Vila Andrade,sul,261,3,4600
-rua,Santo Juliani, Vila Santo Estéfano,sul,45,2,1600
-rua,Nhu-guaçu, Nova Piraju,sul,60,2,4250
-rua,Manuel Da Nóbrega, Paraíso,sul,100,3,4000
-rua,João Pimenta, Santo Amaro,sul,52,2,3300
-rua,Diogo Jácome, Vila Nova Conceição,sul,48,1,5700
-rua,Constantino De Sousa, Campo Belo,sul,50,1,3000
-rua,Garapeba, Jardim Vila Mariana,sul,110,3,3200
-rua,Tuim, Vila Uberabinha,sul,55,2,3150
-rua,Clímaco Barbosa, Cambuci,sul,20,1,1100
-rua,Francisco José Da Silva, Vila Andrade,sul,38,1,1700
-rua,Celso Ramos, Vila Andrade,sul,47,2,1550
-rua,Peixoto Gomide, Jardim Paulista,sul,73,2,4200
-rua,Doutor Rosalvo De Sales, Vila Brasilina,sul,240,3,4300
-rua,Beijuí, Vila Isa,sul,130,2,2700
-rua,Tabapuã, Itaim Bibi,sul,78,2,4208
-rua,Almeida Góis, Vila Gumercindo,sul,141,2,3000
-rua,Alberto Dayjardim Aurelia, Jardim Aurélia,sul,140,3,3990
-rua,Alvorada, Vila Olímpia,sul,26,1,2970
-rua,Nova York, Brooklin Paulista,sul,41,1,3400
-rua,Padre Leonardo, Nova Piraju,sul,69,2,2800
-rua,Muniz De Sousa, Aclimação,sul,30,1,1450
-rua,Silva Correia, Vila Nova Conceição,sul,77,1,5900
-rua,Huitacá, Jardim Da Campina,sul,82,3,1500
-rua,Tabapuã, Itaim Bibi,sul,236,3,10900
-rua,Professor Vahia De Abreu, Vila Olímpia,sul,72,2,3000
-rua,Pascoal Da Ribeira, Jardim Consórcio,sul,196,3,2700
-rua,Duque Costa, Vila Sofia,sul,67,3,1700
-rua,Doutor Eduardo Pereira De Magalhães, Jardim Leonor,sul,550,6,10000
-rua,Maracá, Vila Guarani (z Sul),sul,75,2,3000
-rua,Pequetita, Vila Olímpia,sul,53,1,8300
-rua,Barão Do Triunfo, Brooklin Paulista,sul,50,1,2593
-rua,Sebastiano Mazzoni, Vila Moraes,sul,60,3,1220
-rua,Conde De Itu, Santo Amaro,sul,47,1,2613
-rua,José Maria Lisboa, Jardim Paulista,sul,224,3,15000
-rua,Conde Vicente De Azevedo, Vila Monumento,sul,41,1,1200
-rua,Joinville, Vila Mariana,sul,41,1,1430
-rua,Gaivota, Moema,sul,180,4,6800
-rua,Santa Justina, Vila Olímpia,sul,32,1,1643
-rua,Leite Ferraz, Vila Mariana,sul,18,1,1937
-rua,França Pinto, Vila Mariana,sul,90,3,3700
-rua,Padre Arnaldo Pereira, Parque Jabaquara,sul,250,3,3500
-rua,Humberto I, Vila Mariana,sul,33,1,3000
-rua,Abrão Calil Rezek, Vila Sônia,sul,248,4,6950
-rua,Araguari, Vila Uberabinha,sul,129,3,6000
-rua,José Jannarelli, Vila Progredior,sul,180,2,14000
-rua,Gomes De Carvalho, Vila Olímpia,sul,42,1,3264
-rua,Myron Clark, Parque Jabaquara,sul,180,4,4500
-rua,Alexandre Leví, Cambuci,sul,50,2,1800
-rua,Vergueiro, Vila Firmiano Pinto,sul,80,2,1832
-rua,Bertioga, Chácara Inglesa,sul,38,2,2500
-rua,Conde Vicente De Azevedo, Vila Monumento,sul,51,2,1450
-rua,Diogo Jacome, Vila Nova Conceição,sul,55,1,5500
-rua,Nhu-guaçu, Nova Piraju,sul,60,1,4000
-rua,Nova York, Brooklin Paulista,sul,90,3,2600
-rua,Marquês De Lages, Vila Moraes,sul,68,3,1200
-rua,Da União, Vila Mariana,sul,41,1,1600
-rua,Deputado Joaquim Libânio, Vila Mariana,sul,242,3,7000
-rua,Antônio Das Chagas, Chácara Santo Antônio,sul,48,1,2330
-rua,Casa Do Ator, Vila Olímpia,sul,78,3,3270
-rua,Cesar Vallejo, Real Parque,sul,40,1,2300
-rua,Alexandre Dumas, Chácara Santo Antônio,sul,49,2,2700
-rua,Nossa Senhora Da Saude, Vila Das Mercês,sul,58,2,1900
-rua,Cascado, Vila Andrade,sul,49,2,1600
-rua,Correia Salgado, Vila Dom Pedro I,sul,25,1,1600
-rua,Áureliano Guimarães, Vila Andrade,sul,78,2,2369
-rua,Clímaco Barbosa, Cambuci,sul,29,1,1858
-rua,Comandante Garcia D’ávila, Morumbi,sul,478,5,15000
-rua,Topázio, Vila Mariana,sul,33,1,2600
-rua,Santa, Vila Mascote,sul,118,3,4000
-rua,Alcindo Guanabara, Jardim Da Glória,sul,72,2,3200
-rua,Antônio Das Chagas, Chácara Santo Antônio,sul,54,2,2800
-rua,Francisco Cruz, Vila Mariana,sul,93,3,3000
-rua,Batataes, Jardim Paulista,sul,31,1,4651
-rua,Cesar Vallejo, Chácara Itaim,sul,35,1,1990
-rua,Alencar Araripe, Sacomã,sul,82,3,2500
-rua,Pássaros E Flores, Jardim Das Acácias,sul,85,3,3200
-rua,Henri Dunant, Santo Amaro,sul,36,1,3000
-rua,Malebranche, Jardim Vila Mariana,sul,60,2,2100
-rua,Doutor Djalma Pinheiro Franco, Vila Santa Catarina,sul,65,3,2850
-rua,Alexandre Levi, Cambuci,sul,47,2,2200
-rua,André Pujos, Jardim Celeste,sul,52,2,1530
-rua,Sampaio Viana, Paraíso,sul,190,3,8000
-rua,Ibirajá, Vila Guarani (z Sul),sul,55,2,1850
-rua,Alvorada, Vila Olímpia,sul,48,2,4400
-rua,Pintassilgo, Vila Uberabinha,sul,60,2,3478
-rua,Dos Buritis, Vila Parque Jabaquara,sul,40,1,2200
-rua,Maranjaí, Vila Monumento,sul,56,2,2200
-rua,Conde Vicente De Azevedo, Vila Monumento,sul,41,1,1500
-rua,Doutor Eduardo De Souza Aranha, Vila Nova Conceição,sul,45,1,3000
-rua,Gil Eanes, Campo Belo,sul,94,2,3470
-rua,Viena, Sacomã,sul,49,2,1670
-rua,Das Grumixamas, Vila Parque Jabaquara,sul,150,4,6500
-rua,Conde Vicente De Azevedo, Vila Monumento,sul,92,2,1800
-rua,Domingos De Morais, Vila Mariana,sul,55,2,2700
-rua,Professor Atílio Innocenti, Vila Nova Conceição,sul,45,1,2300
-rua,Afonso Celso, Vila Mariana,sul,94,3,2900
-rua,Cisplatina, Ipiranga,sul,42,1,2500
-rua,Luís Góis, Mirandópolis,sul,85,2,2100
-rua,Dos Tapes, Cambuci,sul,56,2,2300
-rua,Solemar, Vila Conde Do Pinhal,sul,100,3,1500
-rua,Moises Jorge Mussi, Jardim Patente Novo,sul,290,4,2100
-rua,Áurea, Vila Mariana,sul,113,3,3500
-rua,Pedroso Alvarenga, Itaim Bibi,sul,133,3,5500
-rua,Da Mata, Itaim Bibi,sul,85,2,6000
-rua,Loefgren, Vila Clementino,sul,117,3,4062
-rua,Iguatemi, Itaim Bibi,sul,132,3,5100
-rua,Coronel Luís Alves, Vila Mariana,sul,25,1,1350
-rua,Do Lavapés, Cambuci,sul,35,1,1875
-rua,Constantino De Sousa, Campo Belo,sul,70,2,4245
-rua,Doutor Elísio De Castro, Vila Dom Pedro I,sul,90,3,3000
-rua,Indiana, Brooklin Paulista,sul,213,4,5000
-rua,Manuel Da Nóbrega, Paraíso,sul,75,2,2890
-rua,Guararapes, Brooklin Paulista,sul,35,1,3381
-rua,Fiandeiras, Vila Olímpia,sul,65,2,4371
-rua,Conde Vicente De Azevedo, Vila Monumento,sul,40,1,1500
-rua,Francisco Cruz, Vila Mariana,sul,79,2,3015
-rua,Vieira De Morais, Campo Belo,sul,145,3,4200
-rua,Professora Heloísa Carneiro, Campo Belo,sul,170,3,3600
-rua,Dom Salomão Ferraz, Vila Andrade,sul,73,3,2350
-rua,José De Oliveira Coelho, Vila Andrade,sul,70,1,3500
-rua,Afonso Braz, Vila Nova Conceição,sul,42,1,2325
-rua,Jaceru, Vila Gertrudes,sul,51,1,3500
-rua,Guapiaçu, Vila Clementino,sul,52,2,2800
-rua,Eliezer José De Macedo, Parque Císper,leste,55,2,855
-rua,Madre De Deus, Moóca,leste,70,2,1220
-rua,Acará-bandeira, Jardim São Francisco (zona Leste),leste,40,2,1300
-rua,Faustino Paganini, Chácara Cruzeiro Do Sul,leste,35,1,800
-rua,Alto Beni, Vila Cosmopolita,leste,44,2,800
-rua,José Mascarenhas, Vila Matilde,leste,33,1,974
-rua,Leonhard Euler, Jardim Coimbra,leste,25,1,700
-rua,Major Alberto Barbosa 137, Penha De Franca,leste,70,2,1500
-rua,Iru, Vila Formosa,leste,62,3,1650
-rua,Lagoa Da Barra, Itaquera,leste,55,3,1100
-rua,Da Mooca, Moóca,leste,50,1,1100
-rua,São Gonçalo Do Piauí, Itaquera,leste,70,2,1100
-rua,Príncipe Beira, Vila Alpina,leste,60,2,1686
-rua,Rei Alberto Da Bélgica, Chácara Belenzinho,leste,65,1,984
-rua,Ouro Fino, Parque Penha,leste,140,3,2125
-rua,Antônio Olímpio, Vila União (zona Leste),leste,42,1,660
-rua,Bezerros, Parque Císper,leste,50,2,1250
-rua,Leopoldo Couto De Magalhães Júnior, Alto Da Mooca,leste,61,1,4500
-rua,Luiza Canero, Vila Canero,leste,90,2,1441
-rua,Dos1532trilhos, Moóca,leste,100,2,2000
-rua,Ricardo Vilela, Penha De Franca,leste,110,3,2200
-rua,Dos Junquilhos, Vila Alpina,leste,80,2,1100
-rua,Pangauá, Vila Ré,leste,50,1,800
-rua,Nhandeara, Vila Carrão,leste,120,3,1600
-rua,Alto Belo, Vila Antonieta,leste,40,2,1100
-rua,Itanhaém, Vila Prudente,leste,56,2,1805
-rua,Nunes Balboa, Vila Carrão,leste,50,2,1400
-rua,Uhland, Vila Ema,leste,65,2,1650
-rua,Tauandê, Vila Formosa,leste,60,2,2000
-rua,São Gil, Tatuapé,leste,60,2,1300
-rua,Santa Virgínia, Tatuapé,leste,96,3,2200
-rua,Henrique Sousa Queirós, Penha De Franca,leste,80,3,2000
-rua,Irma, Vila Ré,leste,40,1,690
-rua,Francisca De Paula, Vila Carrão,leste,76,3,1500
-rua,Coronel José Lopes De Toledo, Vila Antonieta,leste,45,1,900
-rua,Júlio Parigot, Vila Antonieta,leste,50,1,1000
-rua,Luís Paulino Da França, Jardim Avelino,leste,115,3,2800
-rua,Acuruí, Vila Formosa,leste,96,3,2500
-rua,Rosa Mendes, Jardim Penha,leste,49,2,1500
-rua,Benjamim Do Monte, Parque Cruzeiro Do Sul,leste,40,1,850
-rua,Sara Bernhard, Vila Cláudia,leste,75,3,1700
-rua,Sapucaia, Alto Da Mooca,leste,70,2,1500
-rua,Campo Largo, Vila Bertioga,leste,85,2,1600
-rua,Fidélis Papini, Vila Prudente,leste,74,3,1980
-rua,Dos Campineiros, Moóca,leste,70,2,1424
-rua,Virgílio De Freitas, Moóca,leste,175,3,3500
-rua,Campo Das Pitangueiras, Jardim São Nicolau,leste,112055,2,1400
-rua,Biguatinga, Cidade Antônio Estevão De Carvalho,leste,29,1,740
-rua,Monsenhor João Felipo, Moóca,leste,52,2,1750
-rua,Pedro Nascimento Ferrador, Alto Da Mooca,leste,100,2,2100
-rua,Borges De Figueiredo, Moóca,leste,48,1,1600
-rua,Uruçuca, Vila Antonina,leste,63,2,1323
-rua,Do Acre, Vila Bertioga,leste,43,2,2094
-rua,Atuai, Vila Esperança,leste,56,1,1150
-rua,Andrade Réis, Moóca,leste,35,1,1729
-rua,Lagoa Do Campelo, Itaquera,leste,41,2,1200
-rua,Cândido Vale, Tatuapé,leste,26,1,2000
-rua,São Valentim, Vila Carrão,leste,175,4,6000
-rua,Rosa Mendes, Jardim Penha,leste,32,2,1300
-rua,Santa Cruz Do Piauí, Itaquera,leste,40,1,854
-rua,Francisco Gouveia, Quarta Parada,leste,18,1,800
-rua,João De Miranda, Jardim Norma,leste,80,2,850
-rua,Mirandinha, Penha De Franca,leste,120,3,3200
-rua,Engenheiro Guilherme Cristiano Frender, Vila Antonieta,leste,56,2,1500
-rua,Treze De Agosto, Vila União (zona Leste),leste,55,1,1200
-rua,Padre Benedito De Camargo, Penha De Franca,leste,50,2,1600
-rua,Bacairis, Vila Formosa,leste,48,1,2800
-rua,Anália Franco, Vila Regente Feijó,leste,70,2,3063
-rua,Doutor Roberto Feijó, Parque Da Vila Prudente,leste,48,2,2200
-rua,Mandu, Vila Granada,leste,45,2,1150
-rua,Vilela, Tatuapé,leste,52,2,2367
-rua,Noberto Esteves, Vila São Geraldo,leste,35,1,830
-rua,Bom Jesus, Vila Regente Feijó,leste,70,1,1300
-rua,Visconde Parnaíba, Moóca,leste,50,2,1365
-rua,Solidônio Leite, Vila Ivone,leste,57,2,1400
-rua,Leocádia Cintra, Moóca,leste,57,2,2600
-rua,Padre José Vieira De Matos, Conjunto Habitacional Padre Manoel Da Nóbrega,leste,48,2,1100
-rua,Cantagalo, Vila Gomes Cardim,leste,134,3,6000
-rua,Emílio Mallet, Vila Gomes Cardim,leste,93,3,1700
-rua,Euclides Pacheco, Vila Gomes Cardim,leste,93,3,3500
-rua,Hipódromo, Moóca,leste,64,3,2300
-rua,Leopoldo Machado, Vila Laís,leste,95,2,1500
-rua,Mauro Pinheiro, Chácara Califórnia,leste,35,1,1120
-rua,Jardim Das Margaridas, Vila Buenos Aires,leste,90,2,1400
-rua,Coronel Irineu De Castro, Jardim Anália Franco,leste,160,2,5000
-rua,Arnaldo Cintra, Vila Moreira,leste,49,2,2000
-rua,Piraçununga, Vila Bertioga,leste,58,2,2500
-rua,Jardim Das Margaridas, Vila Buenos Aires,leste,75,2,1400
-rua,Imbaçal, Parada Xv De Novembro,leste,84,2,950
-rua,Guaimbé, Moóca,leste,140,3,3300
-rua,Tacacazeiro, Jardim Eliane,leste,125,3,2100
-rua,Ângelo Andrade, Conjunto Residencial José Bonifácio,leste,41,2,800
-rua,Orfanato, Vila Prudente,leste,49,1,1400
-rua,Recife, Guaiaúna,leste,140,2,2500
-rua,Val De Palmas, Vila Santa Clara,leste,47,2,1600
-rua,São Bento Do Sapucaí, Vila Guilhermina,leste,150,2,2100
-rua,Baguassu, Vila Regente Feijó,leste,68,2,3439
-rua,Itanhaém, Vila Prudente,leste,55,2,1900
-rua,Rosário Do Sul, Jardim Maringá,leste,85,1,1040
-rua,Amaro Bezerra Cavalcanti, Vila Matilde,leste,15,1,700
-rua,Doutor Ernesto Mariano, Tatuapé,leste,90,3,2350
-rua,Da Mooca, Moóca,leste,68,3,3200
-rua,Nova Aurora, Vila Guilhermina,leste,45,2,1500
-rua,Lavínia, Quarta Parada,leste,33,1,1550
-rua,Agostinho Alegro, Conjunto Residencial José Bonifácio,leste,120,3,1900
-rua,Pantojo, Vila Regente Feijó,leste,89,3,2620
-rua,Renzo Baldini, Parada Xv De Novembro,leste,45,2,1100
-rua,Marechal Barbacena, Vila Regente Feijó,leste,140,3,3100
-rua,Santo Aniceto, Vila Nhocune,leste,120,2,1400
-rua,Américo Sugai, Vila Jacuí,leste,80,1,900
-rua,Piraja, Moóca,leste,30,1,650
-rua,Petrobrás, Vila Antonieta,leste,125,3,3000
-rua,Louis Garneray, Vila Buenos Aires,leste,50,1,1300
-rua,César Dacorso Filho, Parque Boturussu,leste,50,1,900
-rua,Antunes Maciel, Alto Da Mooca,leste,55,2,1700
-rua,Carolina Fonseca, Vila Santana,leste,65,2,1200
-rua,Carlos Silva, Chácara Califórnia,leste,68,3,1950
-rua,Américo Sugai, Vila Jacuí,leste,150,2,1500
-rua,São Donato, Vila Guilhermina,leste,98,2,1800
-rua,Maniutuba, Chácara Santo Antônio (zona Leste),leste,78,2,1500
-rua,Louis Garneray, Vila Buenos Aires,leste,45,1,1200
-rua,Carlos Silva, Chácara Califórnia,leste,68,3,1950
-rua,Luís Alardo De Menezes, Vila Califórnia,leste,50,2,1150
-rua,Guaiaúna, Guaiaúna,leste,52,2,1750
-rua,Paulina, Chácara Mafalda,leste,117,3,2700
-rua,Atucuri, Chácara Santo Antônio (zona Leste),leste,66,3,1900
-rua,Porto Alegre, Vila Bertioga,leste,60,2,3800
-rua,Icaraí, Tatuapé,leste,90,3,2500
-rua,Maniutuba, Chácara Santo Antônio (zona Leste),leste,78,3,1500
-rua,Wandenkolk, Moóca,leste,62,1,1650
-rua,Porto Alegre, Vila Bertioga,leste,55,2,2131
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Lagoa Do Campelo, Itaquera,leste,41,2,1000
-rua,Serra De Bragança, Vila Gomes Cardim,leste,70,2,2500
-rua,Costa Barros, Sítio Pinheirinho,leste,65,3,1017
-rua,Pedro Talarico, Vila Talarico,leste,57,2,1734
-rua,Doutor Alarico Silveira, Chácara Califórnia,leste,52,2,2390
-rua,Olho D’água Do Borges, Vila Silvia,leste,45,2,1000
-rua,Itanhaém, Vila Prudente,leste,48,2,1950
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Nonoai, Parque Císper,leste,60,1,1200
-rua,Platina, Vila Azevedo,leste,56,2,2200
-rua,Vitoantonio Del Vecchio, Parque Da Mooca,leste,90,2,2250
-rua,Cirene Jorge Ribeiro, Vila Salete,leste,54,2,1700
-rua,Manuel Figueiredo, Jardim Vila Formosa,leste,80,2,1400
-rua,Limoeiro Do Ajuru, Vila Monte Santo,leste,67,2,1400
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Driades, Jardim Casa Pintada,leste,60,2,1300
-rua,Marciano Capella, Vila Ré,leste,58,2,12000
-rua,Tobiaras, Vila Esperança,leste,40,1,2100
-rua,Euclides Pacheco 803, Vila Gomes Cardim,leste,50,1,1900
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Coelho Lisboa, Cidade Mãe Do Ceu,leste,145,2,2500
-rua,Andréa Feliciani, Conjunto Habitacional Padre Manoel De Paiva,leste,48,2,1000
-rua,Antônio Olímpio, Vila União (zona Leste),leste,35,1,700
-rua,Da Mooca, Moóca,leste,22,1,1740
-rua,Maria Daffré, Quinta Da Paineira,leste,59,2,2100
-rua,Filipe Camarão, Tatuapé,leste,74,2,3050
-rua,Retiro, Maranhão,leste,49,2,1890
-rua,Antônieta De Morais, Vila Matilde,leste,70,3,1900
-rua,Imbaçal, Parada Xv De Novembro,leste,47,2,1100
-rua,Nova Friburgo, Jardim Penha,leste,65,2,1500
-rua,Eliezer José De Macedo, Parque Císper,leste,250,2,2480
-rua,General Sousa Neto, Vila Aricanduva,leste,200,3,3600
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Costa Barros, Sítio Pinheirinho,leste,57,2,1200
-rua,Sete De Outubro, Chácara Califórnia,leste,192,3,8000
-rua,Ibitirama, Vila Prudente,leste,53,2,1500
-rua,Henrique Casela, Jardim América Da Penha,leste,45,1,1000
-rua,Henrique Casela, Jardim América Da Penha,leste,44,2,1400
-rua,São Jorge, Parque São Jorge,leste,63,2,1810
-rua,Renato, Vila Ré,leste,105,3,1750
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Moliterno, Penha De Franca,leste,63,2,1900
-rua,Isidoro, Belenzinho,leste,76,3,3200
-rua,Omachá, Penha De Franca,leste,36,2,1100
-rua,Tuiuti, Tatuapé,leste,170,4,2850
-rua,Mariano De Sousa, Chácara Santo Antônio (zona Leste),leste,68,2,1800
-rua,Pantojo, Vila Regente Feijó,leste,95,3,3400
-rua,Itapura, Vila Gomes Cardim,leste,60,1,2300
-rua,Enrico Bastiglia, Parque Da Mooca,leste,57,2,2700
-rua,Castanhal, Cidade Patriarca,leste,100,1,850
-rua,Coronel João De Oliveira Melo, Vila Antonieta,leste,90,3,2700
-rua,Benedito Otoni, Vila Ré,leste,67,3,2300
-rua,Maria José Da Conceição, Lajeado,leste,69,2,1280
-rua,Manuel Leiroz, Vila Penteado,leste,60,2,1800
-rua,Edgar De Sousa, Vila Aricanduva,leste,75,2,1550
-rua,Abadiânia, Vila Guilhermina,leste,38,1,1000
-rua,Bruno Cavalcante Feder, Vila Prudente,leste,50,2,1500
-rua,Cantagalo, Vila Gomes Cardim,leste,86,3,2600
-rua,Adelaide De Freitas, Moóca,leste,130,2,3600
-rua,Astorga, Vila Guilhermina,leste,35,1,1500
-rua,Professor Rodolfo São Tiago, Belenzinho,leste,120,3,2200
-rua,Itapiruna, Jardim Penha,leste,35,1,600
-rua,Nova Jerusalém, Chácara Santo Antônio (zona Leste),leste,63,1,1250
-rua,Dante Pellacani, Vila Regente Feijó,leste,55,3,3108
-rua,Miragem, Vila Regente Feijó,leste,150,2,3300
-rua,Astorga, Vila Guilhermina,leste,35,1,1500
-rua,Anita Sabá, Vila Marieta,leste,30,1,650
-rua,Borges De Figueiredo, Moóca,leste,50,1,2150
-rua,Almirante Calheiros, Tatuapé,leste,117,3,2980
-rua,Reboujo, Chácara Santo Antônio (zona Leste),leste,63,1,1250
-rua,Maestro Furio Franceschini, Cidade Continental,leste,70,1,1365
-rua,Antônio Dos Santos, Jardim Matarazzo,leste,96,2,2100
-rua,Dona Escolástica M. Da Fonseca, Vila Matilde,leste,111,3,3500
-rua,Ganges, Vila Carrão,leste,56,2,2100
-rua,Professor Giuliani, Vila Invernada,leste,310,4,5000
-rua,Padre Estevão Pernet, Vila Gomes Cardim,leste,56,2,2600
-rua,Gregório Matos, Vila Regente Feijó,leste,90,3,3000
-rua,Flávio Tambellini, Parque Santa Madalena,leste,40,1,820
-rua,Lagoa Do Campêlo, Itaquera,leste,42,2,1300
-rua,Visconde De Inhomerim, Moóca,leste,80,2,1800
-rua,Visconde De Parnaíba, Lajeado,leste,45,1,2091
-rua,Dona Vitória Speers, Vila Formosa,leste,80,3,1500
-rua,Jarauara, Vila Ré,leste,70,2,1300
-rua,Antônio De Barros, Vila Carrão,leste,60,2,1850
-rua,Estevan De Araújo Almeida, Parada Xv De Novembro,leste,48,2,920
-rua,Piruini, Jardim Jaú (zona Leste),leste,50,2,1200
-rua,Serra De São Domingos, Vila Carmosina,leste,37,1,1450
-rua,Carneiro Leão, Moóca,leste,50,2,1950
-rua,Duarte Lôbo, Conjunto Residencial José Bonifácio,leste,50,2,1200
-rua,Shobee Kumagai, Jardim Belém,leste,100,2,1600
-rua,Ana César, Vila Cunha Bueno,leste,25,1,850
-rua,Barata Ribeiro, Conjunto Habitacional Sitio Conceição,leste,60,2,2700
-rua,Miragem, Vila Regente Feijó,leste,72,2,1500
-rua,Serra De Bragança, Vila Gomes Cardim,leste,55,1,3300
-rua,Júlio Parigot, Vila Antonieta,leste,60,1,1100
-rua,Dona Cecília Santana, Vila Granada,leste,120,2,1650
-rua,Pedro Ângelo Cavazóglio, Parque Das Paineiras,leste,65,2,1050
-rua,Ferreira De Oliveira, Alto Do Pari,leste,70,2,2500
-rua,Dona Vitória Speers,1011,leste,85,2,1900
-rua,Henrique Casela, Jardim América Da Penha,leste,47,1,1500
-rua,Serra Da Bocaina, Quarta Parada,leste,63,2,1900
-rua,Pantojo, Vila Regente Feijó,leste,109,3,2500
-rua,Retiro, Maranhão,leste,48,2,1800
-rua,Serra De Bragança, Vila Gomes Cardim,leste,35,1,2500
-rua,Tomé Ribeiro, Jardim Sapopemba,leste,49,2,1150
-rua,Antônio Pizzoli, Vila Santo Estevão,leste,38,1,1200
-rua,Antônio De Barros, Vila Carrão,leste,60,2,1850
-rua,Barão Do Serro Largo, Vila Regente Feijó,leste,73,2,1470
-rua,Santo Antoninho Do Carrão, Vila Carrão,leste,30,1,820
-rua,Rosa Mendes, Jardim Penha,leste,49,2,1500
-rua,João Barbosa, Cidade Mãe Do Ceu,leste,160,2,2191
-rua,Vinte E Nove De Outubro, Vila Matilde,leste,75,3,1750
-rua,Rosa Mendes, Jardim Penha,leste,49,2,1500
-rua,Cajazeiras, Jardim Casa Pintada,leste,50,2,1250
-rua,Umberto Gorgati, Vila Talarico,leste,45,1,1000
-rua,Ajuru, Chácara Califórnia,leste,125,2,1500
-rua,Coronel José Menezes, Cangaíba,leste,74,2,1100
-rua,Doutor João Gualberto De Oliveira, Vila Santana,leste,60,2,1302
-rua,Vieira De Morais, Lajeado,leste,127,4,3300
-rua,Campo Largo, Vila Bertioga,leste,76,3,2690
-rua,Francisco Gouvêia, Quarta Parada,leste,24,1,1100
-rua,Pantojo, Vila Regente Feijó,leste,90,3,2338
-rua,Emília Marengo, Vila Regente Feijó,leste,65,2,2100
-rua,Antero De Quental, Vila Santa Clara,leste,50,2,1650
-rua,Reboujo, Chácara Santo Antônio (zona Leste),leste,50,1,2200
-rua,Dos Trilhos, Moóca,leste,90,3,2300
-rua,Agrimensor Sugaya, Colônia (zona Leste),leste,50,2,1200
-rua,Viana Do Castelo, Vila Califórnia,leste,77,1,870
-rua,Capitão João Cesário, Penha De Franca,leste,92,3,3500
-rua,Xavier Gouveia, Parque Colonial,leste,154,4,13000
-rua,Ouricuri, Vila Formosa,leste,36,1,1850
-rua,Adélino De Almeida Castilho, Maranhão,leste,130,3,2500
-rua,Boleeiro, Itaquera,leste,124,3,3200
-rua,Reboujo, Chácara Santo Antônio (zona Leste),leste,50,1,2200
-rua,José Alves Dos Santos, Vila Campanela,leste,39,2,1250
-rua,Oswaldo Arouca, Vila Formosa,leste,105,2,3700
-rua,Madre De Deus, Moóca,leste,92,1,2100
-rua,Manuel Leiroz, Vila Penteado,leste,60,2,2000
-rua,Arnaldo Vallardi Portilho, Penha De Franca,leste,40,2,1500
-rua,Parianas, Jardim Jaú (zona Leste),leste,180,2,3500
-rua,Retiro, Maranhão,leste,47,2,1539
-rua,Mooca, Moóca,leste,85,2,2117
-rua,Bento Gonçalves, Vila Regente Feijó,leste,22,1,1150
-rua,Nova Jerusalém, Chácara Santo Antônio (zona Leste),leste,84,3,3000
-rua,Rubéns Galvão De França, Parque Boturussu,leste,35,1,600
-rua,Do Orfanato, Vila Prudente,leste,34,1,1332
-rua,Arnaldo Vallardi Portilho, Penha De Franca,leste,40,1,1100
-rua,Bento Gonçalves, Vila Regente Feijó,leste,25,1,1100
-rua,Bento Gonçalves, Vila Regente Feijó,leste,25,1,1100
-rua,Taquarytinga, Alto Da Mooca,leste,35,1,850
-rua,Nossa Senhora Da Penha, Penha De Franca,leste,40,1,1000
-rua,Aiamá, Maranhão,leste,22,1,650
-rua,Matias João Tavares, Vila Caxambu,leste,35,1,670
-rua,Costa Barros, Sítio Pinheirinho,leste,45,2,1200
-rua,Ministro Carlos Maximiliano, Jardim Maringá,leste,40,1,550
-rua,Lydia Damus Maksoud, Jardim Ampliação,oeste,75,3,1000
-rua,Coronel Bento Bicudo, Piqueri,oeste,49,2,1400
-rua,Antônio De Almeida Naves 000, Butantã,oeste,90,2,3200
-rua,Corinto, Butantã,oeste,70,3,1650
-rua,Domingos Mazzeu, Vila Lageado,oeste,55,2,1850
-rua,Guaicurus, Água Branca,oeste,180,2,2500
-rua,David Ben Gurion, Jardim Monte Kemel,oeste,87,3,1509
-rua,Sebastião Cortês, Perdizes,oeste,48,1,2000
-rua,Paulo Ribeiro Da Luz, Vila Gomes,oeste,20,1,1100
-rua,Bazílio Da Silva, Jardim Monte Alegre,oeste,50,3,1363
-rua,João Simões De Souza, Parque Rebouças,oeste,48,2,1719
-rua,Cotoxó, Perdizes,oeste,67,1,2100
-rua,Antônio Sant#39ana Abranches, Instituto De Previdência,oeste,150,2,3500
-rua,Próspero Cesarino Paoliello, Conjunto Residencial Butantã,oeste,40,1,1200
-rua,Do Símbolo, Jardim Ampliação,oeste,80,2,950
-rua,Mário Zanini, Jardim Pinheiros,oeste,65,2,1386
-rua,Heitor Penteado, Sumarezinho,oeste,50,2,2000
-rua,Paraguaçu, Perdizes,oeste,105,3,3000
-rua,Trajano Reis, Jardim Das Vertentes,oeste,49,2,1650
-rua,Croata, Vila Ipojuca,oeste,84,2,2000
-rua,Poetisa Colombina, Jardim Bonfiglioli,oeste,60,2,2000
-rua,Ibiraçu 76, Vila Madalena,oeste,67,2,3300
-rua,Carlos Weber, Vila Leopoldina,oeste,60,2,5000
-rua,Alves Guimarães, Pinheiros,oeste,66,1,4900
-rua,Carolina Nabuco, Rio Pequeno,oeste,125,2,2200
-rua,Acopiara, Alto Da Lapa,oeste,150,3,3600
-rua,Vicente Ferreira, Jaguaré,oeste,40,1,1250
-rua,Frei Inácio Da Conceição, Vila São Luís,oeste,25,1,1298
-rua,Pantaleão Brás, Jardim Ester,oeste,60,2,1350
-rua,Catão, Vila Romana,oeste,72,1,1418
-rua,Joseph Nigri, Água Branca,oeste,58,2,3700
-rua,Hassib Mofarrej, Vila Leopoldina,oeste,35,1,1950
-rua,Coronel Camisão, Vila Gomes,oeste,63,2,2000
-rua,Professor Artur Ramos, Jardim Paulistano,oeste,44,1,3300
-rua,Francisco Luiz De Souza Júnior, Água Branca,oeste,45,2,1590
-rua,Professor José Horácio Meirelles Teixeira, Vila Suzana,oeste,309,3,1275
-rua,Barão De Tefé, Água Branca,oeste,106,3,2000
-rua,Coriolano, Vila Romana,oeste,127,3,4500
-rua,Capote Valente, Pinheiros,oeste,40,1,2800
-rua,Senador César Lacerda Vergueiro, Sumarezinho,oeste,80,2,3000
-rua,Alves Guimarães, Pinheiros,oeste,87,3,3950
-rua,Heitor Ariente, Jardim Das Vertentes,oeste,280,3,3600
-rua,Adalívia De Tolêdo, Paineiras Do Morumbi,oeste,326,3,8250
-rua,Domingos Lopes Da Silva, Vila Suzana,oeste,248,4,2500
-rua,Manuel De Carvalho, Piqueri,oeste,35,1,750
-rua,Theo Dutra, Jardim Colombo,oeste,205,4,4900
-rua,Capote Valente, Pinheiros,oeste,40,1,2550
-rua,Poetisa Colombina, Jardim Bonfiglioli,oeste,60,2,1800
-rua,Paulo Sergio De Macedo, Lar São Paulo,oeste,76,3,2000
-rua,Belmonte, Bela Aliança,oeste,122,2,8000
-rua,Professor Paulo Tavares, Vila Hamburguesa,oeste,187,3,5000
-rua,Francisco Marcondes Vieira, Lar São Paulo,oeste,120,3,5000
-rua,Henrique Chaves, Jardim Ester,oeste,68,3,3500
-rua,Comendador Elias Assi, Butantã,oeste,66,2,3500
-rua,Diana, Perdizes,oeste,85,2,2100
-rua,Geremia Lunardelli, Jardim Peri Peri,oeste,58,2,1400
-rua,Azem Abdalla Azem, Jardim Bonfiglioli,oeste,100,2,1500
-rua,Josino Bezerra Da Silva, Jardim Ester Yolanda,oeste,75,2,1800
-rua,Paes Leme, Pinheiros,oeste,70,2,5600
-rua,Arthur Soares De Pinho, Vila Graziela,oeste,40,1,1200
-rua,Sebastião Martins, Jardim Bonfiglioli,oeste,70,2,1530
-rua,Sansão Alves Dos Santos, Cidade Moncoes,oeste,50,2,3087
-rua,Flórida, Cidade Moncoes,oeste,47,1,7200
-rua,Capote Valente, Pinheiros,oeste,66,1,3528
-rua,Luís Araújo Faria, Jardim Monte Kemel,oeste,126,4,5000
-rua,Caraíbas, Perdizes,oeste,120,3,2000
-rua,Fernão Dias, Pinheiros,oeste,43,1,4360
-rua,Carlos Weber, Vila Leopoldina,oeste,53,2,2700
-rua,João Avelino Pinho Mellão, Fazenda Morumbi,oeste,165,4,839
-rua,Pio Xi, Alto Da Lapa,oeste,120,3,3300
-rua,Pernambuco, Higienópolis,oeste,296,4,10000
-rua,Fábia, Vila Romana,oeste,206,3,12000
-rua,Critios, Vila Suzana,oeste,185,3,2600
-rua,Horácio Lane, Pinheiros,oeste,121,3,9000
-rua,Joselyr De Moura Bastos, City América,oeste,136,4,5000
-rua,Tomaz Da Mota, Jardim Pinheiros,oeste,157,3,3000
-rua,Berlioz, Alto De Pinheiros,oeste,100,4,8200
-rua,Doutor Miranda De Azevedo, Vila Anglo Brasileira,oeste,40,1,1350
-rua,Tucuna, Perdizes,oeste,55,2,2180
-rua,Torres Da Barra, Água Branca,oeste,31,1,1500
-rua,Diana, Perdizes,oeste,115,4,4424
-rua,Elizabeth Barbegian Baldinato, Vila Suzana,oeste,96,3,3000
-rua,Amália De Noronha, Pinheiros,oeste,56,2,3900
-rua,São Benedito, Jardim Novo Santo Amaro,oeste,70,2,5000
-rua,José De Andrade Moraes, Vila Adalgisa,oeste,94,2,2500
-rua,Cardeal Arcoverde, Pinheiros,oeste,42,1,3286
-rua,Arruda Alvim, Pinheiros,oeste,45,1,2950
-rua,João Simões De Souza, Parque Rebouças,oeste,56,2,1700
-rua,Américo Alves Pereira Filho, Vila Morumbi,oeste,200,3,8000
-rua,Heitor Penteado, Sumarezinho,oeste,70,2,2000
-rua,Capitão Prudente, Pinheiros,oeste,133,3,3300
-rua,Hungria, Jardim Europa,oeste,130,2,9000
-rua,Marie Nader Calfat, Jardim Ampliação,oeste,37,1,1800
-rua,Harmonia, Sumarezinho,oeste,90,2,4700
-rua,José Correia Lima, Jardim Felicidade (zona Oeste),oeste,81,3,2357
-rua,Pais Leme, Pinheiros,oeste,70,1,6000
-rua,Senador César Lacerda Vergueiro, Sumarezinho,oeste,102,3,3500
-rua,Roma, Lapa,oeste,62,2,2900
-rua,Ourânia, Vila Madalena,oeste,70,2,2500
-rua,Maranhão, Higienópolis,oeste,180,3,4800
-rua,Professor Celso Quirino Dos Santos, Cidade São Francisco,oeste,62,3,2200
-rua,Desembargador Guimarães, Água Branca,oeste,34,1,2713
-rua,Francisco Luiz De Souza Júnior, Água Branca,oeste,45,2,2100
-rua,Doutor Edmur De Castro Cotti, Jardim Rizzo,oeste,105,2,2500
-rua,Manuel Dias De Oliveira, Jardim Alvorada (zona Oeste),oeste,41,2,1500
-rua,Roque Petrella, Vila Cordeiro,oeste,51,1,3575
-rua,Heinrich Hertz, Cidade Moncoes,oeste,110,3,3000
-rua,Alagoas, Higienópolis,oeste,38,1,2250
-rua,Pensilvânia, Cidade Moncoes,oeste,178,3,11500
-rua,Barão De Jaguara, Conjunto Residencial Morada Do Sol,oeste,45,1,1753
-rua,Paraguaçu, Perdizes,oeste,55,1,1880
-rua,Diogo Ortiz, Lapa,oeste,140,2,2500
-rua,Teodoro Sampaio, Pinheiros,oeste,65,2,4700
-rua,Sabará, Higienópolis,oeste,100,2,2500
-rua,Joaquim Roseira, Jardim Novo Taboão,oeste,47,2,1500
-rua,João Moura, Pinheiros,oeste,26,1,3000
-rua,Comendador Elias Assi, Caxingui,oeste,66,2,4000
-rua,Bazílio Da Silva, Jardim Monte Alegre,oeste,55,2,1500
-rua,Prado Valadares, Vila Polopoli,oeste,80,2,2100
-rua,Joaquim Antunes, Pinheiros,oeste,107,3,3700
-rua,Agostinho Cantu, Butantã,oeste,64,2,2250
-rua,Teodoro Sampaio, Pinheiros,oeste,65,2,4700
-rua,Constantino Fraga, Vila Hamburguesa,oeste,65,2,1700
-rua,Monte Alegre, Perdizes,oeste,171,3,8500
-rua,Arruda Alvim, Pinheiros,oeste,47,1,2650
-rua,Itambé, Higienópolis,oeste,96,2,4200
-rua,Desembargador Guimarães, Água Branca,oeste,33,1,2537
-rua,Francisco Marcondes Vieira, Lar São Paulo,oeste,102,3,3465
-rua,Professor Dias Castejon, Jardim Monte Kemel,oeste,70,2,2250
-rua,Cláudio, Água Branca,oeste,128,3,3500
-rua,Pensilvânia, Cidade Moncoes,oeste,178,4,10431
-rua,Pedro Sernagiotti, Parque São Domingos,oeste,162,3,4000
-rua,Cláudio Henrique De Paula, Vila Rica,oeste,110,2,1700
-rua,Araçatuba, Vila Ipojuca,oeste,150,2,4500
-rua,Mateus Grou, Pinheiros,oeste,94,2,5350
-rua,Cardoso De Almeida, Perdizes,oeste,170,3,3500
-rua,Caativa, Alto Da Lapa,oeste,450,3,6500
-rua,Constantino Fraga, Vila Hamburguesa,oeste,65,2,1500
-rua,Doutor Cândido Espinheira, Perdizes,oeste,70,2,2725
-rua,Francisco Leitão, Pinheiros,oeste,64,1,3000
-rua,Mateus Grou, Pinheiros,oeste,51,1,2500
-rua,Santa Crescência, Ferreira,oeste,47,2,1600
-rua,Raul Pompéia, Vila Pompéia,oeste,110,4,5000
-rua,Ministro Godói, Perdizes,oeste,75,3,2300
-rua,Tucuna, Perdizes,oeste,160,4,6000
-rua,Doutor Virgílio De Carvalho Pinto, Pinheiros,oeste,40,1,3500
-rua,Antônio Aggio, Jardim Ampliação,oeste,165,4,2790
-rua,Professor José Horácio Meirelles Teixeira, Vila Suzana,oeste,163,4,5000
-rua,Doutor Virgílio De Carvalho Pinto, Pinheiros,oeste,40,1,3500
-rua,Roque Petrella, Vila Cordeiro,oeste,96,3,3924
-rua,Monte Alegre, Perdizes,oeste,45,1,2100
-rua,Hugo Carotini, Instituto De Previdência,oeste,350,3,5500
-rua,Manuel Henrique Lopes, Pinheiros,oeste,59,2,2300
-rua,Ribeiro De Barros, Vila Anglo Brasileira,oeste,77,3,4000
-rua,Ordenações Manuelinas, Vila Morse,oeste,144,3,2500
-rua,Coronel Ferreira Leal, Vila Gomes,oeste,50,1,2200
-rua,Nicolau Barreto, Vila Cordeiro,oeste,49,1,3200
-rua,Teodoro Sampaio, Pinheiros,oeste,60,2,3500
-rua,Eusébio De Paiva, Vila Ipojuca,oeste,150,2,4340
-rua,Doutor Homem De Melo, Perdizes,oeste,100,2,2900
-rua,Dos Pinheiros, Pinheiros,oeste,48,1,2027
-rua,Dankmar Adler, Vila Suzana,oeste,122,2,3500
-rua,Caiubí, Perdizes,oeste,215,3,10000
-rua,Doutor Alfredo Di Vernieri, Conjunto Residencial Butantã,oeste,30,1,1500
-rua,Major Rubens Florentino Vaz, Vila Pirajussara,oeste,10,1,1500
-rua,Vanderlei, Perdizes,oeste,79,2,2600
-rua,Padre Carvalho, Pinheiros,oeste,74,2,3200
-rua,Cayowaá, Perdizes,oeste,78,3,3400
-rua,Oscar Freire, Pinheiros,oeste,60,1,3800
-rua,Jorge Americano, Alto Da Lapa,oeste,110,3,2474
-rua,Torres Da Barra, Água Branca,oeste,31,1,1750
-rua,Oscar Freire, Jardim Paulistano,oeste,83,2,2500
-rua,Alves Guimarães, Pinheiros,oeste,80,2,3200
-rua,Tucuna, Perdizes,oeste,120,3,2600
-rua,Alves Guimarães, Pinheiros,oeste,33,1,3690
-rua,Doutor José Elias, Alto Da Lapa,oeste,60,1,5000
-rua,Jorge Americano, Alto Da Lapa,oeste,67,3,2200
-rua,Parnamirim, Jaguaré,oeste,63,3,2200
-rua,São Manuel, Pinheiros,oeste,110,3,3500
-rua,Alves Guimarães, Pinheiros,oeste,33,1,3490
-rua,Fradique Coutinho, Pinheiros,oeste,30,1,2700
-rua,Oscar Freire, Pinheiros,oeste,125,3,5000
-rua,Capote Valente, Pinheiros,oeste,329,3,14000
-rua,Sansão Alves Dos Santos, Cidade Moncoes,oeste,55,1,5995
-rua,Fortunato Ferraz, Vila Anastácio,oeste,49,2,2490
-rua,Santa Isabel Do Rio Negro, Jardim Íris,oeste,50,2,1850
-rua,Amália De Noronha, Pinheiros,oeste,40,1,2400
-rua,Fradique Coutinho, Pinheiros,oeste,22,1,2100
-rua,Manuel Guedes, Jardim Europa,oeste,46,1,4000
-rua,Do Simbolo, Jardim Ampliação,oeste,72,2,1870
-rua,Doutor Luiz Migliano, Jardim Caboré,oeste,150,2,4000
-rua,Doutor Luiz Migliano, Jardim Caboré,oeste,64,2,2263
-rua,Pantaleão Brás, Jardim Ester,oeste,340,4,3700
-rua,João Simões De Souza, Parque Rebouças,oeste,75,2,2500
-rua,Cônego Eugênio Leite, Pinheiros,oeste,65,2,3600
-rua,Minerva, Perdizes,oeste,67,2,2455
-rua,Dona Veridiana, Higienópolis,oeste,60,2,2700
-rua,Nicolau Barreto, Vila Cordeiro,oeste,49,1,3200
-rua,Doutor Carlos Aldrovandi, Jardim Parque Morumbi,oeste,53,2,1826
-rua,Butantã, Pinheiros,oeste,120,2,3600
-rua,Pernambuco, Higienópolis,oeste,206,2,8500
-rua,Coronel Camisão, Vila Gomes,oeste,64,2,2500
-rua,Fernão Dias, Pinheiros,oeste,114,2,8535
-rua,Camburiú, Vila Ipojuca,oeste,62,2,3131
-rua,Capote Valente, Pinheiros,oeste,52,1,3300
-rua,Faustolo, Água Branca,oeste,61,2,3000
-rua,Turiassu, Perdizes,oeste,24,1,1880
-rua,Fernão Dias, Pinheiros,oeste,60,1,4000
-rua,Professor Ciridião Buarque, Vila Anglo Brasileira,oeste,42,1,2500
-rua,Flórida, Cidade Moncoes,oeste,100,3,4579
-rua,Cayowaá, Perdizes,oeste,55,1,2904
-rua,Doutor Laerte Setubal, Vila Suzana,oeste,64,2,1960
-rua,Coronel Luís Barroso, Jardim Novo Santo Amaro,oeste,41,1,2240
-rua,Francisco Luís De Souza Júnior, Água Branca,oeste,45,2,1672
-rua,Raul Adalberto De Campos, Vila Madalena,oeste,84,2,2800
-rua,Girassol, Vila Madalena,oeste,112,3,4200
-rua,Cotoxó, Perdizes,oeste,85,2,2443
-rua,Delfina, Vila Madalena,oeste,56,2,5603
-rua,Sansão Alves Dos Santos, Cidade Moncoes,oeste,44,2,3250
-rua,João Moura, Pinheiros,oeste,62,2,4500
-rua,Oscar Freire, Pinheiros,oeste,48,2,4337
-rua,Doutor Cândido Espinheira, Perdizes,oeste,186,5,12000
-rua,Tucuna, Perdizes,oeste,48,1,2599
-rua,Itapicuru, Perdizes,oeste,60,2,2451
-rua,Ministro Ferreira Alves, Perdizes,oeste,75,2,4300
-rua,Piauí, Higienópolis,oeste,130,3,5000
-rua,Arizona, Cidade Moncoes,oeste,43,1,4800
-rua,Itaiteva, Jardim Ampliação,oeste,44,2,1370
-rua,Martinico Prado, Vila Madalena,oeste,160,3,4125
-rua,Mourato Coelho, Pinheiros,oeste,36,1,3750
-rua,Carlos Weber, Vila Leopoldina,oeste,270,3,9000
-rua,Américo Alves Pereira Filho, Vila Morumbi,oeste,220,4,4000
-rua,Nazira Carone, Jardim Ampliação,oeste,49,1,1900
-rua,Mourato Coelho, Pinheiros,oeste,34,1,2794
-rua,Apiacás, Perdizes,oeste,70,2,2100
-rua,Michael Faraday, Cidade Moncoes,oeste,80,2,3694
-rua,Pais Leme, Pinheiros,oeste,90,2,6800
-rua,Croata, Vila Ipojuca,oeste,126,4,3900
-rua,Cayowaá, Perdizes,oeste,81,3,3300
-rua,Oscar Freire, Pinheiros,oeste,180,3,8000
-rua,Lincoln Albuquerque, Perdizes,oeste,206,3,12500
-rua,José De Andrade Moraes, Vila Adalgisa,oeste,65,2,2350
-rua,Quintana, Cidade Moncoes,oeste,54,1,3000
-rua,Venâncio Aires, Vila Pompéia,oeste,101,2,3000
-rua,Joáo Gomes Junior 116, Jardim Bonfiglioli,oeste,125,3,3300
-rua,Pais Leme, Pinheiros,oeste,68,1,5750
-rua,Apinajés, Sumarezinho,oeste,97,3,3566
-rua,Antônio Júlio Dos Santos, Fazenda Morumbi,oeste,47,2,1402
-rua,Guaraiúva,268,oeste,50,2,1850
-rua,Sebastião Gil, Pinheiros,oeste,47,1,2150
-rua,Francisco Leitão, Pinheiros,oeste,58,1,3000
-rua,João Avelino Pinho Mellão, Fazenda Morumbi,oeste,55,2,1445
-rua,Frei Bonifácio Dux, Jardim Colombo,oeste,90,2,1900
-rua,Chico Mana, Vila Analia,oeste,30,1,798
-rua,Alvaro Rodrigues, Vila Cordeiro,oeste,26,1,2776
-rua,Itirapuã, Jardim Iracema,oeste,35,1,1050
-rua,Doutor Osvaldo Mellone, Vila Prel,oeste,30,1,1050
-rua,Mourato Coelho, 1344,oeste,250,3,11000
-rua,Capote Valente, Pinheiros,oeste,35,1,4152
-rua,Alvaro Rodrigues, Vila Cordeiro,oeste,29,1,2776
-rua,Bela Cintra, Consolação,centro,43,1,1200
-rua,Glicério, Liberdade,centro,45,2,1600
-rua,Carneiro Leão, Brás,centro,76,3,1400
-rua,Domingos Paiva, Brás,centro,50,2,3000
-rua,Santo Amaro, Bela Vista,centro,36,1,1000
-rua,Carlos Sampaio, Bela Vista,centro,54,1,1500
-rua,Abolição, Bela Vista,centro,35,1,1100
-rua,Paim, Bela Vista,centro,28,1,800
-rua,Afonso Pena, Bom Retiro,centro,43,2,1700
-rua,Conselheiro Brotero, Santa Cecília,centro,142,3,3500
-rua,Nestor Pestana, Consolação,centro,35,1,1187
-rua,Amaral Gurgel, Consolação,centro,29,1,1093
-rua,24 De Maio, República,centro,58,1,1284
-rua,Guarani, Bom Retiro,centro,80,2,1650
-rua,Carlos Sampaio, Bela Vista,centro,100,3,3000
-rua,Tabatinguera, Sé,centro,23,1,1300
-rua,Álvaro Guimarães, Bela Vista,centro,33,1,3500
-rua,Albuquerque Lins, Santa Cecília,centro,69,1,2500
-rua,Prates, Bom Retiro,centro,120,2,1800
-rua,Doutor Melo Alves, Cerqueira César,centro,269,3,15000
-rua,Da Consolação, Consolação,centro,47,2,2750
-rua,Treze De Maio, Bela Vista,centro,30,1,1300
-rua,Margarida, Barra Funda,centro,70,1,1580
-rua,Ana Cintra, Campos Elíseos,centro,26,1,1100
-rua,Nestor Pestana, Consolação,centro,35,1,1187
-rua,Da Consolação, Consolação,centro,40,1,1838
-rua,Santa Isabel, Vila Buarque,centro,40,1,3200
-rua,Tabatinguera, Sé,centro,42,1,1100
-rua,Martins Fontes, Centro,centro,35,1,1200
-rua,Amaral Gurgel, Vila Buarque,centro,30,1,1443
-rua,Marquês Itu, Vila Buarque,centro,123,3,2838
-rua,Maria Antônia, Vila Buarque,centro,26,1,1428
-rua,Doutor Cesário Mota Júnior, Vila Buarque,centro,82,2,2060
-rua,Jaceguai, Bela Vista,centro,25,1,1229
-rua,Jesuíno Pascoal, Vila Buarque,centro,34,1,1150
-rua,Manoel Dutra, Bela Vista,centro,40,1,1500
-rua,Aurora, Santa Efigênia,centro,36,1,1190
-rua,Frei Caneca, Consolação,centro,60,1,3400
-rua,Martiniano De Carvalho, Bela Vista,centro,97,2,3650
-rua,Afonso Pena, Bom Retiro,centro,43,2,1760
-rua,Vitorino Carmilo, Barra Funda,centro,70,2,1750
-rua,Dona Antônia De Queirós, Consolação,centro,40,1,2000
-rua,Caio Prado, Consolação,centro,64,2,3600
-rua,Tamandaré, Liberdade,centro,31,1,3200
-rua,Afonso Pena, Bom Retiro,centro,42,2,2200
-rua,Domingos Paiva, Brás,centro,57,2,3000
-rua,Lopes De Oliveira, Barra Funda,centro,50,1,1450
-rua,Tagipuru, Barra Funda,centro,55,2,2800
-rua,Lopes De Oliveira, Barra Funda,centro,50,1,1450
-rua,Luís Pachêco, Luz,centro,27,2,1350
-rua,Otto De Alencar, Liberdade,centro,33,1,1450
-rua,Lopes De Oliveira, Barra Funda,centro,50,1,1450
-rua,Lopes De Oliveira, Barra Funda,centro,50,1,1450
-rua,Jaceguai, Bela Vista,centro,38,1,2000
-rua,Santo Amaro, Bela Vista,centro,80,2,4413
-rua,Maria Antônia, Vila Buarque,centro,44,1,1700
-rua,Herculano De Freitas, Bela Vista,centro,34,1,1800
-rua,Doutor Albuquerque Lins, Santa Cecília,centro,97,3,2950
-rua,Frei Caneca, Consolação,centro,24,1,2300
-rua,Itararé, Bela Vista,centro,36,1,2100
-rua,General Jardim, Vila Buarque,centro,100,2,2500
-rua,Tamandaré, Liberdade,centro,32,1,1500
-rua,Melo Alves, Cerqueira César,centro,78,2,4300
-rua,Jaguaribe, Vila Buarque,centro,45,1,2950
-rua,Aurora, Santa Efigênia,centro,48,2,1600
-rua,Francisco Gonçalves De Andrade Machado, Bela Vista,centro,45,1,1400
-rua,Das Carmelitas, Sé,centro,40,1,1200
-rua,Conselheiro Furtado, Liberdade,centro,25,1,1578
-rua,General Jardim, Vila Buarque,centro,100,2,2500
-rua,Frei Caneca, Consolação,centro,50,2,2000
-rua,Bela Cintra, Consolação,centro,45,1,3100
-rua,São Vicente De Paula, Santa Cecília,centro,86,2,4300
-rua,Doutor Plínio Barreto, Bela Vista,centro,52,1,3100
-rua,Conselheiro Furtado, Liberdade,centro,35,1,1000
-rua,Oscar Freire, Cerqueira César,centro,178,3,5900
-rua,Cônego Vicente Miguel Marino, Barra Funda,centro,33,1,1920
-rua,Doutor Penaforte Mendes, Bela Vista,centro,40,1,1500
-rua,Santo Amaro, Bela Vista,centro,60,1,1539
-rua,Avaré, Consolação,centro,380,4,13000
-rua,Baronesa De Itu, Santa Cecília,centro,48,1,2600
-rua,Martinico Prado, Vila Buarque,centro,45,1,2515
-rua,Santo Antônio, Bela Vista,centro,50,1,3200
-rua,Vergueiro, Liberdade,centro,23,1,4350
-rua,Das Palmeiras, Vila Buarque,centro,105,2,2300
-rua,Doutor Roberto Mercatelli, Barra Funda,centro,110,2,3000
-rua,Vitorino Carmilo, Barra Funda,centro,85,2,2500
-rua,Martim Francisco, Vila Buarque,centro,80,2,2500
-rua,São Joaquim, Liberdade,centro,85,2,1800
-rua,São Carlos Do Pinhal, Bela Vista,centro,120,2,4718
-rua,Marquês De Itu, Vila Buarque,centro,40,1,1300
-rua,Dos Franceses, Morro Dos Ingleses,centro,36,1,1600
-rua,Da Consolação, Cerqueira César,centro,98,2,3900
-rua,Coronel Silva Gomes, Canindé,centro,70,2,2500
-rua,Basílio Da Cunha, Vila Deodoro,centro,87,3,1900
-rua,Da Glória, Liberdade,centro,28,1,1900
-rua,Doutor Seng, Bela Vista,centro,46,1,2800
-rua,Glicério, Liberdade,centro,53,2,2700
-rua,Asdrúbal Do Nascimento, Bela Vista,centro,78,1,1400
-rua,Augusta, Consolação,centro,32,1,1321
-rua,Barão De Iguape, Liberdade,centro,45,2,3500
-rua,Aurora, Santa Efigênia,centro,30,1,1900
-rua,Conselheiro Furtado, Liberdade,centro,24,1,2500
-rua,Major Sertório, Vila Buarque,centro,30,1,1800
-rua,Conselheiro Furtado, Liberdade,centro,35,1,1000
-rua,Paim, Bela Vista,centro,74,2,5200
-rua,Brigadeiro Galvão, Barra Funda,centro,47,2,2500
-rua,Martiniano De Carvalho, Bela Vista,centro,50,1,1500
-rua,Glicério, Liberdade,centro,39,1,2000
-rua,Cristiano Viana, Cerqueira César,centro,100,3,3500
-rua,Azevedo Marques, Santa Cecília,centro,78,1,2390
-rua,São Carlos Do Pinhal, Bela Vista,centro,70,1,3150
-rua,Doutor Seng, Bela Vista,centro,50,1,1600
-rua,Imaculada Conceição, Vila Buarque,centro,52,1,2060
-rua,Genebra, Bela Vista,centro,34,1,2431
-rua,Martim Burchard, Brás,centro,45,2,1785
-rua,São Carlos Do Pinhal, Bela Vista,centro,130,2,4700
-rua,Santa Branca, Bela Vista,centro,100,2,4000
-rua,Santo Antônio, Bela Vista,centro,35,1,2800
-rua,Rubens Meireles, Várzea Da Barra Funda,centro,41,1,2400
-rua,Santa Isabel, Vila Buarque,centro,52,2,3800
-rua,Maestro Cardim, Bela Vista,centro,92,2,2350
-rua,Santo Amaro, Bela Vista,centro,30,1,1100
-rua,Matias Aíres, Consolação,centro,115,3,4400
-rua,Bela Cintra, Consolação,centro,47,1,1200
-rua,Bela Cintra, Consolação,centro,80,3,6500
-rua,Dona Antônia De Queirós, Consolação,centro,40,1,2500
-rua,Mesquita, Vila Deodoro,centro,55,2,2200
-rua,Turiassú, Parque Industrial Tomas Edson,centro,25,1,2509
-rua,General Jardim, Vila Buarque,centro,33,1,1200
-rua,Santo Antônio, Bela Vista,centro,170,3,3200
-rua,Frei Caneca, Consolação,centro,30,1,1600
-rua,Frei Caneca, Consolação,centro,24,1,2200
-rua,Doutor Seng, Bela Vista,centro,70,1,3300
-rua,Carlos Sampaio, Bela Vista,centro,42,1,1495
-rua,Washington Luís, Centro,centro,23,1,2400
-rua,Baronesa De Itu, Santa Cecília,centro,84,2,3700
-rua,Martiniano De Carvalho, Bela Vista,centro,56,2,2600
-rua,Doutor Seng, Bela Vista,centro,45,1,2336
-rua,Major Quedinho, Centro,centro,65,2,4400
-rua,Doutor José Manuel, Santa Cecília,centro,50,1,1600
-rua,Albuquerque Lins, Santa Cecília,centro,50,1,2457
-rua,Frei Caneca, Consolação,centro,40,1,1916
-rua,Vitorino Carmilo, Barra Funda,centro,80,2,2500
-rua,Avanhandava, Bela Vista,centro,36,1,2000
-rua,Doutor Gabriel Dos Santos, Santa Cecília,centro,170,3,5000
-rua,Da Consolação, Consolação,centro,55,2,2900
-rua,Tupi, Santa Cecília,centro,55,1,1700
-rua,Da Consolação, Cerqueira César,centro,341,3,15000
-rua,Das Palmeiras, Vila Buarque,centro,44,1,2500
-rua,Brigadeiro Galvão, Barra Funda,centro,65,2,2200
-rua,Bela Cintra, Consolação,centro,85,2,4000
-rua,Da Consolação, Consolação,centro,35,1,4620
-rua,Dos Franceses, Morro Dos Ingleses,centro,53,1,1650
-rua,Da Consolação, Consolação,centro,39,1,1632
-rua,Basílio Da Cunha, Vila Deodoro,centro,90,3,2800
-rua,Tupi, Santa Cecília,centro,90,2,2600
-rua,Capistrano De Abreu, Barra Funda,centro,50,2,2350
-rua,Maria Antônia, Vila Buarque,centro,32,1,2150
-rua,Vinte E Cinco De Janeiro, Luz,centro,44,2,2200
-rua,Alegria, Brás,centro,40,1,2300
-rua,Augusta, Consolação,centro,88,2,2435
-rua,Frei Caneca, Consolação,centro,40,1,1800
-rua,Antônio Carlos, Consolação,centro,470,3,15000
-rua,Bela Cintra, Consolação,centro,44,1,2209
-rua,José Kauer, Brás,centro,35,1,1800
-rua,Barata Ribeiro, Bela Vista,centro,65,2,4200
-rua,Frei Caneca, Consolação,centro,90,2,2900
-rua,Visconde De Parnaíba, Brás,centro,52,2,2970
-rua,Paim, Bela Vista,centro,34,1,10000
-rua,Doutor Cesário Mota Júnior, Vila Buarque,centro,24,1,1490
-rua,Bela Cintra, Consolação,centro,113,3,5700
-rua,Santo Antônio, Bela Vista,centro,48,1,2200
-rua,Caio Prado, Consolação,centro,47,1,2400
-rua,Bela Cintra, Consolação,centro,35,1,1500
-rua,Caio Prado, Consolação,centro,114,2,2800
-rua,Cônego Vicente Miguel Marino, Barra Funda,centro,33,1,1751
-rua,Conselheiro Ramalho, Bela Vista,centro,58,2,2398
-rua,Martiniano De Carvalho, Bela Vista,centro,64,2,3600
-rua,Tamandaré, Liberdade,centro,70,2,4000
-rua,Doutor Brasilio Machado, Santa Cecília,centro,109,2,2600
-rua,Antônio Carlos, Consolação,centro,47,1,2500
-rua,Santo Antônio, Bela Vista,centro,35,1,2430
-rua,Das Palmeiras, Vila Buarque,centro,57,1,2700
-rua,Treze De Maio, Bela Vista,centro,40,1,1500
-rua,Maria José, Bela Vista,centro,88,2,2220
-rua,Tamandaré, Liberdade,centro,39,1,1600
-rua,Bela Cintra, Consolação,centro,180,2,8900
-rua,Álvaro De Carvalho, Centro,centro,44,1,2450
-rua,Doutor Sérgio Meira, Barra Funda,centro,58,2,2100
-rua,Helvétia, Campos Elíseos,centro,35,1,2286
-rua,Bela Cintra, Consolação,centro,48,1,1700
-rua,Artur Prado, Bela Vista,centro,185,3,9000
-rua,Santo Antonio, Bela Vista,centro,65,2,1985
-rua,Vinte E Cinco De Janeiro, Luz,centro,47,2,2100
-rua,Brigadeiro Tobias, Centro,centro,30,1,2330
-rua,Da Consolação, Cerqueira César,centro,58,1,6000
-rua,Adolfo Gordo, Campos Elíseos,centro,37,1,2032
-rua,Carlos Sampaio, Bela Vista,centro,89,2,2600
-rua,Santo Antônio, Bela Vista,centro,35,1,2430
-rua,Major Diogo, Bela Vista,centro,61,2,1900
-rua,Santa Isabel, Vila Buarque,centro,52,2,3390
-rua,Aureliano Coutinho, Vila Buarque,centro,70,2,3400
-rua,Brigadeiro Tobias, Centro,centro,30,1,2430
-rua,Bela Cintra, Consolação,centro,30,1,2846
-rua,Martins Fontes, Centro,centro,200,3,3334
-rua,Helvétia, Campos Elíseos,centro,36,1,2400
-rua,Santo Antônio, Bela Vista,centro,35,1,2300
-rua,Paim, Bela Vista,centro,97,2,2700
-rua,Santo Antônio, Bela Vista,centro,35,1,2542
-rua,Doutor Vila Nova, Vila Buarque,centro,68,2,2137
-rua,Rêgo Freitas, República,centro,20,1,1922
-rua,Albuquerque Lins, Santa Cecília,centro,69,1,2351
-rua,Amaral Gurgel, Consolação,centro,35,1,1700
-rua,Consolação, Cerqueira César,centro,28,1,2100
-rua,Genebra, Bela Vista,centro,38,1,2150
-rua,Da Consolação, Cerqueira César,centro,71,2,3000
-rua,Avanhandava, Bela Vista,centro,28,1,1900
-rua,Da Consolação, Cerqueira César,centro,130,2,4900
-rua,Frei Caneca, Consolação,centro,42,1,1985
-rua,Tupi, Santa Cecília,centro,75,1,2000
-rua,Bela Cintra, Consolação,centro,34,1,3150
-rua,General Rondon, Campos Elíseos,centro,149,2,1980
-rua,Albuquerque Lins, Santa Cecília,centro,60,1,2000
-rua,Frei Caneca, Consolação,centro,24,1,2200
-rua,Washington Luís, Centro,centro,23,1,2500
-rua,Professor Picarolo, Bela Vista,centro,70,2,4000
-rua,Bela Cintra, Consolação,centro,28,1,3200
-rua,Pio Xii, Liberdade,centro,62,2,2600
-rua,Doutor Melo Alves, Cerqueira César,centro,32,1,3300
-rua,Luís Coelho, Consolação,centro,48,1,2125
-rua,Avanhandava, Bela Vista,centro,45,1,1854
-rua,Frei Caneca, Consolação,centro,24,1,2200
-rua,Newton Prado, Bom Retiro,centro,52,2,2300
-rua,Tagipuru, Barra Funda,centro,85,2,3666
-rua,Timbiras, Santa Efigênia,centro,30,1,1500
-rua,Da Consolação, Cerqueira César,centro,183,2,5500
-rua,Santo Amaro, Bela Vista,centro,40,1,1626
-rua,Conselheiro Brotero, Barra Funda,centro,71,3,3300
-rua,Palmeiras, Vila Buarque,centro,42,1,2150
-rua,Prates, Bom Retiro,centro,100,2,2241
-rua,Frei Caneca, Consolação,centro,40,1,2600
-rua,Genebra, Bela Vista,centro,38,1,1955
-rua,Consolação, Consolação,centro,34,1,1300
-rua,Jaraguá, Bom Retiro,centro,57,2,2600
-rua,Luís Pachêco, Luz,centro,27,1,1350
-rua,Doutor Penaforte Mendes, Bela Vista,centro,30,1,1800
-rua,Guaianases, 1508 - Campos Elíseos,centro,39,1,990
-rua,Major Sertório, Vila Buarque,centro,30,1,1500
-rua,Major Sertório, Vila Buarque,centro,35,1,1400
-rua,Manoel Dutra, Bela Vista,centro,50,1,2514
-rua,Da Consolação, Cerqueira César,centro,29,1,1900
-rua,Augusta, Consolação,centro,70,2,2500
-rua,Major Diogo, Bela Vista,centro,40,1,1400
-rua,Frei Caneca, Consolação,centro,30,1,1280
-rua,Luís Pachêco, Luz,centro,27,1,1350
-rua,Conselheiro Ramalho, Bela Vista,centro,30,1,1100
-rua,Bela Cintra, Consolação,centro,43,1,1200
-rua,Doutor Falcão Filho, Centro,centro,28,1,1000
-rua,Bela Cintra, Consolação,centro,47,1,1200
-rua,Bela Cintra, Consolação,centro,50,1,1700
-rua,Conselheiro Nébias, Campos Elíseos,centro,42,1,1200
-rua,Frei Caneca, Consolação,centro,30,1,1500
-rua,Da Consolação, Cerqueira César,centro,30,1,1750
-rua,Jaguaribe, Vila Buarque,centro,61,1,2250
-rua,Adolfo Gordo, Campos Elíseos,centro,30,1,1400
-avenida,Direitos Humanos, Imirim,norte,77,3,1800
-avenida,Basiléia, Lauzane Paulista,norte,52,2,1200
-avenida,Imirim, Imirim,norte,32,1,850
-avenida,Miguel Conejo, Vila Albertina,norte,130,4,3300
-avenida,Conceição, Vila Paiva,norte,33,1,991
-avenida,General Ataliba Leonel, Parada Inglesa,norte,80,3,3200
-avenida,General Ataliba Leonel, Parada Inglesa,norte,75,3,1900
-avenida,Nova Cantareira, Tucuruvi,norte,148,3,4500
-avenida,Álvaro Machado Pedrosa, Parada Inglesa,norte,77,3,2000
-avenida,Álvaro Machado Pedrosa, Parada Inglesa,norte,67,2,1500
-avenida,Casa Verde, Casa Verde,norte,30,1,1000
-avenida,Júlio Buono, Vila Gustavo,norte,143,3,2300
-avenida,Conceição, Vila Paiva,norte,42,1,1000
-avenida,Jaçanã, Jaçanã,norte,51,2,1635
-avenida,Túlio Teodoro De Campos, Vila Paulista,norte,78,3,1695
-avenida,Inajar De Souza, Limão,norte,57,2,2400
-avenida,Rangel Pestana, Jardim Brasília (zona Norte),norte,35,1,1500
-avenida,Tenente Júlio Prado Neves, Vila Albertina,norte,120,3,2000
-avenida,Braz Leme, Santana,norte,83,3,3060
-avenida,Itaberaba, Nossa Senhora Do Ó,norte,110,2,3000
-avenida,Raimundo Pereira De Magalhães, Jardim Peri,norte,36,1,1200
-avenida,Joaquina Ramalho, Vila Guilherme,norte,160,3,2500
-avenida,Henri Janor, Vila Santa Terezinha (zona Norte),norte,70,2,1600
-avenida,General Ataliba Leonel, Santana,norte,80,3,3200
-avenida,Sebastião Henriques, Vila Siqueira (zona Norte),norte,63,3,2700
-avenida,Mazzei, Vila Mazzei,norte,53,2,2200
-avenida,Daniel Malettini, Vila Aurora,norte,67,3,1300
-avenida,Celso Garcia, Jardim Brasília (zona Norte),norte,45,2,2000
-avenida,Doutor Benedito Estevam Dos Santos, Vila Maria Alta,norte,35,1,1000
-avenida,Antônio De Souza Noschese, Jardim Peri,norte,60,2,1700
-avenida,Mofarrej, Jardim Peri,norte,70,2,3750
-avenida,Elísio Teixeira Leite, Vila Brasilândia,norte,97,2,1600
-avenida,Maestro Villa-lobos, Vila Gustavo,norte,70,2,1500
-avenida,Paulo Lincoln Do Valle Pontin, Jaçanã,norte,60,2,1500
-avenida,Santa Inês, Parque Mandaqui,norte,73,3,1700
-avenida,Conceição, Carandiru,norte,70,2,2800
-avenida,Jardim Japão, Jardim Brasil,norte,36,1,860
-avenida,Leôncio De Magalhães, Jardim São Paulo,norte,60,1,1355
-avenida,Fuad Lutfalla, Vila Maria Trindade,norte,50,1,1350
-avenida,Mazzei, Vila Mazzei,norte,60,1,1108
-avenida,José Maria Fernandes, Parque Novo Mundo,norte,58,2,1500
-avenida,Guapira, Tucuruvi,norte,42,1,1600
-avenida,Parada Pinto, Vila Nova Cachoeirinha,norte,72,3,1400
-avenida,Jardim Japão, Jardim Brasil,norte,36,1,968
-avenida,Cônego José Salomon, Jardim Peri,norte,70,2,1200
-avenida,Elísio Teixeira Leite, Vila Brasilândia,norte,49,2,1650
-avenida,Milton Da Rocha, Vila Sabrina,norte,40,1,1000
-avenida,Milton Da Rocha, Vila Sabrina,norte,40,1,1100
-avenida,Júlio Buono, Vila Gustavo,norte,60,2,2600
-avenida,Imirim, Imirim,norte,55,2,1800
-avenida,Ordem E Progresso, Jardim Das Laranjeiras,norte,100,3,1850
-avenida,João Pessoa, Lauzane Paulista,norte,56,2,1600
-avenida,Professora Virgília Rodrigues Alves De Carvalho Pinto, Jardim Leonor Mendes De Barros,norte,50,2,1790
-avenida,Paula Ferreira, Freguesia Do Ó,norte,89,2,2250
-avenida,Daniel Malettini, Vila Aurora,norte,70,3,1300
-avenida,Leonardo Da Vinci, Vila Guarani (z Sul),sul,65,2,1400
-avenida,Benigno Carrera, Vila Campestre,sul,35,1,900
-avenida,Lacerda Franco, Cambuci,sul,68,2,1500
-avenida,Macuco, Moema,sul,60,2,2600
-avenida,Ibirapuera, Indianópolis,sul,27,1,792
-avenida,Santo Amaro, Brooklin Paulista,sul,75,2,1700
-avenida,Washington Luís 1576, Santo Amaro,sul,309,4,6000
-avenida,Cupecê, Jardim Prudência,sul,64,2,2100
-avenida,Itaboraí, Bosque Da Saúde,sul,56,2,1600
-avenida,Moema, Moema,sul,30,1,1800
-avenida,Dos Carinás, Indianópolis,sul,63,2,3200
-avenida,Nove De Julho, Jardim Paulista,sul,110,3,4000
-avenida,Engenheiro Armando De Arruda Pereira, Jabaquara,sul,59,2,1762
-avenida,Brigadeiro Luís Antônio, Jardim Paulista,sul,105,3,3751
-avenida,Nhandú, Planalto Paulista,sul,15,1,1200
-avenida,Nove De Julho, Jardim Paulista,sul,98,2,4000
-avenida,Dos Ourives, Jardim São Savério,sul,42,2,1140
-avenida,Coronel José Píres De Andrade, Vila Moinho Velho,sul,86,2,3960
-avenida,Chibarás, Moema,sul,41,1,2500
-avenida,Dos Ourives, Jardim São Savério,sul,64,2,1600
-avenida,Cupecê, Jardim Prudência,sul,40,2,1700
-avenida,Lins De Vasconcelos, Vila Mariana,sul,34,1,1400
-avenida,Dos Ourives, Jardim São Savério,sul,50,2,1272
-avenida,Mascote, Vila Mascote,sul,41,1,2000
-avenida,Fagundes Filho, Vila Monte Alegre,sul,72,2,1900
-avenida,Sargento Geraldo Sant’ana, Jardim Taquaral,sul,70,2,2200
-avenida,Fagundes Filho, Vila Monte Alegre,sul,54,2,1800
-avenida,Giovanni Gronchi, Vila Andrade,sul,98,3,2400
-avenida,Miguel Yunes, Usina Piratininga,sul,62,2,2200
-avenida,Água Funda, Vila Guarani (z Sul),sul,250,5,4000
-avenida,Miruna, Indianópolis,sul,800,6,5200
-avenida,Francisco Rodrigues, Vila Constança,sul,260,3,4500
-avenida,Sargento Geraldo Sant#39ana, Jardim Taquaral,sul,70,3,1600
-avenida,Dos Carinás, Indianópolis,sul,25,1,3000
-avenida,Rouxinol, Indianópolis,sul,110,3,3050
-avenida,Duquesa De Goiás, Real Parque,sul,37,1,1569
-avenida,Itaboraí, Bosque Da Saúde,sul,98,2,3900
-avenida,Santo Amaro, Brooklin Paulista,sul,59,2,5900
-avenida,Giovanni Gronchi, Vila Andrade,sul,56,2,1217
-avenida,Tiradentes, Cidade Luz,sul,49,2,1900
-avenida,Adolfo Pinheiro, Santo Amaro,sul,94,3,2900
-avenida,Santo Amaro, Brooklin Paulista,sul,75,2,1900
-avenida,Santo Amaro, Brooklin Paulista,sul,75,1,1900
-avenida,Macuco, Moema,sul,80,2,4900
-avenida,Dos Ourives, Jardim São Savério,sul,40,2,1300
-avenida,Professor Francisco Morato, Vila Sônia,sul,67,2,2900
-avenida,Presidente Juscelino Kubitschek, Vila Nova Conceição,sul,54,1,7000
-avenida,Fagundes Filho, Vila Monte Alegre,sul,60,2,3000
-avenida,Conselheiro Rodrigues Alves 751, Vila Mariana,sul,50,1,3000
-avenida,Portugal, Brooklin Paulista,sul,49,1,4000
-avenida,Jandira, Indianópolis,sul,120,3,4700
-avenida,Doutor Lino De Moraes Leme, Jardim Aeroporto,sul,128,3,2500
-avenida,Doutor Altino Arantes, Vila Clementino,sul,100,2,11000
-avenida,Pavão, Indianópolis,sul,50,2,3300
-avenida,Jacutinga, Indianópolis,sul,68,2,3300
-avenida,Jandira, Indianópolis,sul,120,3,6000
-avenida,Dos Carinás, Indianópolis,sul,26,1,3500
-avenida,Agami, Moema,sul,85,2,3200
-avenida,Professor Alceu Maynard Araújo, Vila Cruzeiro,sul,173,3,8000
-avenida,Francisco Nóbrega Barbosa, Parque Alves De Lima,sul,75,2,3690
-avenida,Ibiúna, Vila Aricanduva,leste,65,2,1100
-avenida,Inconfidência Mineira, Vila Antonieta,leste,30,1,864
-avenida,Montemagno, Vila Formosa,leste,40,1,1100
-avenida,Paes De Barros, Moóca,leste,110,3,2350
-avenida,Águia De Haia, Parque Paineiras,leste,60,2,800
-avenida,Celso Garcia, Tatuapé,leste,290,4,3200
-avenida,Conselheiro Carrão, Chácara Califórnia,leste,54,2,1322
-avenida,São Luís, Conjunto Habitacional Sitio Conceição,leste,400,2,3700
-avenida,Marcondes De Brito, Chácara Seis De Outubro,leste,65,2,1300
-avenida,Vila Ema, Vila Ema,leste,82,2,1350
-avenida,Guilherme Giorgi, Vila Carrão,leste,145,3,3700
-avenida,Matapi, Jardim Santa Terezinha (zona Leste),leste,48,2,800
-avenida,Doutor Assis Ribeiro, Engenheiro Goulart,leste,50,2,1300
-avenida,Vila Ema, Vila Prudente,leste,70,3,2061
-avenida,Celso Garcia, Tatuapé,leste,80,3,2430
-avenida,São Miguel, Vila Marieta,leste,74,2,1700
-avenida,Ibiúna, Vila Aricanduva,leste,42,1,1350
-avenida,Líder, Cidade Líder,leste,43,2,1300
-avenida,Waldemar Tietz, Conjunto Habitacional Padre José De Anchieta,leste,65,2,1250
-avenida,Vila Ema, Vila Ema,leste,58,2,1800
-avenida,Alberto Ramos, Jardim Independencia,leste,63,3,1700
-avenida,Olavo Egídio De Souza Aranha, Parque Císper,leste,65,3,1300
-avenida,Sapopemba, Sapopemba,leste,56,2,1500
-avenida,Sapopemba, Sapopemba,leste,56,2,1400
-avenida,Cassandoca, Moóca,leste,70,3,2306
-avenida,Dezenove De Janeiro, Vila Carrão,leste,60,2,2200
-avenida,Paes De Barros, Moóca,leste,257,4,5000
-avenida,Doutor Assis Ribeiro, Engenheiro Goulart,leste,90,2,1400
-avenida,Regente Feijó, Vila Regente Feijó,leste,68,3,4200
-avenida,Regente Feijó, Vila Regente Feijó,leste,55,1,4400
-avenida,Conselheiro Carrão, Vila Carrão,leste,55,2,2100
-avenida,Doutor Francisco Mesquita, Quinta Da Paineira,leste,38,1,1886
-avenida,Doutor Orêncio Vidigal, Vila Carlos De Campos,leste,75,3,2123
-avenida,Doutor Francisco Mesquita, Quinta Da Paineira,leste,36,1,1319
-avenida,Melchert,  439,leste,39,2,1500
-avenida,Doutor João Guimarães, Jardim Taboão,oeste,70,2,900
-avenida,Do Anastacio, City América,oeste,63,3,1500
-avenida,Aparecida Do Rio Negro, Jardim Íris,oeste,45,2,1420
-avenida,Sumaré, Perdizes,oeste,105,2,2100
-avenida,Doutor Gastão Vidigal, Vila Leopoldina,oeste,93,2,3800
-avenida,Raimundo Pereira De Magalhães, Vila Anastácio,oeste,130,4,6500
-avenida,Mofarrej, Vila Leopoldina,oeste,80,2,3500
-avenida,Interlagos, Jardim Umuarama,oeste,67,3,2300
-avenida,José Galante, Vila Suzana,oeste,500,4,10000
-avenida,Anastácio, City América,oeste,51,2,2450
-avenida,Imperatriz Leopoldina, Vila Leopoldina,oeste,45,1,1524
-avenida,Albert Bartholome, Jardim Das Vertentes,oeste,64,2,2700
-avenida,Albert Bartholome, Jardim Das Vertentes,oeste,83,3,2962
-avenida,Engenheiro Luiz Carlos Berrini, Cidade Moncoes,oeste,69,2,4080
-avenida,Diógenes Ribeiro De Lima, Alto De Pinheiros,oeste,450,3,8000
-avenida,Interlagos, Jardim Umuarama,oeste,72,3,2720
-avenida,Pedroso De Morais, Pinheiros,oeste,50,2,2500
-avenida,Mofarrej, Vila Leopoldina,oeste,70,1,3500
-avenida,Eliseu De Almeida, Instituto De Previdência,oeste,50,2,3400
-avenida,Engenheiro Heitor Antônio Eiras García, Jardim Esmeralda,oeste,41,2,1100
-avenida,Otacílio Tomanik, Vila Polopoli,oeste,70,2,1500
-avenida,Nossa Senhora Da Assunção, Vila Butantã,oeste,20,1,750
-avenida,Ernesto Igel, Lapa,oeste,70,3,3100
-avenida,Doutora Ruth Cardoso, Pinheiros,oeste,95,2,3500
-avenida,Diógenes Ribeiro De Lima, Alto Da Lapa,oeste,63,2,4000
-avenida,Miguel Frias E Vasconcelos, Jaguaré,oeste,54,2,1000
-avenida,Raimundo Pereira De Magalhães, Jardim Íris,oeste,45,2,1800
-avenida,Marechal Mário Guedes, Jaguaré,oeste,70,3,2625
-avenida,Marechal Fiuza De Castro, Jardim Pinheiros,oeste,50,2,1300
-avenida,Marechal Fiuza De Castro, Jardim Pinheiros,oeste,47,2,1450
-avenida,Albert Bartholome, Jardim Das Vertentes,oeste,82,3,2700
-avenida,José Joaquim Seabra, Jardim Ivana,oeste,70,2,2000
-avenida,Jaguaré, Jaguaré,oeste,69,2,1275
-avenida,Benedito De Lima, Vila Antônio,oeste,150,5,3500
-avenida,Das Nações Unidas, Pinheiros,oeste,93,3,3000
-avenida,Padre Antônio José Dos Santos, Cidade Moncoes,oeste,80,3,2300
-avenida,Marechal Juarez Távora, Super Quadra Morumbi,oeste,180,3,3700
-avenida,Anacé, Jardim Umarizal,oeste,66,2,3000
-avenida,Higienópolis, Higienópolis,oeste,50,1,2600
-avenida,Engenheiro Luiz Carlos Berrini, Cidade Moncoes,oeste,87,2,6100
-avenida,Pompéia, Vila Pompéia,oeste,56,2,4023
-avenida,Marquês De São Vicente, Água Branca,oeste,76,2,3900
-avenida,Nossa Senhora Da Assunção, Vila Butantã,oeste,73,3,2050
-avenida,Diógenes Ribeiro De Lima, Alto Da Lapa,oeste,84,2,3100
-avenida,Dona Helena Pereira De Moraes, Parque Do Morumbi,oeste,142,3,5500
-avenida,Doutor Guilherme Dumont Vilares, Jardim Londrina,oeste,116,2,3500
-avenida,Ernesto Igel, Lapa,oeste,70,2,3700
-avenida,Escola Politécnica, Rio Pequeno,oeste,50,2,1400
-avenida,Francisco Matarazzo, Água Branca,oeste,20,1,2000
-avenida,Pablo 987, Jardim Bonfiglioli,oeste,80,2,1500
-avenida,Mofarrej, Vila Leopoldina,oeste,70,1,3500
-avenida,Rebouças, Pinheiros,oeste,37,1,4350
-avenida,Rangel Pestana, Brás,centro,40,1,950
-avenida,Rio Branco, Campos Elíseos,centro,84,1,1650
-avenida,São João, Santa Cecília,centro,42,1,1250
-avenida,Nove De Julho, Bela Vista,centro,56,2,1800
-avenida,9 De Julho, Bela Vista,centro,144,2,2800
-avenida,Duque De Caxias, Campos Elíseos,centro,50,1,1260
-avenida,Duque De Caxias, Campos Elíseos,centro,52,2,2500
-avenida,São João, Santa Cecília,centro,43,1,1500
-avenida,São João, Santa Cecília,centro,66,2,2200
-avenida,Celso Garcia, Brás,centro,56,2,1700
-avenida,Ipiranga, República,centro,30,1,1300
-avenida,São João, Santa Cecília,centro,32,1,1224
-avenida,Nove De Julho, Bela Vista,centro,29,1,1350
-avenida,São Luís, República,centro,391,3,9500
-avenida,Nove De Julho, Bela Vista,centro,50,3,1853
-avenida,Duque De Caxias, Campos Elíseos,centro,26,1,2300
-avenida,Ipiranga, República,centro,50,2,1500
-avenida,Brigadeiro Luís Antônio, Bela Vista,centro,118,3,3412
-avenida,Duque De Caxias, Campos Elíseos,centro,38,1,1360
-avenida,Nove De Julho, Bela Vista,centro,38,1,2200
-avenida,Cásper Líbero, Centro,centro,25,1,2700
-avenida,Angélica, Santa Cecília,centro,140,3,4650
-avenida,São João, Santa Cecília,centro,40,1,1700
-avenida,Angélica, Santa Cecília,centro,193,3,12000
-avenida,Alcântara Machado, Brás,centro,53,1,1170
-avenida,Vieira De Carvalho, República,centro,32,1,1150
-avenida,Paulista, Bela Vista,centro,107,3,3605
-avenida,Cásper Líbero, Centro,centro,50,1,1426
-avenida,Nove De Julho, Bela Vista,centro,40,1,2177
-avenida,São João, República,centro,90,1,1100
-avenida,Santana, Centro,centro,45,1,950
-avenida,Nove De Julho, Bela Vista,centro,33,1,1000
-avenida,Nove De Julho, Bela Vista,centro,22,1,1200
-avenida,São João, Santa Cecília,centro,33,1,1400
-alameda,Afonso Schmidt, Santa Teresinha,norte,30,1,916
-alameda,Joaquim Eugênio De Lima, Jardim Paulistano (zona Norte),norte,50,1,2225
-alameda,Campinas, Jardim Paulista,sul,110,2,4600
-alameda,Jaú, Jardim Paulista,sul,155,3,2900
-alameda,Casa Branca, Jardim Paulista,sul,40,1,3100
-alameda,Joaquim Eugênio De Lima, Jardim Paulista,sul,82,2,3900
-alameda,Jaú, Jardim Paulista,sul,60,2,3000
-alameda,Lorena, Jardim Paulista,sul,50,2,3000
-alameda,Itu, Jardim Paulista,sul,106,3,3500
-alameda,Joaquim Eugênio De Lima, Jardim Paulista,sul,45,1,2000
-alameda,Lorena, Jardim Paulista,sul,29,1,1600
-alameda,Dos Jurupis, Indianópolis,sul,40,1,1790
-alameda,Joaquim Eugênio De Lima, Jardim Paulista,sul,45,1,2000
-alameda,Campinas, Jardim Paulista,sul,31,1,1434
-alameda,Dos Tacaúnas, Lajeado,leste,156,3,3350
-alameda,Eduardo Prado, Campos Elíseos,centro,33,1,1200
-alameda,Santos, Cerqueira César,centro,30,1,1950
-alameda,Santos, Cerqueira César,centro,23,1,1875
-alameda,Ministro Rocha Azevedo, Cerqueira César,centro,51,1,3400
-alameda,Barão De Limeira, Campos Elíseos,centro,115,2,2300
-alameda,Ministro Rocha Azevedo, Cerqueira César,centro,107,1,14000
-alameda,Barão Limeira, Campos Elíseos,centro,35,1,990
-alameda,Barros, Santa Cecília,centro,54,2,2756
-alameda,Barão De Limeira, Campos Elíseos,centro,75,2,2300
-alameda,Glete, Campos Elíseos,centro,87,2,2060
-alameda,Dino Bueno, Campos Elíseos,centro,54,1,1400
-alameda,Santos, Cerqueira César,centro,23,1,1875
-alameda,Olga, Barra Funda,centro,51,1,3150
-alameda,Ministro Rocha Azevedo, Cerqueira César,centro,78,2,6700
-alameda,Ministro Rocha Azevedo, Cerqueira César,centro,55,1,5500
-alameda,Eduardo Prado, Campos Elíseos,centro,30,1,900
-praca,Nami Jafet, Ipiranga,sul,130,4,3900
-praca,Doutor Pereira Do Rego, Cidade Patriarca,leste,80,2,1067
-praca,General Gentil Falcão, Cidade Moncoes,oeste,96,2,4000
-praca,Pero Vaz De Caminha, Vila Madalena,oeste,350,3,9240
-praca,General Gentil Falcão, Cidade Moncoes,oeste,80,2,3000
-praca,Santo Epifânio, Vila Indiana,oeste,18,1,1400
-praca,Marechal Deodoro, Santa Cecília,centro,98,2,2600
-praca,Quatorze Bis, Bela Vista,centro,72,2,2850
-praca,Júlio Mesquita, Santa Efigênia,centro,46,1,1534
-praca,Da República, República,centro,28,1,2500
-praca,Marechal Deodoro, Santa Cecília,centro,77,2,1900
-praca,Marechal Deodoro, Santa Cecília,centro,70,1,2000
-praca,Júlio Mesquita, Santa Efigênia,centro,45,1,3000
-praca,Da República, República,centro,39,1,2400
-avenida,Conceição, Vila Paiva,norte,55,2,2134
-avenida,Nossa Senhora Do Loreto 237, Vila Medeiros,norte,35,1,1100
-avenida,Interlagos, Interlagos,sul,74,3,1900
-avenida,Paranaguá, Jardim Matarazzo,leste,55,2,995
-avenida,Prof. Alfonso Bovero, Perdizes,oeste,53,2,2349
-travessa,B, Vila Gustavo,norte,40,1,990
-travessa,Manuel Fraga, Vila Nova Mazzei,norte,180,3,3000
-travessa,Barra Do Ribeiro, Vila Barbosa,norte,69,1,766
-travessa,Preciosa, Lauzane Paulista,norte,40,1,900
-rua,Dr. Miranda De Azevedo, Vila Pompéia,oeste,110,3,4500
-rua,Monte Alegre, Perdizes,oeste,135,4,3800
-rua,Álvaro De Carvalho, Centro,centro,48,1,2200
-rua,Das Tâmaras, Vila Paulista,norte,30,1,900
-rua,Sílvio De Moura, Vila Dom Pedro Ii,norte,87,3,2700
-rua,Major Quedinho, Centro,centro,27,1,1000
-avenida,Maestro Villa Lobos, Vila Gustavo,norte,60,2,1600
+bairro,zona,area,quartos,aluguel
+Bela Vista,centro,86,2,2200
+Bela Vista,centro,35,1,3200
+Bela Vista,centro,35,1,3700
+Bela Vista,centro,35,1,3700
+Bela Vista,centro,25,1,1800
+Bela Vista,centro,25,1,2200
+Bela Vista,centro,511,1,36800
+Bela Vista,centro,170,3,2500
+Bela Vista,centro,800,,25000
+Bela Vista,centro,400,,10000
+Bela Vista,centro,35,1,1700
+Bela Vista,centro,152,,5800
+Bela Vista,centro,36,1,1600
+Bela Vista,centro,260,1,21800
+Bela Vista,centro,23,1,2400
+Bela Vista,centro,37,1,2800
+Bela Vista,centro,360,,9000
+Bela Vista,centro,479,17,25000
+Bela Vista,centro,479,17,25000
+Bela Vista,centro,380,6,11000
+Bela Vista,centro,500,,29000
+Consolação,centro,35,1,3200
+Consolação,centro,35,1,3700
+Consolação,centro,35,1,3700
+Consolação,centro,25,1,1800
+Consolação,centro,25,1,1800
+Consolação,centro,25,1,2200
+Consolação,centro,25,1,2200
+Consolação,centro,35,1,3900
+Consolação,centro,35,1,3900
+Consolação,centro,350,6,45000
+Consolação,centro,143,,7500
+Consolação,centro,850,2,25000
+Consolação,centro,252,,28000
+Consolação,centro,35,1,400000
+Consolação,centro,360,9,22000
+Consolação,centro,196,3,6000
+Consolação,centro,214,4,20000
+Consolação,centro,38,1,3000
+Consolação,centro,740,5,15000
+Consolação,centro,43,1,3700
+Consolação,centro,35,1,3100
+Santa Cecília,centro,100,2,4000
+Santa Cecília,centro,400,,30000
+Santa Cecília,centro,180,,9000
+Santa Cecília,centro,605,,55000
+Santa Cecília,centro,150,7,6700
+Santa Cecília,centro,350,,11000
+Santa Cecília,centro,170,,8500
+Santa Cecília,centro,30,1,2450
+Santa Cecília,centro,466,8,15000
+Santa Cecília,centro,233,,16000
+Santa Cecília,centro,45,1,1400
+Santa Cecília,centro,33,1,1300
+Santa Cecília,centro,35,1,800
+Santa Cecília,centro,400,,12000
+Santa Cecília,centro,330,,15000
+Santa Cecília,centro,780,,55000
+Santa Cecília,centro,100,3,2200
+Santa Cecília,centro,315,,13000
+Santa Cecília,centro,683,99,18000
+Santa Cecília,centro,250,4,6000
+Santa Cecília,centro,150,4,12000
+Campos Elíseos,centro,32,1,1000
+Campos Elíseos,centro,20,,2000
+Campos Elíseos,centro,24,1,1350
+Campos Elíseos,centro,33,1,1350
+Campos Elíseos,centro,24,1,1350
+Campos Elíseos,centro,20,1,2000
+Campos Elíseos,centro,24,1,1350
+Campos Elíseos,centro,350,,11000
+Campos Elíseos,centro,20,1,2000
+Campos Elíseos,centro,42,1,3500
+Campos Elíseos,centro,20,1,1300
+Campos Elíseos,centro,44,1,2000
+Campos Elíseos,centro,20,,1400
+Campos Elíseos,centro,140,,2000
+Campos Elíseos,centro,35,,3500
+Campos Elíseos,centro,200,,1100
+Campos Elíseos,centro,20,1,3500
+Campos Elíseos,centro,23,1,2000
+Campos Elíseos,centro,,1,1350
+Campos Elíseos,centro,24,1,1200
+Campos Elíseos,centro,95,2,1250
+Cerqueira César,centro,41,1,1750
+Cerqueira César,centro,170,,12000
+Cerqueira César,centro,84,2,2600
+Cerqueira César,centro,242,,19000
+Cerqueira César,centro,280,1,13000
+Cerqueira César,centro,242,1,19000
+Cerqueira César,centro,580,3,10000
+Cerqueira César,centro,287,,22000
+Cerqueira César,centro,65,3,7500
+Cerqueira César,centro,232,3,7000
+Cerqueira César,centro,245,,12000
+Cerqueira César,centro,166,3,15000
+Cerqueira César,centro,243,3,19000
+Cerqueira César,centro,242,,16000
+Cerqueira César,centro,242,,19000
+Cerqueira César,centro,242,,19000
+Cerqueira César,centro,1100,,34400
+Cerqueira César,centro,242,3,19000
+Cerqueira César,centro,100,3,8000
+Cerqueira César,centro,372,1,20000
+Cerqueira César,centro,450,1,42000
+Liberdade,centro,630,4,14000
+Liberdade,centro,120,5,4500
+Liberdade,centro,120,6,4500
+Liberdade,centro,200,4,12000
+Liberdade,centro,200,3,6000
+Liberdade,centro,160,2,8000
+Liberdade,centro,85,2,2500
+Liberdade,centro,120,3,5500
+Liberdade,centro,25,1,2000
+Liberdade,centro,150,3,5000
+Liberdade,centro,25,,900
+Liberdade,centro,40,1,900
+Liberdade,centro,25,1,900
+Liberdade,centro,25,,900
+Liberdade,centro,25,,900
+Liberdade,centro,43,1,850
+Brás,centro,40,2,1700
+Brás,centro,200,2,3500
+Brás,centro,65,2,1500
+Brás,centro,90,3,1850
+Brás,centro,130,3,2800
+Brás,centro,65,2,1500
+Brás,centro,90,3,1850
+Brás,centro,130,3,2800
+Brás,centro,150,3,3000
+Brás,centro,110,2,2550
+Brás,centro,90,3,1850
+Brás,centro,15,1,1200
+República,centro,30,1,320000
+República,centro,360,,9000
+República,centro,29,1,2300
+República,centro,39,1,2900
+República,centro,28,1,2100
+República,centro,39,1,2700
+República,centro,39,1,2700
+República,centro,38,1,2900
+República,centro,39,1,2600
+República,centro,39,1,2600
+República,centro,35,,1100
+República,centro,28,1,1100
+República,centro,28,1,2200
+República,centro,39,1,2500
+República,centro,28,1,2000
+República,centro,39,1,2500
+República,centro,38,1,2600
+República,centro,38,1,2650
+República,centro,28,1,2650
+República,centro,28,1,2300
+República,centro,28,1,2200
+Pinheiros ,-oeste,250,3,11000
+Pinheiros ,-oeste,492,4,15000
+Pinheiros ,-oeste,450,4,13010
+Pinheiros ,-oeste,152,6,5000
+Pinheiros ,-oeste,170,4,6000
+Pinheiros ,-oeste,95,,8000
+Pinheiros ,-oeste,450,3,8500
+Pinheiros ,-oeste,287,,22000
+Pinheiros ,-oeste,350,4,11000
+Pinheiros ,-oeste,287,,22000
+Pinheiros ,-oeste,120,2,5000
+Pinheiros ,-oeste,120,2,5500
+Pinheiros ,-oeste,110,1,2200
+Pinheiros ,-oeste,297,4,15500
+Pinheiros ,-oeste,347,3,12000
+Pinheiros ,-oeste,359,4,16000
+Pinheiros ,-oeste,300,5,26000
+Pinheiros ,-oeste,200,3,12000
+Pinheiros ,-oeste,600,17,45000
+Pinheiros ,-oeste,491,4,24000
+Pinheiros ,-oeste,425,2,26000
+Perdizes ,-oeste,132,3,4500
+Perdizes ,-oeste,270,4,15000
+Perdizes ,-oeste,110,5,7000
+Perdizes ,-oeste,50,1,1300
+Perdizes ,-oeste,180,3,6800
+Perdizes ,-oeste,350,,10000
+Perdizes ,-oeste,132,,3700
+Perdizes ,-oeste,280,,9500
+Perdizes ,-oeste,72,3,3900
+Perdizes ,-oeste,170,4,5500
+Perdizes ,-oeste,360,6,13200
+Perdizes ,-oeste,150,,3500
+Perdizes ,-oeste,200,2,7000
+Perdizes ,-oeste,150,3,5000
+Perdizes ,-oeste,170,5,8500
+Perdizes ,-oeste,300,,25000
+Perdizes ,-oeste,248,4,2300000
+Perdizes ,-oeste,600,6,12250
+Perdizes ,-oeste,300,,10000
+Perdizes ,-oeste,400,4,15000
+Perdizes ,-oeste,325,,13000
+Água Branca ,-oeste,680,,23000
+Água Branca ,-oeste,300,,3500
+Água Branca ,-oeste,600,,8000
+Água Branca ,-oeste,300,,20000
+Água Branca ,-oeste,300,4,3500
+Água Branca ,-oeste,290,,5500
+Água Branca ,-oeste,290,,5500
+Água Branca ,-oeste,230,,15000
+Água Branca ,-oeste,350,,17000
+Água Branca ,-oeste,140,3,3300
+Água Branca ,-oeste,200,1,5500
+Água Branca ,-oeste,138,3,3500
+Água Branca ,-oeste,299,8,7000
+Água Branca ,-oeste,250,3,10000
+Água Branca ,-oeste,320,,11000
+Água Branca ,-oeste,192,,5000
+Água Branca ,-oeste,138,3,4300
+Água Branca ,-oeste,352,,8000
+Água Branca ,-oeste,320,,6510
+Água Branca ,-oeste,290,3,9010
+Água Branca ,-oeste,470,12,16500
+Cidade Moncoes ,-oeste,206,,10000
+Cidade Moncoes ,-oeste,109,2,2800
+Cidade Moncoes ,-oeste,150,2,3700
+Cidade Moncoes ,-oeste,400,4,8900
+Cidade Moncoes ,-oeste,370,4,8900
+Cidade Moncoes ,-oeste,210,4,8500
+Cidade Moncoes ,-oeste,210,4,8500
+Cidade Moncoes ,-oeste,34,1,2300
+Cidade Moncoes ,-oeste,400,4,9000
+Cidade Moncoes ,-oeste,150,3,5000
+Cidade Moncoes ,-oeste,205,,10000
+Cidade Moncoes ,-oeste,310,,12000
+Cidade Moncoes ,-oeste,140,3,4200
+Cidade Moncoes ,-oeste,206,,10000
+Cidade Moncoes ,-oeste,240,,6000
+Cidade Moncoes ,-oeste,240,,6000
+Cidade Moncoes ,-oeste,220,,16000
+Cidade Moncoes ,-oeste,212,3,5900
+Cidade Moncoes ,-oeste,145,,5000
+Cidade Moncoes ,-oeste,180,2,4000
+Cidade Moncoes ,-oeste,140,2,4000
+Vila Leopoldina ,-oeste,225,3,2500
+Vila Leopoldina ,-oeste,100,2,2000
+Vila Leopoldina ,-oeste,50,1,1200
+Vila Leopoldina ,-oeste,45,1,2000
+Vila Leopoldina ,-oeste,540,,12900
+Vila Leopoldina ,-oeste,130,3,4200
+Vila Leopoldina ,-oeste,140,,3300
+Vila Leopoldina ,-oeste,150,4,4500
+Vila Leopoldina ,-oeste,70,1,2000
+Vila Leopoldina ,-oeste,80,1,2000
+Vila Leopoldina ,-oeste,48,2,1900
+Vila Leopoldina ,-oeste,231,3,4600
+Vila Leopoldina ,-oeste,120,1,3400
+Vila Leopoldina ,-oeste,100,3,3300
+Vila Leopoldina ,-oeste,80,2,4000
+Vila Leopoldina ,-oeste,80,2,4000
+Vila Leopoldina ,-oeste,540,9,12900
+Vila Leopoldina ,-oeste,550,,13000
+Vila Leopoldina ,-oeste,132,2,4810
+Vila Leopoldina ,-oeste,400,5,7000
+Vila Leopoldina ,-oeste,150,2,4000
+Higienópolis ,-oeste,137,1,5000
+Higienópolis ,-oeste,74,,6000
+Higienópolis ,-oeste,186,,8000
+Higienópolis ,-oeste,186,,11000
+Higienópolis ,-oeste,106,1,11000
+Higienópolis ,-oeste,186,,11000
+Higienópolis ,-oeste,75,2,8000
+Higienópolis ,-oeste,186,,11000
+Higienópolis ,-oeste,74,,6000
+Higienópolis ,-oeste,74,3,6000
+Higienópolis ,-oeste,125,3,6000
+Higienópolis ,-oeste,150,1,8000
+Higienópolis ,-oeste,186,3,8000
+Higienópolis ,-oeste,380,,14000
+Higienópolis ,-oeste,74,3,6000
+Higienópolis ,-oeste,75,2,8000
+Higienópolis ,-oeste,75,1,8000
+Higienópolis ,-oeste,75,,8000
+Higienópolis ,-oeste,74,,6000
+Higienópolis ,-oeste,113,3,11000
+Higienópolis ,-oeste,59,2,8500
+Alto Da Lapa ,-oeste,120,,3500
+Alto Da Lapa ,-oeste,318,3,9500
+Alto Da Lapa ,-oeste,400,7,12000
+Alto Da Lapa ,-oeste,481,12,25000
+Alto Da Lapa ,-oeste,120,4,3000
+Alto Da Lapa ,-oeste,740,6,8000
+Alto Da Lapa ,-oeste,270,3,8000
+Alto Da Lapa ,-oeste,480,,16000
+Alto Da Lapa ,-oeste,420,3,11000
+Alto Da Lapa ,-oeste,450,,14000
+Alto Da Lapa ,-oeste,571,5,10000
+Alto Da Lapa ,-oeste,605,4,14000
+Alto Da Lapa ,-oeste,219,3,6500
+Alto Da Lapa ,-oeste,318,3,9500
+Alto Da Lapa ,-oeste,172,11,6500
+Alto Da Lapa ,-oeste,280,3,7000
+Alto Da Lapa ,-oeste,245,2,3500
+Alto Da Lapa ,-oeste,180,2,4700
+Alto Da Lapa ,-oeste,144,3,5300
+Alto Da Lapa ,-oeste,270,1,9000
+Alto Da Lapa ,-oeste,318,3,9500
+Jardim Ampliação ,-oeste,58,1,2200
+Jardim Ampliação ,-oeste,134,2,4900
+Jardim Ampliação ,-oeste,320,4,3000
+Jardim Ampliação ,-oeste,208,2,4500
+Jardim Ampliação ,-oeste,190,3,4200
+Jardim Ampliação ,-oeste,,4,5000
+Jardim Ampliação ,-oeste,683,5,50000
+Jardim Ampliação ,-oeste,165,4,3500
+Jardim Ampliação ,-oeste,60,2,900
+Jardim Ampliação ,-oeste,468,3,2500
+Vila Cordeiro ,-oeste,270,4,13000
+Vila Cordeiro ,-oeste,70,2,3500
+Vila Cordeiro ,-oeste,340,3,18000
+Vila Cordeiro ,-oeste,106,2,3800
+Vila Cordeiro ,-oeste,300,3,18000
+Vila Cordeiro ,-oeste,90,2,2800
+Vila Cordeiro ,-oeste,280,3,4900
+Vila Cordeiro ,-oeste,150,2,4800
+Vila Cordeiro ,-oeste,250,5,10000
+Vila Cordeiro ,-oeste,550,,12000
+Vila Cordeiro ,-oeste,98,2,4000
+Vila Cordeiro ,-oeste,242,2,4500
+Vila Cordeiro ,-oeste,200,4,3800
+Vila Cordeiro ,-oeste,202,2,6000
+Vila Cordeiro ,-oeste,170,3,4470
+Vila Cordeiro ,-oeste,250,5,10000
+Vila Cordeiro ,-oeste,250,3,4750
+Vila Cordeiro ,-oeste,290,6,9000
+Vila Cordeiro ,-oeste,90,2,3000
+Vila Cordeiro ,-oeste,202,4,5000
+Vila Cordeiro ,-oeste,350,,12000
+Vila Madalena ,-oeste,450,3,8500
+Vila Madalena ,-oeste,350,4,11000
+Vila Madalena ,-oeste,135,4,4000
+Vila Madalena ,-oeste,160,5,9900
+Vila Madalena ,-oeste,239,,15000
+Vila Madalena ,-oeste,312,4,13000
+Vila Madalena ,-oeste,135,4,4000
+Vila Madalena ,-oeste,40,1,1500
+Vila Madalena ,-oeste,110,5,2900
+Vila Madalena ,-oeste,55,1,1300
+Vila Madalena ,-oeste,200,4,14500
+Vila Madalena ,-oeste,200,3,12000
+Vila Madalena ,-oeste,695,8,20980
+Vila Madalena ,-oeste,456,4,18000
+Vila Madalena ,-oeste,815,6,25000
+Vila Madalena ,-oeste,325,3,14000
+Vila Madalena ,-oeste,110,3,6400
+Vila Madalena ,-oeste,200,4,12500
+Vila Madalena ,-oeste,500,4,10000
+Vila Madalena ,-oeste,350,4,12000
+Vila Madalena ,-oeste,2,3,6900
+Sumarezinho ,-oeste,160,5,9900
+Sumarezinho ,-oeste,312,4,13000
+Sumarezinho ,-oeste,135,4,4000
+Sumarezinho ,-oeste,695,8,20980
+Sumarezinho ,-oeste,325,3,14000
+Sumarezinho ,-oeste,110,3,6400
+Sumarezinho ,-oeste,200,1,7000
+Sumarezinho ,-oeste,230,2,11000
+Sumarezinho ,-oeste,137,,8500
+Sumarezinho ,-oeste,110,3,6400
+Sumarezinho ,-oeste,250,3,12000
+Sumarezinho ,-oeste,350,2,10000
+Sumarezinho ,-oeste,115,2,3500
+Sumarezinho ,-oeste,294,,9010
+Sumarezinho ,-oeste,150,3,6010
+Sumarezinho ,-oeste,160,3,14000
+Sumarezinho ,-oeste,350,,7500
+Sumarezinho ,-oeste,695,,22000
+Sumarezinho ,-oeste,200,3,14010
+Sumarezinho ,-oeste,750,,20000
+Sumarezinho ,-oeste,294,,10000
+Jardim Bonfiglioli ,-oeste,294,3,5000
+Jardim Bonfiglioli ,-oeste,145,2,4000
+Jardim Bonfiglioli ,-oeste,190,3,4200
+Jardim Bonfiglioli ,-oeste,129,3,3450
+Jardim Bonfiglioli ,-oeste,200,,3000
+Jardim Bonfiglioli ,-oeste,183,3,4500
+Jardim Bonfiglioli ,-oeste,,3,7000
+Jardim Bonfiglioli ,-oeste,110,,3000
+Jardim Bonfiglioli ,-oeste,250,5,5000
+Jardim Bonfiglioli ,-oeste,140,2,2800
+Jardim Bonfiglioli ,-oeste,62,2,350000
+Jardim Bonfiglioli ,-oeste,120,3,3200
+Jardim Bonfiglioli ,-oeste,120,3,3200
+Jardim Bonfiglioli ,-oeste,400,,4000
+Jardim Bonfiglioli ,-oeste,400,,5500
+Jardim Bonfiglioli ,-oeste,170,3,3600
+Jardim Bonfiglioli ,-oeste,120,3,3500
+Jardim Bonfiglioli ,-oeste,220,4,2700
+Jardim Bonfiglioli ,-oeste,125,3,3200
+Jardim Bonfiglioli ,-oeste,120,3,2000
+Jardim Bonfiglioli ,-oeste,70,2,1700
+Jaguaré ,-oeste,85,2,1800
+Jaguaré ,-oeste,40,1,1250
+Jaguaré ,-oeste,60,2,1600
+Jaguaré ,-oeste,60,2,1600
+Jaguaré ,-oeste,30,1,600
+Jaguaré ,-oeste,40,1,1390
+Jaguaré ,-oeste,170,3,3000
+Jaguaré ,-oeste,300,5,5000
+Jaguaré ,-oeste,150,4,3800
+Jaguaré ,-oeste,200,3,2562
+Jaguaré ,-oeste,85,2,2000
+Jaguaré ,-oeste,190,3,5200
+Jaguaré ,-oeste,60,2,1600
+Jaguaré ,-oeste,85,2,2000
+Jaguaré ,-oeste,90,2,3150
+Jaguaré ,-oeste,150,3,3850
+Jaguaré ,-oeste,85,2,2000
+Jaguaré ,-oeste,250,1,4500
+Jaguaré ,-oeste,160,2,3500
+Jaguaré ,-oeste,50,1,2300
+Jaguaré ,-oeste,150,3,5000
+Vila Ipojuca ,-oeste,130,3,4200
+Vila Ipojuca ,-oeste,175,2,2700
+Vila Ipojuca ,-oeste,172,4,10000
+Vila Ipojuca ,-oeste,250,,3500
+Vila Ipojuca ,-oeste,297,4,5500
+Vila Ipojuca ,-oeste,280,4,6000
+Vila Ipojuca ,-oeste,350,3,7000
+Vila Ipojuca ,-oeste,350,3,7800
+Vila Ipojuca ,-oeste,150,2,3800
+Vila Ipojuca ,-oeste,300,4,7000
+Vila Ipojuca ,-oeste,65,1,1650
+Vila Ipojuca ,-oeste,60,1,1600
+Vila Ipojuca ,-oeste,350,3,5000
+Vila Ipojuca ,-oeste,85,1,1650
+Vila Ipojuca ,-oeste,60,1,1350
+Vila Ipojuca ,-oeste,295,3,6500
+Vila Ipojuca ,-oeste,20,1,850
+Jardim Das Vertentes ,-oeste,260,3,2800
+Jardim Das Vertentes ,-oeste,,2,2500
+Jardim Das Vertentes ,-oeste,147,3,4000
+Jardim Das Vertentes ,-oeste,420,5,3000
+Jardim Das Vertentes ,-oeste,60,1,1700
+Jardim Das Vertentes ,-oeste,60,1,1800
+Jardim Das Vertentes ,-oeste,56,3,370000
+Jardim Das Vertentes ,-oeste,150,3,3100
+Jardim Das Vertentes ,-oeste,230,3,2400
+Jardim Das Vertentes ,-oeste,100,3,419500
+Jardim Das Vertentes ,-oeste,180,3,3000
+Jardim Das Vertentes ,-oeste,100,3,2600
+Jardim Das Vertentes ,-oeste,200,3,3830
+Jardim Das Vertentes ,-oeste,180,3,2900
+Jardim Das Vertentes ,-oeste,140,3,2700
+Jardim Das Vertentes ,-oeste,140,3,3000
+Jardim Das Vertentes ,-oeste,100,3,2700
+Jardim Das Vertentes ,-oeste,190,3,2950
+Jardim Das Vertentes ,-oeste,190,3,4200
+Jardim Das Vertentes ,-oeste,190,3,4300
+Jardim Das Vertentes ,-oeste,180,3,2900
+Butantã ,-oeste,417,5,12000
+Butantã ,-oeste,350,8,9730
+Butantã ,-oeste,70,2,2400
+Butantã ,-oeste,500,4,11000
+Butantã ,-oeste,120,3,3500
+Butantã ,-oeste,517,4,25600
+Butantã ,-oeste,206,3,2950
+Butantã ,-oeste,400,4,7500
+Butantã ,-oeste,125,3,3000
+Butantã ,-oeste,150,,4000
+Butantã ,-oeste,100,3,3000
+Butantã ,-oeste,350,3,12000
+Butantã ,-oeste,590,,15000
+Butantã ,-oeste,170,4,2800
+Butantã ,-oeste,331,,12500
+Butantã ,-oeste,230,,8000
+Butantã ,-oeste,320,4,10000
+Butantã ,-oeste,170,4,2800
+Butantã ,-oeste,280,4,14000
+Butantã ,-oeste,240,4,7500
+Butantã ,-oeste,329,4,9700
+Jardim Pinheiros ,-oeste,600,17,45000
+Jardim Pinheiros ,-oeste,297,4,15500
+Jardim Pinheiros ,-oeste,300,3,10000
+Jardim Pinheiros ,-oeste,440,5,10000
+Jardim Pinheiros ,-oeste,1250,5,110000
+Jardim Pinheiros ,-oeste,300,,22000
+Jardim Pinheiros ,-oeste,697,5,10000
+Jardim Pinheiros ,-oeste,297,4,15500
+Jardim Pinheiros ,-oeste,183,3,4500
+Jardim Pinheiros ,-oeste,180,3,4000
+Jardim Pinheiros ,-oeste,671,4,18000
+Jardim Pinheiros ,-oeste,297,4,17000
+Jardim Pinheiros ,-oeste,312,,19000
+Jardim Pinheiros ,-oeste,260,3,10000
+Jardim Pinheiros ,-oeste,500,4,18000
+Jardim Pinheiros ,-oeste,340,3,12000
+Jardim Pinheiros ,-oeste,599,4,40000
+Jardim Pinheiros ,-oeste,331,,19000
+Jardim Pinheiros ,-oeste,250,5,8000
+Jardim Pinheiros ,-oeste,360,12,20000
+Jardim Pinheiros ,-oeste,340,3,12000
+Vila Gomes ,-oeste,130,3,2700
+Vila Gomes ,-oeste,150,3,2700
+Vila Gomes ,-oeste,150,3,2500
+Vila Gomes ,-oeste,140,3,3400
+Vila Gomes ,-oeste,140,3,3300
+Vila Gomes ,-oeste,200,2,2400
+Vila Gomes ,-oeste,200,2,2350
+Vila Gomes ,-oeste,60,2,1800
+Vila Gomes ,-oeste,3000,3,2800
+Vila Gomes ,-oeste,70,2,1500
+Vila Gomes ,-oeste,60,2,1790
+Vila Gomes ,-oeste,105,3,2300
+Vila Gomes ,-oeste,125,3,3200
+Vila Gomes ,-oeste,250,3,3200
+Vila Gomes ,-oeste,70,2,2100
+Vila Gomes ,-oeste,250,3,2800
+Vila Gomes ,-oeste,250,3,3000
+Vila Gomes ,-oeste,300,3,3500
+Vila Gomes ,-oeste,125,3,3200
+Vila Gomes ,-oeste,140,3,2900
+Vila Gomes ,-oeste,200,3,3300
+Vila Pompéia ,-oeste,144,3,5700
+Vila Pompéia ,-oeste,100,1,2300
+Vila Pompéia ,-oeste,200,2,7000
+Vila Pompéia ,-oeste,325,,13000
+Vila Pompéia ,-oeste,220,3,5000
+Vila Pompéia ,-oeste,266,,6800
+Vila Pompéia ,-oeste,160,3,5000
+Vila Pompéia ,-oeste,80,5,3200
+Vila Pompéia ,-oeste,480,,6000
+Vila Pompéia ,-oeste,260,7,7500
+Vila Pompéia ,-oeste,120,3,4500
+Vila Pompéia ,-oeste,106,3,6200
+Vila Pompéia ,-oeste,100,2,4500
+Vila Pompéia ,-oeste,110,3,5500
+Vila Pompéia ,-oeste,145,4,5990
+Vila Pompéia ,-oeste,200,2,2800
+Vila Pompéia ,-oeste,260,4,6200
+Vila Pompéia ,-oeste,500,10,12000
+Vila Pompéia ,-oeste,110,,8000
+Vila Pompéia ,-oeste,100,1,7500
+Vila Pompéia ,-oeste,150,3,8600
+Lapa ,-oeste,120,,3500
+Lapa ,-oeste,650,6,10000
+Lapa ,-oeste,130,,2500
+Lapa ,-oeste,205,3,2000
+Lapa ,-oeste,373,,8000
+Lapa ,-oeste,318,3,9500
+Lapa ,-oeste,594,12,12000
+Lapa ,-oeste,300,3,4000
+Lapa ,-oeste,320,2,10000
+Lapa ,-oeste,400,7,12000
+Lapa ,-oeste,481,12,25000
+Lapa ,-oeste,300,5,15000
+Lapa ,-oeste,300,4,6000
+Lapa ,-oeste,120,4,3000
+Lapa ,-oeste,150,3,4200
+Lapa ,-oeste,120,1,3600
+Lapa ,-oeste,110,,4500
+Lapa ,-oeste,152,5,3000
+Lapa ,-oeste,740,6,8000
+Lapa ,-oeste,130,3,4200
+Lapa ,-oeste,192,4,6000
+Fazenda Morumbi ,-oeste,391,4,5500
+Fazenda Morumbi ,-oeste,600,4,24000
+Fazenda Morumbi ,-oeste,470,4,25000
+Fazenda Morumbi ,-oeste,961,8,28000
+Fazenda Morumbi ,-oeste,470,4,25000
+Fazenda Morumbi ,-oeste,961,8,28000
+Fazenda Morumbi ,-oeste,2000,6,10000
+Fazenda Morumbi ,-oeste,2000,6,10000
+Fazenda Morumbi ,-oeste,550,3,10000
+Fazenda Morumbi ,-oeste,750,4,15000
+Fazenda Morumbi ,-oeste,391,4,5500
+Fazenda Morumbi ,-oeste,450,4,16000
+Fazenda Morumbi ,-oeste,400,4,25000
+Fazenda Morumbi ,-oeste,550,3,10000
+Fazenda Morumbi ,-oeste,1200,4,30000
+Fazenda Morumbi ,-oeste,750,4,15000
+Fazenda Morumbi ,-oeste,638,3,16000
+Fazenda Morumbi ,-oeste,550,3,10000
+Fazenda Morumbi ,-oeste,454,4,13000
+Fazenda Morumbi ,-oeste,550,4,10000
+Fazenda Morumbi ,-oeste,550,3,10000
+Vila Anglo Brasileira ,-oeste,30,,1200
+Vila Anglo Brasileira ,-oeste,30,,1200
+Vila Anglo Brasileira ,-oeste,25,1,1300
+Vila Anglo Brasileira ,-oeste,330,,6000
+Vila Anglo Brasileira ,-oeste,119,6,7000
+Vila Anglo Brasileira ,-oeste,130,2,2500
+Vila Anglo Brasileira ,-oeste,188,3,4800
+Vila Anglo Brasileira ,-oeste,188,11,13000
+Vila Anglo Brasileira ,-oeste,160,,5000
+Vila Anglo Brasileira ,-oeste,200,2,2800
+Vila Anglo Brasileira ,-oeste,350,5,7000
+Vila Anglo Brasileira ,-oeste,245,3,5000
+Vila Anglo Brasileira ,-oeste,273,3,6200
+Vila Anglo Brasileira ,-oeste,100,2,2500
+Vila Anglo Brasileira ,-oeste,81,2,3900
+Vila Anglo Brasileira ,-oeste,350,,8900
+Vila Anglo Brasileira ,-oeste,50,1,1200
+Vila Hamburguesa ,-oeste,95,,4000
+Vila Hamburguesa ,-oeste,150,3,4500
+Vila Hamburguesa ,-oeste,350,3,5500
+Vila Hamburguesa ,-oeste,80,1,2000
+Vila Hamburguesa ,-oeste,40,,2090
+Vila Hamburguesa ,-oeste,300,12,8000
+Vila Hamburguesa ,-oeste,200,3,8000
+Vila Hamburguesa ,-oeste,150,2,4000
+Vila Hamburguesa ,-oeste,80,2,4000
+Vila Hamburguesa ,-oeste,80,2,4000
+Vila Hamburguesa ,-oeste,150,3,4500
+Vila Hamburguesa ,-oeste,400,5,7000
+Vila Hamburguesa ,-oeste,300,1,8000
+Vila Hamburguesa ,-oeste,150,2,4000
+Vila Hamburguesa ,-oeste,70,3,8500
+Vila Hamburguesa ,-oeste,300,,7000
+Vila Hamburguesa ,-oeste,125,3,2200
+Vila Hamburguesa ,-oeste,100,2,4501
+Vila Hamburguesa ,-oeste,50,2,1600
+Vila Hamburguesa ,-oeste,150,2,4000
+Vila Hamburguesa ,-oeste,300,4,4000
+Lar São Paulo ,-oeste,212,3,6200
+Lar São Paulo ,-oeste,300,5,5000
+Lar São Paulo ,-oeste,250,3,6000
+Lar São Paulo ,-oeste,300,5,5000
+Lar São Paulo ,-oeste,581,4,10000
+Lar São Paulo ,-oeste,581,4,10000
+Lar São Paulo ,-oeste,343,4,5500
+Lar São Paulo ,-oeste,343,4,5500
+Lar São Paulo ,-oeste,330,4,6200
+Lar São Paulo ,-oeste,330,4,6200
+Lar São Paulo ,-oeste,150,3,3800
+Lar São Paulo ,-oeste,150,3,3800
+Lar São Paulo ,-oeste,340,4,4500
+Jardim Monte Kemel ,-oeste,50,1,900
+Jardim Monte Kemel ,-oeste,40,1,900
+Jardim Monte Kemel ,-oeste,40,1,950
+Jardim Monte Kemel ,-oeste,70,2,2400
+Jardim Monte Kemel ,-oeste,40,1,1260
+Jardim Monte Kemel ,-oeste,230,4,7716
+Jardim Monte Kemel ,-oeste,208,5,7000
+Jardim Monte Kemel ,-oeste,230,4,9216
+Jardim Monte Kemel ,-oeste,230,4,7516
+Jardim Monte Kemel ,-oeste,50,2,1370
+Jardim Monte Kemel ,-oeste,10,3,6500
+Jardim Monte Kemel ,-oeste,40,1,6500
+Jardim Monte Kemel ,-oeste,55,1,8000
+Jardim Monte Kemel ,-oeste,50,1,1260
+Jardim Monte Kemel ,-oeste,50,2,1100
+Jardim Monte Kemel ,-oeste,40,1,1300
+Jardim Monte Kemel ,-oeste,150,3,1370
+Jardim Monte Kemel ,-oeste,50,1,950
+Jardim Monte Kemel ,-oeste,155,3,2500
+Jardim Monte Kemel ,-oeste,90,,800
+Jardim Monte Kemel ,-oeste,250,2,2500
+City América ,-oeste,350,3,9050
+City América ,-oeste,60,3,3000
+City América ,-oeste,378,4,9000
+City América ,-oeste,180,3,15000
+City América ,-oeste,120,2,3500
+City América ,-oeste,420,4,4700
+City América ,-oeste,390,4,7500
+City América ,-oeste,500,4,8000
+City América ,-oeste,390,4,9000
+City América ,-oeste,450,4,8900
+City América ,-oeste,395,4,9000
+City América ,-oeste,495,4,8000
+City América ,-oeste,400,4,4700
+City América ,-oeste,1100,5,6000
+City América ,-oeste,400,4,8600
+City América ,-oeste,150,3,3100
+City América ,-oeste,625,4,10000
+City América ,-oeste,650,4,7000
+City América ,-oeste,310,4,7500
+City América ,-oeste,573,5,7000
+City América ,-oeste,573,5,7000
+Moóca ,-leste,300,2,8000
+Moóca ,-leste,60,1,1200
+Moóca ,-leste,110,2,2200
+Moóca ,-leste,160,,5000
+Moóca ,-leste,110,3,2300
+Moóca ,-leste,176,3,2600
+Moóca ,-leste,235,4,4350
+Moóca ,-leste,85,2,2300
+Moóca ,-leste,264,3,4000
+Moóca ,-leste,140,3,2150
+Moóca ,-leste,210,3,3800
+Moóca ,-leste,470,3,7000
+Moóca ,-leste,210,3,3800
+Moóca ,-leste,264,3,4000
+Moóca ,-leste,150,3,3300
+Moóca ,-leste,70,3,2200
+Moóca ,-leste,70,,1700
+Moóca ,-leste,80,3,1570
+Moóca ,-leste,82,2,1900
+Moóca ,-leste,65,2,1500
+Moóca ,-leste,45,1,1200
+Penha De Franca ,-leste,320,,99
+Penha De Franca ,-leste,200,4,6500
+Penha De Franca ,-leste,70,1,1000
+Penha De Franca ,-leste,90,3,1750
+Penha De Franca ,-leste,50,2,1200
+Penha De Franca ,-leste,200,4,5500
+Penha De Franca ,-leste,400,3,8000
+Penha De Franca ,-leste,145,3,2500
+Penha De Franca ,-leste,226,3,5000
+Penha De Franca ,-leste,432,5,12000
+Penha De Franca ,-leste,300,4,5200
+Penha De Franca ,-leste,340,3,8000
+Penha De Franca ,-leste,400,,7000
+Penha De Franca ,-leste,400,3,8000
+Penha De Franca ,-leste,400,,8000
+Penha De Franca ,-leste,300,3,4500
+Penha De Franca ,-leste,200,3,7000
+Penha De Franca ,-leste,800,3,14000
+Penha De Franca ,-leste,200,3,7000
+Penha De Franca ,-leste,700,5,8000
+Penha De Franca ,-leste,720,5,8000
+Vila Regente Feijó ,-leste,144,3,6000
+Vila Regente Feijó ,-leste,270,3,6500
+Vila Regente Feijó ,-leste,128,3,4800
+Vila Regente Feijó ,-leste,144,3,8000
+Vila Regente Feijó ,-leste,113,3,2700
+Vila Regente Feijó ,-leste,35,1,900
+Vila Regente Feijó ,-leste,50,1,1100
+Vila Regente Feijó ,-leste,72,2,2200
+Vila Regente Feijó ,-leste,100,4,4000
+Vila Regente Feijó ,-leste,180,3,3950
+Vila Regente Feijó ,-leste,72,2,2200
+Vila Regente Feijó ,-leste,150,3,3200
+Vila Regente Feijó ,-leste,180,3,3700
+Vila Regente Feijó ,-leste,120,2,3500
+Vila Regente Feijó ,-leste,260,5,5800
+Vila Regente Feijó ,-leste,450,3,7000
+Vila Regente Feijó ,-leste,200,,8500
+Vila Regente Feijó ,-leste,228,3,3900
+Vila Regente Feijó ,-leste,480,3,9000
+Vila Regente Feijó ,-leste,219,,8500
+Vila Regente Feijó ,-leste,202,3,2900
+Tatuapé ,-leste,250,3,4000
+Tatuapé ,-leste,140,3,2800
+Tatuapé ,-leste,105,1,5000
+Tatuapé ,-leste,160,,8000
+Tatuapé ,-leste,180,,9000
+Tatuapé ,-leste,200,3,3500
+Tatuapé ,-leste,194,3,3000
+Tatuapé ,-leste,105,4,5000
+Tatuapé ,-leste,250,4,8000
+Tatuapé ,-leste,220,4,5000
+Tatuapé ,-leste,90,3,3260
+Tatuapé ,-leste,50,1,1200
+Tatuapé ,-leste,180,2,3500
+Tatuapé ,-leste,171,2,3170
+Tatuapé ,-leste,270,4,10000
+Tatuapé ,-leste,292,2,4850
+Tatuapé ,-leste,270,3,5810
+Tatuapé ,-leste,140,2,3000
+Tatuapé ,-leste,70,3,3500
+Tatuapé ,-leste,266,3,7800
+Tatuapé ,-leste,35,1,900
+Vila Carrão ,-leste,38,1,900
+Vila Carrão ,-leste,,3,2500
+Vila Carrão ,-leste,332,4,7840
+Vila Carrão ,-leste,50,1,1200
+Vila Carrão ,-leste,200,3,4000
+Vila Carrão ,-leste,40,1,1200
+Vila Carrão ,-leste,600,3,30000
+Vila Carrão ,-leste,280,,9500
+Vila Carrão ,-leste,180,,3000
+Vila Carrão ,-leste,50,1,1100
+Vila Carrão ,-leste,100,3,2200
+Vila Carrão ,-leste,600,3,30000
+Vila Carrão ,-leste,332,4,8000
+Vila Carrão ,-leste,130,2,2000
+Vila Carrão ,-leste,60,1,1100
+Vila Carrão ,-leste,160,3,2500
+Vila Carrão ,-leste,120,3,2500
+Vila Carrão ,-leste,140,3,4200
+Vila Carrão ,-leste,70,1,1700
+Vila Carrão ,-leste,65,2,1800
+Vila Carrão ,-leste,350,4,6000
+Vila Gomes Cardim ,-leste,105,1,5000
+Vila Gomes Cardim ,-leste,250,,8000
+Vila Gomes Cardim ,-leste,160,,8000
+Vila Gomes Cardim ,-leste,180,,9000
+Vila Gomes Cardim ,-leste,240,2,4000
+Vila Gomes Cardim ,-leste,105,4,5000
+Vila Gomes Cardim ,-leste,300,4,8100
+Vila Gomes Cardim ,-leste,140,2,3000
+Vila Gomes Cardim ,-leste,90,3,3500
+Vila Gomes Cardim ,-leste,250,2,3500
+Vila Gomes Cardim ,-leste,490,5,8000
+Vila Gomes Cardim ,-leste,105,1,5000
+Vila Gomes Cardim ,-leste,160,2,1800
+Vila Gomes Cardim ,-leste,126,3,3200
+Vila Gomes Cardim ,-leste,196,,4500
+Vila Gomes Cardim ,-leste,60,2,2000
+Vila Gomes Cardim ,-leste,500,4,20000
+Vila Gomes Cardim ,-leste,280,5,10000
+Vila Gomes Cardim ,-leste,220,3,4100
+Vila Gomes Cardim ,-leste,100,2,2700
+Vila Gomes Cardim ,-leste,300,3,5000
+Chácara Santo Antônio ,-leste,50,1,1300
+Chácara Santo Antônio ,-leste,50,1,1300
+Chácara Santo Antônio ,-leste,45,1,1200
+Chácara Santo Antônio ,-leste,480,7,12000
+Chácara Santo Antônio ,-leste,135,2,2500
+Chácara Santo Antônio ,-leste,290,4,4000
+Chácara Santo Antônio ,-leste,80,2,2200
+Chácara Santo Antônio ,-leste,176,3,3000
+Chácara Santo Antônio ,-leste,234,3,4700
+Chácara Santo Antônio ,-leste,75,2,1550
+Chácara Santo Antônio ,-leste,80,2,1550
+Chácara Santo Antônio ,-leste,64,2,2200
+Chácara Santo Antônio ,-leste,185,2,2500
+Chácara Santo Antônio ,-leste,180,2,3000
+Chácara Santo Antônio ,-leste,300,3,5000
+Chácara Santo Antônio ,-leste,150,3,2500
+Chácara Santo Antônio ,-leste,150,3,2500
+Chácara Santo Antônio ,-leste,50,,1800
+Chácara Santo Antônio ,-leste,64,2,2000
+Chácara Santo Antônio ,-leste,140,3,3700
+Chácara Santo Antônio ,-leste,150,3,4200
+Vila Prudente ,-leste,80,2,1500
+Vila Prudente ,-leste,250,3,2600
+Vila Prudente ,-leste,60,2,900
+Vila Prudente ,-leste,120,3,2000
+Vila Prudente ,-leste,90,2,1900
+Vila Prudente ,-leste,640,5,7500
+Vila Prudente ,-leste,250,3,3200
+Vila Prudente ,-leste,280,4,5000
+Vila Prudente ,-leste,90,,2000
+Vila Prudente ,-leste,125,2,625000
+Vila Prudente ,-leste,471,3,8000
+Vila Prudente ,-leste,200,3,5000
+Vila Prudente ,-leste,180,3,4000
+Vila Prudente ,-leste,400,3,9000
+Vila Prudente ,-leste,270,,6500
+Vila Prudente ,-leste,250,3,3000
+Vila Prudente ,-leste,276,3,8000
+Vila Prudente ,-leste,167,3,3500
+Vila Prudente ,-leste,120,3,3000
+Vila Prudente ,-leste,690,,12000
+Vila Prudente ,-leste,276,3,10000
+Vila Antonieta ,-leste,155,2,1580
+Vila Antonieta ,-leste,50,1,800
+Vila Antonieta ,-leste,200,4,2500
+Vila Antonieta ,-leste,155,2,1580
+Vila Antonieta ,-leste,155,2,1580
+Vila Antonieta ,-leste,200,3,2500
+Vila Antonieta ,-leste,300,3,4300
+Vila Antonieta ,-leste,40,2,1400
+Vila Antonieta ,-leste,200,3,2550
+Vila Antonieta ,-leste,80,2,1600
+Vila Antonieta ,-leste,250,3,6000
+Vila Antonieta ,-leste,73,3,2000
+Vila Antonieta ,-leste,158,2,1450
+Vila Antonieta ,-leste,158,2,1450
+Vila Antonieta ,-leste,200,4,2500
+Vila Antonieta ,-leste,200,4,2000
+Vila Antonieta ,-leste,286,4,4000
+Vila Formosa ,-leste,33,3,1500
+Vila Formosa ,-leste,100,2,1300
+Vila Formosa ,-leste,120,3,2800
+Vila Formosa ,-leste,70,1,1400
+Vila Formosa ,-leste,150,3,2000
+Vila Formosa ,-leste,80,1,850
+Vila Formosa ,-leste,100,2,1600
+Vila Formosa ,-leste,120,2,2300
+Vila Formosa ,-leste,100,2,1400
+Vila Formosa ,-leste,30,1,950
+Vila Formosa ,-leste,60,2,1100
+Vila Formosa ,-leste,30,1,830
+Vila Formosa ,-leste,65,1,1300
+Vila Formosa ,-leste,73,2,1300
+Vila Formosa ,-leste,40,1,1200
+Vila Formosa ,-leste,73,2,1300
+Vila Formosa ,-leste,180,3,2500
+Vila Formosa ,-leste,90,2,1400
+Vila Formosa ,-leste,80,2,2000
+Vila Formosa ,-leste,288,3,2900
+Vila Formosa ,-leste,80,2,2000
+Itaquera ,-leste,32,1,500
+Itaquera ,-leste,40,1,800
+Itaquera ,-leste,57,2,1350
+Itaquera ,-leste,60,1,850
+Itaquera ,-leste,60,2,850
+Itaquera ,-leste,80,3,1600
+Itaquera ,-leste,40,1,850
+Itaquera ,-leste,25,1,650
+Itaquera ,-leste,38,1,700
+Itaquera ,-leste,85,2,1600
+Itaquera ,-leste,80,2,2500
+Itaquera ,-leste,145,2,1500
+Itaquera ,-leste,80,2,1700
+Itaquera ,-leste,200,4,1800
+Itaquera ,-leste,370,4,8000
+Itaquera ,-leste,50,2,900
+Itaquera ,-leste,200,3,2500
+Itaquera ,-leste,55,1,1000
+Itaquera ,-leste,50,1,1600
+Itaquera ,-leste,40,1,1300
+Itaquera ,-leste,70,2,1500
+Vila Guilhermina ,-leste,70,1,1000
+Vila Guilhermina ,-leste,55,2,1450
+Vila Guilhermina ,-leste,45,1,1100
+Vila Guilhermina ,-leste,370,4,10000
+Vila Guilhermina ,-leste,150,2,1900
+Vila Guilhermina ,-leste,438,4,10000
+Vila Guilhermina ,-leste,184,4,3000
+Vila Guilhermina ,-leste,550,2,5000
+Vila Guilhermina ,-leste,400,7,7000
+Vila Guilhermina ,-leste,250,3,7000
+Vila Guilhermina ,-leste,,3,3000
+Vila Guilhermina ,-leste,,4,3000
+Vila Guilhermina ,-leste,250,3,2500
+Vila Guilhermina ,-leste,85,2,2500
+Vila Guilhermina ,-leste,,4,5000
+Vila Guilhermina ,-leste,70,2,1800
+Vila Guilhermina ,-leste,70,1,1800
+Vila Guilhermina ,-leste,100,2,2200
+Vila Guilhermina ,-leste,300,3,5000
+Vila Guilhermina ,-leste,60,2,2500
+Vila Guilhermina ,-leste,60,2,1200
+Chácara Califórnia ,-leste,170,3,5000
+Chácara Califórnia ,-leste,350,4,6000
+Chácara Califórnia ,-leste,150,2,2500
+Chácara Califórnia ,-leste,25,1,1000
+Chácara Califórnia ,-leste,95,2,2700
+Chácara Califórnia ,-leste,200,4,5500
+Chácara Califórnia ,-leste,433,2,8000
+Chácara Califórnia ,-leste,120,2,1900
+Chácara Califórnia ,-leste,200,3,3500
+Chácara Califórnia ,-leste,103,2,2100
+Chácara Califórnia ,-leste,90,2,3000
+Chácara Califórnia ,-leste,300,1,7500
+Chácara Califórnia ,-leste,380,,12000
+Chácara Califórnia ,-leste,80,2,2800
+Chácara Califórnia ,-leste,50,1,1250
+Chácara Califórnia ,-leste,95,2,1390
+Chácara Califórnia ,-leste,65,2,1750
+Chácara Califórnia ,-leste,150,4,2800
+Chácara Califórnia ,-leste,35,1,1100
+Chácara Califórnia ,-leste,,3,2500
+Jardim Penha ,-leste,70,2,1200
+Jardim Penha ,-leste,48,1,950
+Jardim Penha ,-leste,56,2,1200
+Jardim Penha ,-leste,220,2,3500
+Jardim Penha ,-leste,500,8,35000
+Jardim Penha ,-leste,700,5,10000
+Jardim Penha ,-leste,,3,2500
+Jardim Penha ,-leste,10,2,1400
+Jardim Penha ,-leste,111,2,2500
+Jardim Penha ,-leste,110,2,1800
+Jardim Penha ,-leste,120,3,2105
+Jardim Penha ,-leste,35,1,1100
+Jardim Penha ,-leste,,1,1200
+Jardim Penha ,-leste,60,2,1300
+Jardim Penha ,-leste,,2,1300
+Jardim Penha ,-leste,50,1,600
+Jardim Penha ,-leste,,3,1750
+Vila Bertioga ,-leste,242,3,4000
+Vila Bertioga ,-leste,242,3,4000
+Vila Bertioga ,-leste,390,5,10000
+Vila Bertioga ,-leste,70,,1700
+Vila Bertioga ,-leste,65,2,1500
+Vila Bertioga ,-leste,150,3,3100
+Vila Bertioga ,-leste,160,,3000
+Vila Bertioga ,-leste,130,,2800
+Vila Bertioga ,-leste,1587,4,14000
+Vila Bertioga ,-leste,250,2,1380000
+Vila Bertioga ,-leste,400,3,3000
+Vila Bertioga ,-leste,250,3,4000
+Vila Bertioga ,-leste,160,2,4000
+Vila Bertioga ,-leste,1457,4,14000
+Vila Bertioga ,-leste,280,4,7000
+Vila Bertioga ,-leste,329,4,10000
+Vila Bertioga ,-leste,255,3,5500
+Vila Bertioga ,-leste,329,4,10000
+Vila Bertioga ,-leste,105,3,3500
+Vila Bertioga ,-leste,60,1,1200
+Vila Bertioga ,-leste,80,1,1200
+Vila Ré ,-leste,67,3,2300
+Vila Ré ,-leste,76,2,2000
+Vila Ré ,-leste,,5,3000
+Vila Ré ,-leste,500,4,15000
+Vila Ré ,-leste,500,3,8000
+Vila Ré ,-leste,250,3,5000
+Vila Ré ,-leste,500,3,6000
+Vila Ré ,-leste,180,2,4000
+Vila Ré ,-leste,250,4,4800
+Vila Ré ,-leste,200,2,3500
+Vila Ré ,-leste,,2,2500
+Vila Ré ,-leste,80,1,1300
+Vila Ré ,-leste,350,3,8000
+Vila Ré ,-leste,180,2,4000
+Vila Ré ,-leste,43,1,1100
+Vila Ré ,-leste,100,3,2300
+Vila Ré ,-leste,500,3,6000
+Vila Ré ,-leste,50,2,1000
+Vila Ré ,-leste,48,2,1100
+Vila Ré ,-leste,100,3,2000
+Vila Ré ,-leste,72,2,1650
+Maranhão ,-leste,140,3,2800
+Maranhão ,-leste,180,3,4800
+Maranhão ,-leste,180,3,4800
+Maranhão ,-leste,180,4,4700
+Maranhão ,-leste,180,2,4800
+Maranhão ,-leste,79,1,1500
+Maranhão ,-leste,260,,6900
+Maranhão ,-leste,110,2,2400
+Maranhão ,-leste,120,2,2300
+Maranhão ,-leste,275,3,10000
+Maranhão ,-leste,67,,2400
+Maranhão ,-leste,220,3,3500
+Maranhão ,-leste,67,,2400
+Maranhão ,-leste,180,2,4800
+Maranhão ,-leste,100,3,3000
+Maranhão ,-leste,130,3,2500
+Maranhão ,-leste,67,1,2200
+Maranhão ,-leste,289,3,6000
+Maranhão ,-leste,79,1,1500
+Maranhão ,-leste,190,3,2800
+Maranhão ,-leste,67,,2200
+Vila Matilde ,-leste,202,3,3000
+Vila Matilde ,-leste,50,1,1200
+Vila Matilde ,-leste,150,3,2500
+Vila Matilde ,-leste,40,1,850
+Vila Matilde ,-leste,120,2,2300
+Vila Matilde ,-leste,90,3,2000
+Vila Matilde ,-leste,60,2,1600
+Vila Matilde ,-leste,40,1,1000
+Vila Matilde ,-leste,35,1,700
+Vila Matilde ,-leste,70,1,1350
+Vila Matilde ,-leste,433,3,6000
+Vila Matilde ,-leste,250,5,4000
+Vila Matilde ,-leste,50,1,3000
+Vila Matilde ,-leste,550,,10000
+Vila Matilde ,-leste,50,1,950
+Vila Matilde ,-leste,80,4,3200
+Vila Matilde ,-leste,110,1,1500
+Vila Matilde ,-leste,305,3,4500
+Vila Matilde ,-leste,146,3,2900
+Vila Matilde ,-leste,500,5,12000
+Vila Matilde ,-leste,130,2,3950
+Alto Da Mooca ,-leste,160,,5000
+Alto Da Mooca ,-leste,80,3,1570
+Alto Da Mooca ,-leste,82,2,1900
+Alto Da Mooca ,-leste,110,3,3900
+Alto Da Mooca ,-leste,70,2,1900
+Alto Da Mooca ,-leste,80,2,2000
+Alto Da Mooca ,-leste,240,,3000
+Alto Da Mooca ,-leste,170,3,3500
+Alto Da Mooca ,-leste,,2,2100
+Alto Da Mooca ,-leste,1102,4,3000
+Alto Da Mooca ,-leste,400,5,7000
+Alto Da Mooca ,-leste,160,3,4000
+Alto Da Mooca ,-leste,206,2,3500
+Alto Da Mooca ,-leste,360,4,8000
+Alto Da Mooca ,-leste,420,3,9000
+Alto Da Mooca ,-leste,149,2,4200
+Alto Da Mooca ,-leste,280,3,6000
+Alto Da Mooca ,-leste,280,3,6000
+Alto Da Mooca ,-leste,280,3,6000
+Alto Da Mooca ,-leste,140,4,5000
+Alto Da Mooca ,-leste,310,4,7000
+Vila Aricanduva ,-leste,90,2,1700
+Vila Aricanduva ,-leste,75,2,1500
+Vila Aricanduva ,-leste,200,4,2500
+Vila Aricanduva ,-leste,300,4,5700
+Vila Aricanduva ,-leste,65,2,2060
+Vila Aricanduva ,-leste,40,2,1500
+Vila Aricanduva ,-leste,190,3,5000
+Vila Aricanduva ,-leste,500,,8300
+Vila Aricanduva ,-leste,400,6,8350
+Vila Aricanduva ,-leste,500,1,8300
+Vila Aricanduva ,-leste,500,5,8200
+Vila Aricanduva ,-leste,84,2,1700
+Vila Aricanduva ,-leste,200,,3600
+Vila Aricanduva ,-leste,102,3,2400
+Vila Aricanduva ,-leste,50,1,800
+Vila Aricanduva ,-leste,382,5,4700
+Vila Aricanduva ,-leste,35,1,1603
+Vila Aricanduva ,-leste,70,2,1960
+Vila Aricanduva ,-leste,45,1,800
+Vila Aricanduva ,-leste,250,3,6000
+Vila Aricanduva ,-leste,48,1,1000
+Parada Xv De Novembro ,-leste,144,2,1600
+Parada Xv De Novembro ,-leste,200,4,1800
+Parada Xv De Novembro ,-leste,55,1,1000
+Parada Xv De Novembro ,-leste,300,5,8000
+Parada Xv De Novembro ,-leste,70,2,1200
+Parada Xv De Novembro ,-leste,120,3,3500
+Parada Xv De Novembro ,-leste,120,3,3500
+Parada Xv De Novembro ,-leste,40,1,800
+Parada Xv De Novembro ,-leste,40,1,800
+Parada Xv De Novembro ,-leste,47,2,1200
+Parada Xv De Novembro ,-leste,120,2,1200
+Parada Xv De Novembro ,-leste,70,2,1100
+Vila Buenos Aires ,-leste,142,3,2300
+Vila Buenos Aires ,-leste,,3,2000
+Vila Buenos Aires ,-leste,,1,1300
+Vila Buenos Aires ,-leste,95,2,1350
+Vila Buenos Aires ,-leste,,1,2500
+Vila Buenos Aires ,-leste,142,3,2300
+Vila Buenos Aires ,-leste,180,3,2700
+Vila Buenos Aires ,-leste,180,3,2700
+Vila Buenos Aires ,-leste,50,1,950
+Vila Buenos Aires ,-leste,72,2,1390
+Vila Buenos Aires ,-leste,10,1,700
+Vila Buenos Aires ,-leste,10,1,850
+Vila Buenos Aires ,-leste,100,2,1700
+Vila Buenos Aires ,-leste,76,2,1100
+Vila Buenos Aires ,-leste,120,2,1500
+Vila Buenos Aires ,-leste,58,2,1000
+Vila Buenos Aires ,-leste,150,,5000
+Vila Buenos Aires ,-leste,70,2,1300
+Vila Buenos Aires ,-leste,10,1,700
+Vila Buenos Aires ,-leste,38,1,750
+Vila Buenos Aires ,-leste,10,1,700
+Quarta Parada ,-leste,144,2,1600
+Quarta Parada ,-leste,67,2,1500
+Quarta Parada ,-leste,200,4,1800
+Quarta Parada ,-leste,55,1,1000
+Quarta Parada ,-leste,100,2,4990
+Quarta Parada ,-leste,200,3,4990
+Quarta Parada ,-leste,300,5,4990
+Quarta Parada ,-leste,70,2,8000
+Quarta Parada ,-leste,60,1,1200
+Quarta Parada ,-leste,220,3,1800
+Quarta Parada ,-leste,208,3,6000
+Quarta Parada ,-leste,208,3,6000
+Quarta Parada ,-leste,150,,6000
+Quarta Parada ,-leste,53,1,4000
+Quarta Parada ,-leste,200,3,2500
+Quarta Parada ,-leste,240,,4990
+Quarta Parada ,-leste,600,5,3500
+Quarta Parada ,-leste,130,2,9700
+Quarta Parada ,-leste,120,3,2500
+Quarta Parada ,-leste,45,1,3500
+Quarta Parada ,-leste,120,3,800
+Quinta Da Paineira ,-leste,400,,4000
+Quinta Da Paineira ,-leste,150,,2700
+Quinta Da Paineira ,-leste,290,3,4600
+Quinta Da Paineira ,-leste,75,,2500
+Quinta Da Paineira ,-leste,50,2,1500
+Quinta Da Paineira ,-leste,105,3,1900
+Quinta Da Paineira ,-leste,180,,3200
+Quinta Da Paineira ,-leste,50,2,1400
+Quinta Da Paineira ,-leste,158,3,2800
+Quinta Da Paineira ,-leste,120,2,2700
+Vila Ema ,-leste,175,3,2300
+Vila Ema ,-leste,120,3,3000
+Vila Ema ,-leste,160,3,2500
+Vila Ema ,-leste,250,3,3500
+Vila Ema ,-leste,52,2,2000
+Vila Ema ,-leste,190,2,1800
+Vila Ema ,-leste,260,3,6600
+Vila Ema ,-leste,160,3,2500
+Vila Ema ,-leste,70,1,1000
+Vila Ema ,-leste,150,3,2500
+Vila Ema ,-leste,100,2,2300
+Vila Ema ,-leste,160,3,2500
+Vila Ema ,-leste,120,3,4000
+Vila Ema ,-leste,60,1,1100
+Vila Ema ,-leste,40,1,1100
+Vila Ema ,-leste,260,3,5500
+Vila Ema ,-leste,70,1,1000
+Vila Ema ,-leste,100,1,963
+Vila Ema ,-leste,160,3,2500
+Vila Ema ,-leste,160,3,2500
+Vila Ema ,-leste,70,1,1000
+Vila Esperança ,-leste,87,3,1900
+Vila Esperança ,-leste,50,1,1100
+Vila Esperança ,-leste,80,2,1800
+Vila Esperança ,-leste,60,2,1200
+Vila Esperança ,-leste,60,3,1500
+Vila Esperança ,-leste,80,2,1400
+Vila Esperança ,-leste,350,3,4000
+Vila Esperança ,-leste,75,2,2500
+Vila Esperança ,-leste,190,3,4000
+Vila Esperança ,-leste,120,3,2400
+Vila Esperança ,-leste,70,2,2500
+Vila Esperança ,-leste,,3,3500
+Vila Esperança ,-leste,180,3,4000
+Vila Esperança ,-leste,300,3,4500
+Vila Esperança ,-leste,114,2,1900
+Vila Esperança ,-leste,1200,6,25000
+Vila Esperança ,-leste,223,3,4000
+Vila Esperança ,-leste,70,3,2000
+Vila Esperança ,-leste,150,2,4000
+Vila Esperança ,-leste,120,2,2260
+Vila Esperança ,-leste,500,2,2800
+Vila Mariana ,-sul,10,5,4200
+Vila Mariana ,-sul,172,3,5900
+Vila Mariana ,-sul,175,3,4900
+Vila Mariana ,-sul,100,2,2500
+Vila Mariana ,-sul,300,3,6000
+Vila Mariana ,-sul,100,2,3300
+Vila Mariana ,-sul,172,3,5900
+Vila Mariana ,-sul,100,3,3500
+Vila Mariana ,-sul,60,2,3000
+Vila Mariana ,-sul,200,,6200
+Vila Mariana ,-sul,60,1,2300
+Vila Mariana ,-sul,270,3,5000
+Vila Mariana ,-sul,155,3,2600
+Vila Mariana ,-sul,200,3,2900
+Vila Mariana ,-sul,45,2,2500
+Vila Mariana ,-sul,281,2,9000
+Vila Mariana ,-sul,150,2,3250
+Vila Mariana ,-sul,250,,15000
+Vila Mariana ,-sul,250,5,4900
+Vila Mariana ,-sul,180,1,5000
+Vila Mariana ,-sul,280,10,9000
+Jardim Paulista ,-sul,170,3,3000
+Jardim Paulista ,-sul,308,3,45000
+Jardim Paulista ,-sul,249,3,35000
+Jardim Paulista ,-sul,140,,5000
+Jardim Paulista ,-sul,88,5,8500
+Jardim Paulista ,-sul,160,1,10000
+Jardim Paulista ,-sul,520,8,25000
+Jardim Paulista ,-sul,850,4,58000
+Jardim Paulista ,-sul,390,4,25000
+Jardim Paulista ,-sul,317,3,15000
+Jardim Paulista ,-sul,359,4,17000
+Jardim Paulista ,-sul,359,4,17000
+Jardim Paulista ,-sul,390,4,25000
+Jardim Paulista ,-sul,317,3,15000
+Jardim Paulista ,-sul,436,,22000
+Jardim Paulista ,-sul,350,,35000
+Jardim Paulista ,-sul,80,,4500
+Jardim Paulista ,-sul,300,3,7000
+Jardim Paulista ,-sul,148,,10000
+Jardim Paulista ,-sul,289,3,35000
+Jardim Paulista ,-sul,348,,15000
+Vila Olímpia ,-sul,82,3,3300
+Vila Olímpia ,-sul,160,,6000
+Vila Olímpia ,-sul,400,,35000
+Vila Olímpia ,-sul,170,2,6000
+Vila Olímpia ,-sul,100,2,4200
+Vila Olímpia ,-sul,250,,7500
+Vila Olímpia ,-sul,950,2,60000
+Vila Olímpia ,-sul,196,,12000
+Vila Olímpia ,-sul,1000,1,65000
+Vila Olímpia ,-sul,130,2,4400
+Vila Olímpia ,-sul,140,,2800
+Vila Olímpia ,-sul,216,2,7000
+Vila Olímpia ,-sul,192,2,7000
+Vila Olímpia ,-sul,90,2,4300
+Vila Olímpia ,-sul,220,,12000
+Vila Olímpia ,-sul,70,,4000
+Vila Olímpia ,-sul,150,,4000
+Vila Olímpia ,-sul,120,2,6000
+Vila Olímpia ,-sul,538,1,30000
+Vila Olímpia ,-sul,150,,6500
+Vila Olímpia ,-sul,295,4,12000
+Ipiranga ,-sul,40,1,1500
+Ipiranga ,-sul,48,2,1550
+Ipiranga ,-sul,90,2,2800
+Ipiranga ,-sul,45,1,1600
+Ipiranga ,-sul,28,1,1250
+Ipiranga ,-sul,90,2,2000
+Ipiranga ,-sul,180,3,4000
+Ipiranga ,-sul,50,1,1500
+Ipiranga ,-sul,42,2,1340
+Ipiranga ,-sul,28,1,1160
+Ipiranga ,-sul,200,,3000
+Ipiranga ,-sul,72,2,2970
+Ipiranga ,-sul,140,2,2400
+Ipiranga ,-sul,21,1,1000
+Ipiranga ,-sul,85,1,650
+Ipiranga ,-sul,175,3,4000
+Ipiranga ,-sul,145,2,3000
+Ipiranga ,-sul,145,2,3000
+Ipiranga ,-sul,80,2,1700
+Ipiranga ,-sul,80,2,2300
+Ipiranga ,-sul,150,2,2300
+Brooklin Paulista ,-sul,124,3,3500
+Brooklin Paulista ,-sul,155,3,4987
+Brooklin Paulista ,-sul,210,3,4800
+Brooklin Paulista ,-sul,160,2,4000
+Brooklin Paulista ,-sul,450,4,15000
+Brooklin Paulista ,-sul,133,3,5000
+Brooklin Paulista ,-sul,625,4,28000
+Brooklin Paulista ,-sul,200,,4500
+Brooklin Paulista ,-sul,210,3,4800
+Brooklin Paulista ,-sul,200,3,5900
+Brooklin Paulista ,-sul,97,2,3100
+Brooklin Paulista ,-sul,1200,,70000
+Brooklin Paulista ,-sul,327,5,9500
+Brooklin Paulista ,-sul,350,4,10000
+Brooklin Paulista ,-sul,240,9,5000
+Brooklin Paulista ,-sul,300,10,11000
+Brooklin Paulista ,-sul,176,,9850
+Brooklin Paulista ,-sul,370,3,15000
+Brooklin Paulista ,-sul,400,,19000
+Brooklin Paulista ,-sul,327,,10000
+Brooklin Paulista ,-sul,210,3,4800
+Cambuci ,-sul,174,3,5000
+Cambuci ,-sul,65,1,1250
+Cambuci ,-sul,120,3,4000
+Cambuci ,-sul,180,4,5200
+Cambuci ,-sul,38,1,1000
+Cambuci ,-sul,80,1,1350
+Cambuci ,-sul,180,3,5300
+Cambuci ,-sul,220,8,25000
+Cambuci ,-sul,230,5,7500
+Cambuci ,-sul,200,,8000
+Cambuci ,-sul,185,,4000
+Cambuci ,-sul,230,3,7500
+Cambuci ,-sul,200,4,2900
+Cambuci ,-sul,540,,14900
+Cambuci ,-sul,4250,,95000
+Cambuci ,-sul,180,3,5500
+Cambuci ,-sul,100,,4000
+Cambuci ,-sul,200,3,4500
+Cambuci ,-sul,,1,2500
+Cambuci ,-sul,320,,5000
+Cambuci ,-sul,100,3,5000
+Campo Belo ,-sul,130,3,4200
+Campo Belo ,-sul,194,3,5400
+Campo Belo ,-sul,157,,5500
+Campo Belo ,-sul,81,,1500
+Campo Belo ,-sul,140,,3400
+Campo Belo ,-sul,142,3,4500
+Campo Belo ,-sul,133,3,5000
+Campo Belo ,-sul,200,3,6400
+Campo Belo ,-sul,160,,12000
+Campo Belo ,-sul,80,1,450
+Campo Belo ,-sul,118,,2800
+Campo Belo ,-sul,180,3,5500
+Campo Belo ,-sul,350,4,10000
+Campo Belo ,-sul,110,,6000
+Campo Belo ,-sul,300,10,11000
+Campo Belo ,-sul,130,3,4200
+Campo Belo ,-sul,350,4,10000
+Campo Belo ,-sul,180,3,4000
+Campo Belo ,-sul,100,1,12000
+Campo Belo ,-sul,546,10,30000
+Campo Belo ,-sul,100,2,3000
+Indianópolis ,-sul,130,1,6000
+Indianópolis ,-sul,167,3,4900
+Indianópolis ,-sul,50,2,3000
+Indianópolis ,-sul,230,3,7000
+Indianópolis ,-sul,400,,5900
+Indianópolis ,-sul,230,3,7000
+Indianópolis ,-sul,300,2,20000
+Indianópolis ,-sul,498,,14000
+Indianópolis ,-sul,167,3,4900
+Indianópolis ,-sul,250,2,3500
+Indianópolis ,-sul,800,,24999
+Indianópolis ,-sul,270,,12999
+Indianópolis ,-sul,230,3,7000
+Indianópolis ,-sul,100,2,4500
+Indianópolis ,-sul,325,3,17500
+Indianópolis ,-sul,230,4,8000
+Indianópolis ,-sul,180,6,7900
+Indianópolis ,-sul,500,4,20000
+Indianópolis ,-sul,325,3,17500
+Indianópolis ,-sul,478,3,23000
+Indianópolis ,-sul,180,3,7500
+Aclimação ,-sul,208,2,4500
+Aclimação ,-sul,110,3,2500
+Aclimação ,-sul,160,3,4100
+Aclimação ,-sul,160,4,4100
+Aclimação ,-sul,160,4,4500
+Aclimação ,-sul,160,3,4100
+Aclimação ,-sul,180,3,4000
+Aclimação ,-sul,200,,8000
+Aclimação ,-sul,269,4,12000
+Aclimação ,-sul,140,3,4000
+Aclimação ,-sul,160,3,4100
+Aclimação ,-sul,180,3,4000
+Aclimação ,-sul,200,,6000
+Aclimação ,-sul,90,2,4500
+Aclimação ,-sul,100,5,5800
+Aclimação ,-sul,210,1,7000
+Aclimação ,-sul,180,3,5000
+Aclimação ,-sul,230,3,5000
+Aclimação ,-sul,200,5,11000
+Aclimação ,-sul,130,2,3500
+Aclimação ,-sul,100,4,4000
+Itaim Bibi ,-sul,200,3,9000
+Itaim Bibi ,-sul,200,4,15000
+Itaim Bibi ,-sul,70,2,1800
+Itaim Bibi ,-sul,518,,17000
+Itaim Bibi ,-sul,250,,7500
+Itaim Bibi ,-sul,300,,7500
+Itaim Bibi ,-sul,280,,19000
+Itaim Bibi ,-sul,250,4,7400
+Itaim Bibi ,-sul,408,,10000
+Itaim Bibi ,-sul,300,4,22000
+Itaim Bibi ,-sul,170,3,9000
+Itaim Bibi ,-sul,122,,4500
+Itaim Bibi ,-sul,160,3,5000
+Itaim Bibi ,-sul,300,3,7500
+Itaim Bibi ,-sul,170,,6500
+Itaim Bibi ,-sul,217,,50000
+Itaim Bibi ,-sul,150,3,10000
+Itaim Bibi ,-sul,200,1,8500
+Itaim Bibi ,-sul,220,,9500
+Itaim Bibi ,-sul,250,1,7500
+Itaim Bibi ,-sul,278,4,22000
+Vila Nova Conceição ,-sul,260,3,9000
+Vila Nova Conceição ,-sul,60,2,1750
+Vila Nova Conceição ,-sul,80,2,1600
+Vila Nova Conceição ,-sul,413,10,30000
+Vila Nova Conceição ,-sul,157,2,22000
+Vila Nova Conceição ,-sul,168,,12000
+Vila Nova Conceição ,-sul,230,3,9500
+Vila Nova Conceição ,-sul,198,3,9000
+Vila Nova Conceição ,-sul,400,3,30000
+Vila Nova Conceição ,-sul,260,4,10000
+Vila Nova Conceição ,-sul,348,,15000
+Vila Nova Conceição ,-sul,390,6,18000
+Vila Nova Conceição ,-sul,450,4,44000
+Vila Nova Conceição ,-sul,140,5,16000
+Vila Nova Conceição ,-sul,143,3,10000
+Vila Nova Conceição ,-sul,210,4,14000
+Vila Nova Conceição ,-sul,45,,1500
+Vila Nova Conceição ,-sul,80,2,2200
+Vila Nova Conceição ,-sul,434,,50000
+Vila Nova Conceição ,-sul,168,,10000
+Vila Nova Conceição ,-sul,1000,5,48000
+Vila Monumento ,-sul,350,4,6000
+Vila Monumento ,-sul,140,2,2800
+Vila Monumento ,-sul,100,2,2100
+Vila Monumento ,-sul,65,1,1500
+Vila Monumento ,-sul,120,3,2500
+Vila Monumento ,-sul,234,7,5900
+Vila Monumento ,-sul,150,,6500
+Vila Monumento ,-sul,270,3,4500
+Vila Monumento ,-sul,209,3,6000
+Vila Monumento ,-sul,436,,8000
+Vila Monumento ,-sul,235,4,7000
+Vila Monumento ,-sul,400,,6000
+Vila Monumento ,-sul,250,4,4500
+Vila Monumento ,-sul,290,4,4500
+Vila Monumento ,-sul,30,1,1200
+Vila Monumento ,-sul,30,1,1300
+Vila Monumento ,-sul,95,2,2400
+Vila Monumento ,-sul,200,4,4500
+Vila Monumento ,-sul,156,3,3500
+Vila Monumento ,-sul,300,4,4500
+Vila Monumento ,-sul,252,,4900
+Sacomã ,-sul,45,2,1600
+Sacomã ,-sul,202,3,3000
+Sacomã ,-sul,300,9,6500
+Sacomã ,-sul,65,2,2000
+Sacomã ,-sul,350,4,4430
+Sacomã ,-sul,200,4,2300
+Sacomã ,-sul,140,3,3300
+Sacomã ,-sul,55,1,1500
+Sacomã ,-sul,80,2,1450
+Sacomã ,-sul,182,,2200
+Sacomã ,-sul,90,2,1950
+Sacomã ,-sul,60,1,900
+Sacomã ,-sul,300,5,5500
+Sacomã ,-sul,500,5,7000
+Sacomã ,-sul,202,3,3000
+Sacomã ,-sul,45,1,1150
+Sacomã ,-sul,230,3,2800
+Sacomã ,-sul,120,2,2000
+Sacomã ,-sul,75,2,1550
+Sacomã ,-sul,90,2,3000
+Sacomã ,-sul,100,3,2500
+Vila Guarani (z Sul) ,-sul,15,1,600
+Vila Guarani (z Sul) ,-sul,160,3,2500
+Vila Guarani (z Sul) ,-sul,60,2,1750
+Vila Guarani (z Sul) ,-sul,100,2,2700
+Vila Guarani (z Sul) ,-sul,80,2,1600
+Vila Guarani (z Sul) ,-sul,42,1,750
+Vila Guarani (z Sul) ,-sul,40,1,850
+Vila Guarani (z Sul) ,-sul,30,1,1000
+Vila Guarani (z Sul) ,-sul,15,1,550
+Vila Guarani (z Sul) ,-sul,100,1,1000
+Vila Guarani (z Sul) ,-sul,40,2,1500
+Vila Guarani (z Sul) ,-sul,40,1,850
+Vila Guarani (z Sul) ,-sul,250,2,5000
+Vila Guarani (z Sul) ,-sul,200,3,6000
+Vila Guarani (z Sul) ,-sul,70,,1800
+Vila Guarani (z Sul) ,-sul,250,2,5000
+Vila Guarani (z Sul) ,-sul,124,3,2200
+Vila Guarani (z Sul) ,-sul,282,,4000
+Vila Guarani (z Sul) ,-sul,300,4,8000
+Vila Guarani (z Sul) ,-sul,70,2,1600
+Vila Guarani (z Sul) ,-sul,70,2,1500
+Santo Amaro ,-sul,280,,3500
+Santo Amaro ,-sul,118,2,3500
+Santo Amaro ,-sul,140,,3400
+Santo Amaro ,-sul,375,4,8000
+Santo Amaro ,-sul,220,,5000
+Santo Amaro ,-sul,250,2,2000
+Santo Amaro ,-sul,280,4,8000
+Santo Amaro ,-sul,202,,5200
+Santo Amaro ,-sul,100,1,7000
+Santo Amaro ,-sul,150,2,4000
+Santo Amaro ,-sul,380,4,10700
+Santo Amaro ,-sul,,4,8000
+Santo Amaro ,-sul,200,2,2600
+Santo Amaro ,-sul,188,,6000
+Santo Amaro ,-sul,154,1,6900
+Santo Amaro ,-sul,120,1,13000
+Santo Amaro ,-sul,259,3,8000
+Santo Amaro ,-sul,500,,9800
+Santo Amaro ,-sul,,3,8000
+Santo Amaro ,-sul,100,1,5000
+Santo Amaro ,-sul,60,1,6500
+Moema ,-sul,130,1,6000
+Moema ,-sul,120,3,5800
+Moema ,-sul,50,2,3000
+Moema ,-sul,230,3,7000
+Moema ,-sul,300,2,20000
+Moema ,-sul,240,4,10000
+Moema ,-sul,800,,24999
+Moema ,-sul,270,,12999
+Moema ,-sul,100,2,4500
+Moema ,-sul,240,4,10000
+Moema ,-sul,180,6,7900
+Moema ,-sul,250,3,16000
+Moema ,-sul,478,3,23000
+Moema ,-sul,180,3,7500
+Moema ,-sul,150,4,10000
+Moema ,-sul,392,,25000
+Moema ,-sul,55,1,1550
+Moema ,-sul,,4,6000
+Moema ,-sul,60,,2500
+Moema ,-sul,200,4,7000
+Moema ,-sul,288,,17000
+Vila Monte Alegre ,-sul,60,2,1400
+Vila Monte Alegre ,-sul,168,2,2400
+Vila Monte Alegre ,-sul,320,,11490
+Vila Monte Alegre ,-sul,345,4,5000
+Vila Monte Alegre ,-sul,300,,6500
+Vila Monte Alegre ,-sul,244,4,4000
+Vila Monte Alegre ,-sul,244,4,4000
+Vila Monte Alegre ,-sul,224,2,10000
+Vila Monte Alegre ,-sul,190,3,3590
+Vila Monte Alegre ,-sul,35,1,1500
+Vila Monte Alegre ,-sul,80,,2500
+Vila Monte Alegre ,-sul,87,3,4000
+Vila Monte Alegre ,-sul,40,1,1300
+Vila Monte Alegre ,-sul,60,1,1250
+Vila Monte Alegre ,-sul,345,4,5000
+Vila Monte Alegre ,-sul,220,4,6000
+Vila Monte Alegre ,-sul,50,1,1000
+Vila Monte Alegre ,-sul,320,3,10000
+Vila Monte Alegre ,-sul,40,1,1500
+Chácara Santo Antônio ,-sul,376,4,8900
+Chácara Santo Antônio ,-sul,100,5,3500
+Chácara Santo Antônio ,-sul,420,4,35000
+Chácara Santo Antônio ,-sul,450,4,12900
+Chácara Santo Antônio ,-sul,420,4,33000
+Chácara Santo Antônio ,-sul,286,1,8000
+Chácara Santo Antônio ,-sul,82,4,2800
+Chácara Santo Antônio ,-sul,150,2,5000
+Chácara Santo Antônio ,-sul,35,,1800
+Chácara Santo Antônio ,-sul,250,,10000
+Chácara Santo Antônio ,-sul,100,2,2600
+Chácara Santo Antônio ,-sul,110,2,5000
+Chácara Santo Antônio ,-sul,105,1,2500
+Chácara Santo Antônio ,-sul,150,3,12000
+Chácara Santo Antônio ,-sul,400,4,9000
+Chácara Santo Antônio ,-sul,258,4,9000
+Chácara Santo Antônio ,-sul,200,,5000
+Chácara Santo Antônio ,-sul,75,3,3000
+Chácara Santo Antônio ,-sul,330,4,12000
+Chácara Santo Antônio ,-sul,330,4,12000
+Chácara Santo Antônio ,-sul,270,,17900
+Vila Dom Pedro I ,-sul,200,,3000
+Vila Dom Pedro I ,-sul,,2,2000
+Vila Dom Pedro I ,-sul,150,2,2300
+Vila Dom Pedro I ,-sul,150,3,1800
+Vila Dom Pedro I ,-sul,80,2,2800
+Vila Dom Pedro I ,-sul,150,,4000
+Vila Dom Pedro I ,-sul,160,3,2500
+Vila Dom Pedro I ,-sul,147,3,3500
+Vila Dom Pedro I ,-sul,362,,5000
+Vila Dom Pedro I ,-sul,252,4,6000
+Vila Dom Pedro I ,-sul,130,2,2300
+Vila Dom Pedro I ,-sul,150,2,2650
+Vila Dom Pedro I ,-sul,80,2,2400
+Vila Dom Pedro I ,-sul,230,,4300
+Vila Dom Pedro I ,-sul,600,,20000
+Vila Dom Pedro I ,-sul,70,1,1600
+Vila Dom Pedro I ,-sul,99,2,2500
+Vila Dom Pedro I ,-sul,,2,2490
+Vila Dom Pedro I ,-sul,82,2,2490
+Vila Dom Pedro I ,-sul,150,,4000
+Vila Dom Pedro I ,-sul,198,3,5400
+Vila Clementino ,-sul,320,,5500
+Vila Clementino ,-sul,250,,10000
+Vila Clementino ,-sul,380,4,6500
+Vila Clementino ,-sul,60,2,2990
+Vila Clementino ,-sul,200,2,2900
+Vila Clementino ,-sul,200,4,12000
+Vila Clementino ,-sul,500,1,39000
+Vila Clementino ,-sul,160,3,3900
+Vila Clementino ,-sul,322,9,5700
+Vila Clementino ,-sul,80,1,3500
+Vila Clementino ,-sul,143,3,3000
+Vila Clementino ,-sul,192,7,5000
+Vila Clementino ,-sul,126,5,6300
+Vila Clementino ,-sul,300,,11000
+Vila Clementino ,-sul,260,3,10000
+Vila Clementino ,-sul,380,3,6000
+Vila Clementino ,-sul,234,8,6000
+Vila Clementino ,-sul,280,,9000
+Vila Clementino ,-sul,451,,20000
+Vila Clementino ,-sul,750,,19000
+Vila Clementino ,-sul,600,10,20000
+Vila Uberabinha ,-sul,120,3,5800
+Vila Uberabinha ,-sul,240,4,10000
+Vila Uberabinha ,-sul,240,4,10000
+Vila Uberabinha ,-sul,150,4,10000
+Vila Uberabinha ,-sul,141,,7000
+Vila Uberabinha ,-sul,350,,12500
+Vila Uberabinha ,-sul,300,6,18000
+Vila Uberabinha ,-sul,124,2,5000
+Vila Uberabinha ,-sul,141,1,7000
+Vila Uberabinha ,-sul,400,4,15000
+Vila Uberabinha ,-sul,141,2,7000
+Vila Uberabinha ,-sul,280,3,9200
+Vila Uberabinha ,-sul,139,1,7000
+Vila Uberabinha ,-sul,300,,18000
+Vila Uberabinha ,-sul,350,,10000
+Vila Uberabinha ,-sul,140,2,8011
+Vila Uberabinha ,-sul,330,5,10000
+Vila Uberabinha ,-sul,350,,12499
+Vila Uberabinha ,-sul,400,,15000
+Vila Uberabinha ,-sul,145,3,6800
+Vila Uberabinha ,-sul,338,,14500
+Parque Jabaquara ,-sul,80,3,2500
+Parque Jabaquara ,-sul,95,3,4000
+Parque Jabaquara ,-sul,400,,13000
+Parque Jabaquara ,-sul,220,3,6000
+Parque Jabaquara ,-sul,107,3,2500
+Parque Jabaquara ,-sul,152,3,2500
+Parque Jabaquara ,-sul,140,3,4000
+Parque Jabaquara ,-sul,270,5,3000
+Parque Jabaquara ,-sul,150,3,6000
+Parque Jabaquara ,-sul,189,2,3500
+Parque Jabaquara ,-sul,291,3,3300
+Parque Jabaquara ,-sul,150,3,3200
+Parque Jabaquara ,-sul,140,3,3800
+Parque Jabaquara ,-sul,85,4,4500
+Parque Jabaquara ,-sul,50,1,1200
+Parque Jabaquara ,-sul,35,1,1200
+Parque Jabaquara ,-sul,179,3,3200
+Parque Jabaquara ,-sul,189,3,3500
+Parque Jabaquara ,-sul,190,5,3500
+Parque Jabaquara ,-sul,350,4,7000
+Parque Jabaquara ,-sul,165,3,2600
+Paraíso ,-sul,115,3,5500
+Paraíso ,-sul,238,4,5000
+Paraíso ,-sul,340,10,11000
+Paraíso ,-sul,300,3,8000
+Paraíso ,-sul,260,3,10900
+Paraíso ,-sul,230,4,5000
+Paraíso ,-sul,250,4,12000
+Paraíso ,-sul,250,4,12000
+Paraíso ,-sul,294,8,12000
+Paraíso ,-sul,294,8,12000
+Paraíso ,-sul,260,,10900
+Paraíso ,-sul,115,3,5500
+Paraíso ,-sul,104,3,3800
+Paraíso ,-sul,237,4,8000
+Paraíso ,-sul,765,10,42000
+Paraíso ,-sul,100,2,4000
+Paraíso ,-sul,269,4,12000
+Paraíso ,-sul,315,,10900
+Paraíso ,-sul,360,4,18000
+Paraíso ,-sul,200,4,13000
+Paraíso ,-sul,290,,14000
+Vila Mascote ,-sul,200,2,5000
+Vila Mascote ,-sul,290,3,4500
+Vila Mascote ,-sul,250,4,4400
+Vila Mascote ,-sul,80,,2600
+Vila Mascote ,-sul,138,2,4000
+Vila Mascote ,-sul,150,3,3000
+Vila Mascote ,-sul,400,3,15000
+Vila Mascote ,-sul,200,4,6000
+Vila Mascote ,-sul,200,2,2800
+Vila Mascote ,-sul,250,,8300
+Vila Mascote ,-sul,100,2,3500
+Vila Mascote ,-sul,198,3,3700
+Vila Mascote ,-sul,400,3,14000
+Vila Mascote ,-sul,500,4,6000
+Vila Mascote ,-sul,250,,8300
+Vila Mascote ,-sul,160,3,3300
+Vila Mascote ,-sul,178,3,3300
+Vila Mascote ,-sul,160,,6900
+Vila Mascote ,-sul,100,3,2600
+Vila Mascote ,-sul,150,,15000
+Vila Mascote ,-sul,200,3,3500
+Vila Das Mercês ,-sul,50,1,850
+Vila Das Mercês ,-sul,35,1,1200
+Vila Das Mercês ,-sul,,1,1000
+Vila Das Mercês ,-sul,80,2,1800
+Vila Das Mercês ,-sul,300,4,3500
+Vila Das Mercês ,-sul,,1,800
+Vila Das Mercês ,-sul,70,2,1500
+Vila Das Mercês ,-sul,40,1,900
+Vila Das Mercês ,-sul,40,1,900
+Vila Das Mercês ,-sul,58,1,1200
+Vila Das Mercês ,-sul,70,2,1200
+Vila Das Mercês ,-sul,60,2,1400
+Vila Das Mercês ,-sul,600,,12000
+Vila Das Mercês ,-sul,70,2,1200
+Vila Das Mercês ,-sul,55,1,1100
+Vila Das Mercês ,-sul,,1,1400
+Vila Das Mercês ,-sul,120,2,2000
+Vila Das Mercês ,-sul,110,2,1980
+Vila Das Mercês ,-sul,30,1,850
+Vila Das Mercês ,-sul,,1,1050
+Vila Das Mercês ,-sul,50,2,1200
+Jardim Aeroporto ,-sul,230,2,4300
+Jardim Aeroporto ,-sul,125,3,3000
+Jardim Aeroporto ,-sul,125,2,2500
+Jardim Aeroporto ,-sul,152,3,2500
+Jardim Aeroporto ,-sul,1200,6,7900
+Jardim Aeroporto ,-sul,189,2,3500
+Jardim Aeroporto ,-sul,170,3,3500
+Jardim Aeroporto ,-sul,150,3,3200
+Jardim Aeroporto ,-sul,297,,4500
+Jardim Aeroporto ,-sul,140,3,3800
+Jardim Aeroporto ,-sul,130,3,3300
+Jardim Aeroporto ,-sul,110,3,2300
+Jardim Aeroporto ,-sul,150,3,3200
+Jardim Aeroporto ,-sul,162,3,2800
+Jardim Aeroporto ,-sul,189,3,3500
+Jardim Aeroporto ,-sul,190,5,3500
+Jardim Aeroporto ,-sul,350,4,7000
+Jardim Aeroporto ,-sul,195,1,10000
+Jardim Aeroporto ,-sul,196,1,9000
+Jardim Aeroporto ,-sul,250,3,4100
+Jardim Aeroporto ,-sul,177,6,9000
+Nova Piraju ,-sul,546,10,30000
+Nova Piraju ,-sul,470,2,9000
+Nova Piraju ,-sul,150,3,4000
+Nova Piraju ,-sul,550,,30000
+Nova Piraju ,-sul,20,,1500
+Nova Piraju ,-sul,235,2,2700
+Nova Piraju ,-sul,156,2,4300
+Nova Piraju ,-sul,190,,3300
+Nova Piraju ,-sul,190,3,4500
+Nova Piraju ,-sul,550,,30000
+Nova Piraju ,-sul,28,1,3300
+Nova Piraju ,-sul,156,,4500
+Nova Piraju ,-sul,546,,30000
+Vila Gumercindo ,-sul,52,1,1200
+Vila Gumercindo ,-sul,42,1,1100
+Vila Gumercindo ,-sul,200,,2800
+Vila Gumercindo ,-sul,80,2,2700
+Vila Gumercindo ,-sul,50,1,1680
+Vila Gumercindo ,-sul,50,1,1680
+Vila Gumercindo ,-sul,30,1,1050
+Vila Gumercindo ,-sul,50,1,1680
+Vila Gumercindo ,-sul,50,1,1680
+Vila Gumercindo ,-sul,40,1,1300
+Vila Gumercindo ,-sul,30,1,1000
+Vila Gumercindo ,-sul,80,2,2900
+Vila Gumercindo ,-sul,100,3,2300
+Vila Gumercindo ,-sul,150,3,2200
+Vila Gumercindo ,-sul,71,2,2600
+Vila Gumercindo ,-sul,80,2,2500
+Vila Gumercindo ,-sul,33,1,1150
+Vila Gumercindo ,-sul,200,3,3500
+Vila Gumercindo ,-sul,100,2,2100
+Vila Gumercindo ,-sul,330,2,4000
+Vila Gumercindo ,-sul,400,5,8000
+Bosque Da Saúde ,-sul,120,4,5500
+Bosque Da Saúde ,-sul,,3,3000
+Bosque Da Saúde ,-sul,268,3,6000
+Bosque Da Saúde ,-sul,160,3,4800
+Bosque Da Saúde ,-sul,,2,1500
+Bosque Da Saúde ,-sul,,1,1200
+Bosque Da Saúde ,-sul,347,4,10000
+Bosque Da Saúde ,-sul,180,3,2700
+Bosque Da Saúde ,-sul,110,3,3000
+Bosque Da Saúde ,-sul,150,3,3600
+Bosque Da Saúde ,-sul,100,3,2300
+Bosque Da Saúde ,-sul,50,1,1300
+Bosque Da Saúde ,-sul,450,,11000
+Bosque Da Saúde ,-sul,170,2,2280
+Bosque Da Saúde ,-sul,250,3,3500
+Bosque Da Saúde ,-sul,110,3,3000
+Bosque Da Saúde ,-sul,250,,3000
+Bosque Da Saúde ,-sul,180,4,2600
+Bosque Da Saúde ,-sul,300,4,4000
+Bosque Da Saúde ,-sul,980,,35000
+Bosque Da Saúde ,-sul,180,3,7000
+Jabaquara ,-sul,90,2,2400
+Jabaquara ,-sul,190,,10000
+Jabaquara ,-sul,250,4,2300
+Jabaquara ,-sul,160,3,2500
+Jabaquara ,-sul,138,2,2500
+Jabaquara ,-sul,80,2,1150
+Jabaquara ,-sul,80,3,2500
+Jabaquara ,-sul,95,3,4000
+Jabaquara ,-sul,65,1,1500
+Jabaquara ,-sul,,2,1250
+Jabaquara ,-sul,40,1,700
+Jabaquara ,-sul,34,1,900
+Jabaquara ,-sul,20,1,550
+Jabaquara ,-sul,400,,13000
+Jabaquara ,-sul,230,2,4300
+Jabaquara ,-sul,220,3,6000
+Jabaquara ,-sul,270,8,4500
+Jabaquara ,-sul,250,2,5000
+Jabaquara ,-sul,30,1,1000
+Jabaquara ,-sul,120,3,3450
+Jabaquara ,-sul,107,3,2500
+Santana ,-norte,180,2,2000
+Santana ,-norte,190,3,2700
+Santana ,-norte,307,,15000
+Santana ,-norte,255,4,6000
+Santana ,-norte,127,3,7000
+Santana ,-norte,200,4,4000
+Santana ,-norte,205,3,6000
+Santana ,-norte,300,3,8000
+Santana ,-norte,295,3,5000
+Santana ,-norte,120,,4500
+Santana ,-norte,40,2,1500
+Santana ,-norte,315,4,9700
+Santana ,-norte,300,6,5500
+Santana ,-norte,390,4,9000
+Santana ,-norte,100,2,2000
+Santana ,-norte,113,,2900
+Santana ,-norte,420,1,12000
+Santana ,-norte,500,3,6000
+Santana ,-norte,113,,3800
+Santana ,-norte,60,3,1800
+Santana ,-norte,184,3,4700
+Jardim Peri ,-norte,50,1,799
+Jardim Peri ,-norte,210,2,1250
+Jardim Peri ,-norte,40,1,550
+Jardim Peri ,-norte,90,3,1100
+Jardim Peri ,-norte,70,1,600
+Jardim Peri ,-norte,50,1,750
+Jardim Peri ,-norte,90,2,850
+Jardim Peri ,-norte,200,1,750
+Jardim Peri ,-norte,70,3,930
+Jardim Peri ,-norte,360,2,950
+Jardim Peri ,-norte,48,1,800
+Jardim Peri ,-norte,70,2,550
+Jardim Peri ,-norte,50,2,1000
+Jardim Peri ,-norte,45,1,700
+Jardim Peri ,-norte,70,1,700
+Jardim Peri ,-norte,60,2,1389
+Jardim Peri ,-norte,100,3,1350
+Jardim Peri ,-norte,100,1,800
+Jardim Peri ,-norte,70,1,750
+Jardim Peri ,-norte,45,2,1000
+Jardim Peri ,-norte,20,,2500
+Santa Teresinha ,-norte,133,3,3500
+Santa Teresinha ,-norte,350,,8000
+Santa Teresinha ,-norte,250,3,3500
+Santa Teresinha ,-norte,200,2,2750
+Santa Teresinha ,-norte,230,3,6000
+Santa Teresinha ,-norte,95,2,2600
+Santa Teresinha ,-norte,300,4,5380
+Santa Teresinha ,-norte,130,3,3200
+Santa Teresinha ,-norte,120,2,3000
+Santa Teresinha ,-norte,350,6,5000
+Santa Teresinha ,-norte,120,2,2500
+Santa Teresinha ,-norte,630,4,18000
+Santa Teresinha ,-norte,350,,8000
+Santa Teresinha ,-norte,90,2,2300
+Santa Teresinha ,-norte,150,3,2900
+Santa Teresinha ,-norte,150,3,2500
+Santa Teresinha ,-norte,250,2,2600
+Santa Teresinha ,-norte,120,3,4300
+Santa Teresinha ,-norte,220,3,3900
+Santa Teresinha ,-norte,185,3,4000
+Santa Teresinha ,-norte,50,,3710
+Vila Mazzei ,-norte,350,3,4200
+Vila Mazzei ,-norte,40,1,850
+Vila Mazzei ,-norte,120,4,2100
+Vila Mazzei ,-norte,110,2,3000
+Vila Mazzei ,-norte,180,5,4000
+Vila Mazzei ,-norte,50,1,1000
+Vila Mazzei ,-norte,65,3,1500
+Vila Mazzei ,-norte,40,2,1300
+Vila Mazzei ,-norte,32,1,1350
+Vila Mazzei ,-norte,60,2,2000
+Vila Mazzei ,-norte,100,2,2800
+Vila Mazzei ,-norte,250,,9000
+Vila Mazzei ,-norte,40,1,1700
+Vila Mazzei ,-norte,40,1,1700
+Vila Mazzei ,-norte,50,1,1000
+Vila Mazzei ,-norte,50,3,2000
+Vila Mazzei ,-norte,600,4,7000
+Vila Mazzei ,-norte,120,,3000
+Vila Mazzei ,-norte,100,,2800
+Vila Mazzei ,-norte,70,2,2500
+Vila Mazzei ,-norte,320,4,4800
+Vila Guilherme ,-norte,70,3,1550
+Vila Guilherme ,-norte,150,3,10000
+Vila Guilherme ,-norte,252,3,4500
+Vila Guilherme ,-norte,143,4,10000
+Vila Guilherme ,-norte,300,3,5500
+Vila Guilherme ,-norte,252,3,4500
+Vila Guilherme ,-norte,145,3,10000
+Vila Guilherme ,-norte,60,1,950
+Vila Guilherme ,-norte,250,1,6500
+Vila Guilherme ,-norte,150,3,2900
+Vila Guilherme ,-norte,70,1,1000
+Vila Guilherme ,-norte,80,2,1500
+Vila Guilherme ,-norte,144,2,2000
+Vila Guilherme ,-norte,90,3,2300
+Vila Gustavo ,-norte,400,3,6000
+Vila Gustavo ,-norte,98,2,2500
+Vila Gustavo ,-norte,80,3,5000
+Vila Gustavo ,-norte,270,3,6000
+Vila Gustavo ,-norte,170,3,3000
+Vila Gustavo ,-norte,330,3,9000
+Vila Gustavo ,-norte,98,3,600000
+Vila Gustavo ,-norte,170,3,4000
+Vila Gustavo ,-norte,45,1,1200
+Vila Gustavo ,-norte,45,1,1200
+Vila Gustavo ,-norte,45,1,1200
+Vila Gustavo ,-norte,45,1,1200
+Vila Gustavo ,-norte,150,3,2300
+Vila Gustavo ,-norte,60,2,1200
+Vila Gustavo ,-norte,42,2,1000
+Parque Mandaqui ,-norte,390,5,7500
+Parque Mandaqui ,-norte,58,2,1200
+Parque Mandaqui ,-norte,424,3,3300
+Parque Mandaqui ,-norte,166,3,3500
+Parque Mandaqui ,-norte,43,1,1200
+Parque Mandaqui ,-norte,200,,3500
+Parque Mandaqui ,-norte,150,3,3000
+Parque Mandaqui ,-norte,250,3,3500
+Parque Mandaqui ,-norte,390,2,5500
+Parque Mandaqui ,-norte,230,3,3500
+Parque Mandaqui ,-norte,200,,6000
+Parque Mandaqui ,-norte,40,1,1250
+Parque Mandaqui ,-norte,200,4,6000
+Parque Mandaqui ,-norte,120,4,3500
+Parque Mandaqui ,-norte,176,2,2800
+Parque Mandaqui ,-norte,402,3,6000
+Parque Mandaqui ,-norte,70,,4500
+Parque Mandaqui ,-norte,250,4,3700
+Parque Mandaqui ,-norte,100,3,2100
+Parque Mandaqui ,-norte,166,3,3500
+Parque Mandaqui ,-norte,80,2,2300
+Parada Inglesa ,-norte,90,2,2500
+Parada Inglesa ,-norte,37,1,1200
+Parada Inglesa ,-norte,90,2,2800
+Parada Inglesa ,-norte,402,3,4400
+Parada Inglesa ,-norte,120,2,2100
+Parada Inglesa ,-norte,350,,7500
+Parada Inglesa ,-norte,300,,9000
+Parada Inglesa ,-norte,150,4,7500
+Parada Inglesa ,-norte,300,,8000
+Parada Inglesa ,-norte,350,,8000
+Parada Inglesa ,-norte,350,8,8000
+Parada Inglesa ,-norte,130,,8000
+Parada Inglesa ,-norte,125,2,3000
+Parada Inglesa ,-norte,320,,5500
+Parada Inglesa ,-norte,180,3,2500
+Parada Inglesa ,-norte,240,3,3000
+Parada Inglesa ,-norte,350,8,8000
+Parada Inglesa ,-norte,350,5,8000
+Parada Inglesa ,-norte,250,2,9000
+Parada Inglesa ,-norte,70,2,1800
+Parada Inglesa ,-norte,,1,1200
+Vila Medeiros ,-norte,45,2,1100
+Vila Medeiros ,-norte,30,1,1200
+Vila Medeiros ,-norte,,2,2200
+Vila Medeiros ,-norte,38,1,1200
+Vila Medeiros ,-norte,20,1,1800
+Vila Medeiros ,-norte,140,3,2300
+Vila Medeiros ,-norte,220,3,4400
+Vila Medeiros ,-norte,120,2,1900
+Vila Medeiros ,-norte,75,2,2700
+Vila Medeiros ,-norte,,1,1200
+Vila Medeiros ,-norte,55,1,1200
+Vila Medeiros ,-norte,50,1,1000
+Vila Medeiros ,-norte,40,1,1100
+Vila Medeiros ,-norte,200,3,2700
+Vila Medeiros ,-norte,,2,1250
+Vila Medeiros ,-norte,40,1,1200
+Vila Medeiros ,-norte,50,1,1550
+Vila Dom Pedro Ii ,-norte,37,1,1200
+Vila Dom Pedro Ii ,-norte,37,1,1200
+Vila Dom Pedro Ii ,-norte,90,2,2800
+Vila Dom Pedro Ii ,-norte,300,,9000
+Vila Dom Pedro Ii ,-norte,10000,3,3000
+Vila Dom Pedro Ii ,-norte,100,3,2300
+Vila Dom Pedro Ii ,-norte,240,3,3000
+Vila Dom Pedro Ii ,-norte,135,2,3200
+Vila Dom Pedro Ii ,-norte,30,2,1100
+Vila Dom Pedro Ii ,-norte,230,,4000
+Vila Dom Pedro Ii ,-norte,300,4,2500
+Vila Dom Pedro Ii ,-norte,50,4,12000
+Casa Verde ,-norte,40,1,750
+Casa Verde ,-norte,40,2,1150
+Casa Verde ,-norte,45,2,1200
+Casa Verde ,-norte,45,1,1000
+Casa Verde ,-norte,40,1,1100
+Casa Verde ,-norte,150,1,1000
+Casa Verde ,-norte,90,1,500
+Casa Verde ,-norte,50,1,650
+Casa Verde ,-norte,38,2,930
+Casa Verde ,-norte,200,3,4000
+Casa Verde ,-norte,93,2,2000
+Casa Verde ,-norte,50,1,700
+Casa Verde ,-norte,262,4,7000
+Casa Verde ,-norte,35,1,800
+Casa Verde ,-norte,180,3,6000
+Casa Verde ,-norte,481,3,5300
+Casa Verde ,-norte,170,4,4500
+Casa Verde ,-norte,50,1,1200
+Casa Verde ,-norte,180,,6000
+Casa Verde ,-norte,2100,,120000
+Casa Verde ,-norte,100,2,2200
+Jardim São Paulo ,-norte,50,1,799
+Jardim São Paulo ,-norte,110,2,2200
+Jardim São Paulo ,-norte,70,2,1800
+Jardim São Paulo ,-norte,270,3,3000
+Jardim São Paulo ,-norte,450,4,8500
+Jardim São Paulo ,-norte,115,2,2400
+Jardim São Paulo ,-norte,271,4,7500
+Jardim São Paulo ,-norte,40,1,850
+Jardim São Paulo ,-norte,110,3,2300
+Jardim São Paulo ,-norte,70,3,1800
+Jardim São Paulo ,-norte,40,1,1200
+Jardim São Paulo ,-norte,16,1,520
+Jardim São Paulo ,-norte,115,3,1650
+Jardim São Paulo ,-norte,180,2,2000
+Jardim São Paulo ,-norte,90,2,1350
+Jardim São Paulo ,-norte,112,2,1600
+Jardim São Paulo ,-norte,127,3,7000
+Jardim São Paulo ,-norte,205,3,6000
+Jardim São Paulo ,-norte,90,2,1350
+Jardim São Paulo ,-norte,300,3,8000
+Jardim São Paulo ,-norte,45,1,800
+Lauzane Paulista ,-norte,260,3,2600
+Lauzane Paulista ,-norte,50,2,1400
+Lauzane Paulista ,-norte,750,7,5800
+Lauzane Paulista ,-norte,60,1,1150
+Lauzane Paulista ,-norte,52,1,1000
+Lauzane Paulista ,-norte,350,,3900
+Lauzane Paulista ,-norte,350,,3500
+Lauzane Paulista ,-norte,230,3,6000
+Lauzane Paulista ,-norte,150,3,3000
+Lauzane Paulista ,-norte,350,6,5000
+Lauzane Paulista ,-norte,152,3,4000
+Lauzane Paulista ,-norte,350,,3900
+Lauzane Paulista ,-norte,150,3,2700
+Lauzane Paulista ,-norte,184,3,3200
+Lauzane Paulista ,-norte,60,1,1150
+Lauzane Paulista ,-norte,184,3,3200
+Lauzane Paulista ,-norte,30,1,900
+Lauzane Paulista ,-norte,750,5,5800
+Lauzane Paulista ,-norte,30,1,800
+Lauzane Paulista ,-norte,200,3,3000
+Lauzane Paulista ,-norte,52,1,1000
+Nossa Senhora Do Ó ,-norte,300,5,3500
+Nossa Senhora Do Ó ,-norte,55,1,1380
+Nossa Senhora Do Ó ,-norte,419,4,4500
+Nossa Senhora Do Ó ,-norte,409,6,6500
+Nossa Senhora Do Ó ,-norte,250,5,3900
+Nossa Senhora Do Ó ,-norte,230,2,3000
+Nossa Senhora Do Ó ,-norte,230,2,3480
+Nossa Senhora Do Ó ,-norte,192,,2480
+Nossa Senhora Do Ó ,-norte,630,,16000
+Nossa Senhora Do Ó ,-norte,35,1,700
+Nossa Senhora Do Ó ,-norte,636,,12000
+Nossa Senhora Do Ó ,-norte,120,2,1980
+Nossa Senhora Do Ó ,-norte,,2,2000
+Nossa Senhora Do Ó ,-norte,120,,5800
+Nossa Senhora Do Ó ,-norte,180,3,2500
+Vila Nova Mazzei ,-norte,350,3,4200
+Vila Nova Mazzei ,-norte,40,1,850
+Vila Nova Mazzei ,-norte,120,4,2100
+Vila Nova Mazzei ,-norte,110,2,3000
+Vila Nova Mazzei ,-norte,180,5,4000
+Vila Nova Mazzei ,-norte,50,1,1000
+Vila Nova Mazzei ,-norte,65,3,1500
+Vila Nova Mazzei ,-norte,40,2,1300
+Vila Nova Mazzei ,-norte,32,1,1350
+Vila Nova Mazzei ,-norte,60,2,2000
+Vila Nova Mazzei ,-norte,100,2,2800
+Vila Nova Mazzei ,-norte,250,,9000
+Vila Nova Mazzei ,-norte,40,1,1700
+Vila Nova Mazzei ,-norte,40,1,1700
+Vila Nova Mazzei ,-norte,50,1,1000
+Vila Nova Mazzei ,-norte,50,3,2000
+Vila Nova Mazzei ,-norte,600,4,7000
+Vila Nova Mazzei ,-norte,120,,3000
+Vila Nova Mazzei ,-norte,100,,2800
+Vila Nova Mazzei ,-norte,70,2,2500
+Vila Nova Mazzei ,-norte,320,4,4800
+Vila Ester ,-norte,70,2,1900
+Vila Ester ,-norte,335,,6000
+Vila Ester ,-norte,300,3,5500
+Vila Ester ,-norte,350,5,4300
+Vila Ester ,-norte,220,,6000
+Vila Ester ,-norte,200,,4200
+Vila Ester ,-norte,93,2,2800
+Vila Ester ,-norte,335,,12000
+Vila Ester ,-norte,335,,6000
+Vila Ester ,-norte,40,1,1500
+Vila Ester ,-norte,190,3,5000
+Vila Ester ,-norte,250,3,2900
+Vila Ester ,-norte,300,3,6000
+Vila Ester ,-norte,120,2,5000
+Vila Ester ,-norte,80,3,2000
+Imirim ,-norte,72,3,1500
+Imirim ,-norte,70,2,850
+Imirim ,-norte,150,3,3000
+Imirim ,-norte,250,,5000
+Imirim ,-norte,87,2,2600
+Imirim ,-norte,170,,6000
+Imirim ,-norte,110,2,5000
+Imirim ,-norte,87,2,2600
+Imirim ,-norte,89,2,2600
+Imirim ,-norte,140,3,2500
+Imirim ,-norte,500,,16000
+Imirim ,-norte,80,2,1350
+Imirim ,-norte,210,3,3800
+Imirim ,-norte,90,3,2300
+Imirim ,-norte,90,3,2500
+Imirim ,-norte,80,3,2000
+Imirim ,-norte,145,3,3000
+Imirim ,-norte,55,1,1300
+Imirim ,-norte,65,,2000
+Imirim ,-norte,158,3,2300
+Imirim ,-norte,25,1,600
+Vila Amália ,-norte,270,3,3000
+Vila Amália ,-norte,280,4,3300
+Vila Amália ,-norte,270,3,2990
+Vila Amália ,-norte,140,3,3000
+Vila Amália ,-norte,120,3,2900
+Vila Amália ,-norte,650,4,5100
+Vila Amália ,-norte,270,3,2990
+Vila Amália ,-norte,215,3,3000
+Vila Amália ,-norte,270,3,2990
+Vila Amália ,-norte,35,1,950
+Vila Amália ,-norte,40,1,1200
+Vila Amália ,-norte,140,,2500
+Vila Amália ,-norte,270,3,2990
+Vila Amália ,-norte,700,4,2750
+Vila Amália ,-norte,300,3,3500
+Vila Amália ,-norte,400,1,450
+Vila Amália ,-norte,90,2,1600
+Vila Amália ,-norte,270,3,2990
+Vila Amália ,-norte,350,4,6000
+Freguesia Do Ó ,-norte,90,2,1800
+Freguesia Do Ó ,-norte,80,2,1500
+Freguesia Do Ó ,-norte,65,2,1199
+Freguesia Do Ó ,-norte,120,4,3000
+Freguesia Do Ó ,-norte,550,3,6980
+Freguesia Do Ó ,-norte,300,5,3500
+Freguesia Do Ó ,-norte,230,2,3000
+Freguesia Do Ó ,-norte,170,1,2500
+Freguesia Do Ó ,-norte,40,,2500
+Freguesia Do Ó ,-norte,70,2,1800
+Freguesia Do Ó ,-norte,90,2,1700
+Freguesia Do Ó ,-norte,45,1,850
+Freguesia Do Ó ,-norte,55,1,1500
+Freguesia Do Ó ,-norte,50,1,910
+Freguesia Do Ó ,-norte,170,,3000
+Freguesia Do Ó ,-norte,636,,12000
+Freguesia Do Ó ,-norte,120,,5800
+Freguesia Do Ó ,-norte,75,3,1400
+Freguesia Do Ó ,-norte,75,3,1400
+Freguesia Do Ó ,-norte,100,4,4600
+Freguesia Do Ó ,-norte,60,1,938
+Tucuruvi ,-norte,120,4,2100
+Tucuruvi ,-norte,110,2,3000
+Tucuruvi ,-norte,90,2,2500
+Tucuruvi ,-norte,140,3,3300
+Tucuruvi ,-norte,300,3,3500
+Tucuruvi ,-norte,120,4,2400
+Tucuruvi ,-norte,120,3,1800
+Tucuruvi ,-norte,340,4,6000
+Tucuruvi ,-norte,35,1,860
+Tucuruvi ,-norte,300,7,5900
+Tucuruvi ,-norte,90,2,2500
+Tucuruvi ,-norte,150,3,2000
+Tucuruvi ,-norte,200,2,2500
+Tucuruvi ,-norte,550,4,20000
+Tucuruvi ,-norte,60,2,2000
+Tucuruvi ,-norte,100,2,2800
+Tucuruvi ,-norte,200,2,2300
+Tucuruvi ,-norte,325,,13000
+Tucuruvi ,-norte,40,1,1700
+Tucuruvi ,-norte,180,2,2500
+Tucuruvi ,-norte,568,5,6000
+Vila Albertina ,-norte,450,4,8500
+Vila Albertina ,-norte,90,2,1800
+Vila Albertina ,-norte,80,2,1500
+Vila Albertina ,-norte,70,2,1700
+Vila Albertina ,-norte,456,3,8500
+Vila Albertina ,-norte,220,3,4000
+Vila Albertina ,-norte,390,3,14900
+Vila Albertina ,-norte,60,2,1400
+Vila Albertina ,-norte,450,4,8500
+Vila Albertina ,-norte,600,6,5000
+Vila Albertina ,-norte,680,4,5100
+Vila Albertina ,-norte,180,4,3180
+Vila Albertina ,-norte,450,4,8500
+Vila Albertina ,-norte,384,3,8815
+Vila Albertina ,-norte,450,4,8500
+Vila Albertina ,-norte,560,3,8000
+Vila Albertina ,-norte,400,4,8000
+Vila Albertina ,-norte,60,,2500
+Vila Albertina ,-norte,600,4,5000
+Vila Albertina ,-norte,456,3,8980
+Vila Albertina ,-norte,290,4,4000
+Parque Peruche ,-norte,130,2,1700
+Parque Peruche ,-norte,260,4,6000
+Parque Peruche ,-norte,366,3,3500
+Parque Peruche ,-norte,130,2,1700
+Parque Peruche ,-norte,50,1,1030
+Parque Peruche ,-norte,70,1,1300
+Parque Peruche ,-norte,40,1,1250
+Parque Peruche ,-norte,60,2,1200
+Parque Peruche ,-norte,40,1,900
+Parque Peruche ,-norte,50,1,910
+Parque Peruche ,-norte,150,4,2500
+Parque Peruche ,-norte,40,1,900
+Parque Peruche ,-norte,126,2,2200
+Parque Peruche ,-norte,50,2,1500
+Parque Peruche ,-norte,200,3,6000
+Parque Peruche ,-norte,70,2,1750
+Parque Peruche ,-norte,70,1,800
+Parque Peruche ,-norte,40,2,1500
+Parque Peruche ,-norte,30,1,600
+Parque Peruche ,-norte,40,1,700
+Parque Peruche ,-norte,60,2,1100
+Vila Maria ,-norte,60,1,760
+Vila Maria ,-norte,34,1,850
+Vila Maria ,-norte,20,1,700
+Vila Maria ,-norte,39,1,900
+Vila Maria ,-norte,35,1,900
+Vila Maria ,-norte,35,1,900
+Vila Maria ,-norte,35,1,900
+Vila Maria ,-norte,40,1,1000
+Vila Maria ,-norte,42,1,800
+Vila Maria ,-norte,35,1,850
+Vila Maria ,-norte,60,2,1200
+Vila Maria ,-norte,35,1,1000
+Vila Maria ,-norte,30,1,860
+Vila Maria ,-norte,40,1,1350
+Vila Maria ,-norte,35,1,900
+Vila Maria ,-norte,20,1,700
+Vila Maria ,-norte,50,1,1000
+Vila Maria ,-norte,240,3,5500
+Vila Maria ,-norte,400,4,6000
+Vila Maria ,-norte,220,10,4500
+Vila Maria ,-norte,100,2,2300
+Vila Palmeiras ,-norte,40,1,800
+Vila Palmeiras ,-norte,35,1,700
+Vila Palmeiras ,-norte,70,2,950
+Vila Palmeiras ,-norte,65,3,1800
+Vila Palmeiras ,-norte,98,3,2600
+Vila Palmeiras ,-norte,170,3,3500
+Vila Palmeiras ,-norte,125,2,2000
+Vila Palmeiras ,-norte,35,1,700
+Vila Palmeiras ,-norte,40,1,960
+Vila Palmeiras ,-norte,90,2,1500
+Vila Palmeiras ,-norte,50,1,950
+Vila Palmeiras ,-norte,100,2,2400
+Vila Palmeiras ,-norte,40,1,700
+Vila Palmeiras ,-norte,65,2,800
+Vila Palmeiras ,-norte,70,2,1250
+Vila Palmeiras ,-norte,98,3,2400
+Vila Maria Alta ,-norte,34,1,850
+Vila Maria Alta ,-norte,20,1,700
+Vila Maria Alta ,-norte,39,1,900
+Vila Maria Alta ,-norte,35,1,900
+Vila Maria Alta ,-norte,35,1,900
+Vila Maria Alta ,-norte,35,1,900
+Vila Maria Alta ,-norte,40,1,1000
+Vila Maria Alta ,-norte,60,2,1200
+Vila Maria Alta ,-norte,35,1,1000
+Vila Maria Alta ,-norte,30,1,860
+Vila Maria Alta ,-norte,35,1,900
+Vila Maria Alta ,-norte,20,1,700
+Vila Maria Alta ,-norte,50,1,1000
+Vila Maria Alta ,-norte,240,3,4500
+Vila Maria Alta ,-norte,120,,4000
+Vila Maria Alta ,-norte,250,2,2400
+Vila Maria Alta ,-norte,350,,4800
+Vila Maria Alta ,-norte,15,1,500
+Vila Maria Alta ,-norte,22,1,850
+Vila Maria Alta ,-norte,40,1,1000
+Vila Maria Alta ,-norte,800,5,18000
+Jardim Leonor Mendes De Barros ,-norte,70,2,1800
+Jardim Leonor Mendes De Barros ,-norte,110,3,2300
+Jardim Leonor Mendes De Barros ,-norte,1,3,5000
+Jardim Leonor Mendes De Barros ,-norte,330,4,7000
+Jardim Leonor Mendes De Barros ,-norte,125,1,1000
+Jardim Leonor Mendes De Barros ,-norte,350,4,3700
+Jardim Leonor Mendes De Barros ,-norte,300,3,3300
+Jardim Leonor Mendes De Barros ,-norte,350,4,7000
+Jardim Leonor Mendes De Barros ,-norte,350,,5500
+Jardim Leonor Mendes De Barros ,-norte,600,4,10000
+Jardim Leonor Mendes De Barros ,-norte,160,3,3300
+Jardim Leonor Mendes De Barros ,-norte,150,4,4500
+Jardim Leonor Mendes De Barros ,-norte,360,4,4800
+Jardim Leonor Mendes De Barros ,-norte,254,4,4400
+Jardim Leonor Mendes De Barros ,-norte,200,3,3500
+Jardim Leonor Mendes De Barros ,-norte,150,2,2000
+Jardim Leonor Mendes De Barros ,-norte,345,4,5000
+Jardim Leonor Mendes De Barros ,-norte,200,2,2200
+Jardim Leonor Mendes De Barros ,-norte,465,8,4000
+Parque Novo Mundo ,-norte,30,1,850
+Parque Novo Mundo ,-norte,35,1,800
+Parque Novo Mundo ,-norte,190,3,2700
+Parque Novo Mundo ,-norte,190,3,4800
+Parque Novo Mundo ,-norte,190,3,3100
+Parque Novo Mundo ,-norte,45,1,1200
+Parque Novo Mundo ,-norte,40,1,750
+Parque Novo Mundo ,-norte,,1,1000
+Parque Novo Mundo ,-norte,,1,900
+Parque Novo Mundo ,-norte,,3,3000
+Parque Novo Mundo ,-norte,,3,3000
+Parque Novo Mundo ,-norte,,1,600
+Parque Novo Mundo ,-norte,,2,1200
+Parque Novo Mundo ,-norte,60,1,900
+Parque Novo Mundo ,-norte,50,1,850
+Carandiru ,-norte,35,1,1150
+Carandiru ,-norte,30,1,750
+Carandiru ,-norte,40,1,1300
+Carandiru ,-norte,160,,3500
+Carandiru ,-norte,40,1,1100
+Carandiru ,-norte,50,1,990
+Carandiru ,-norte,180,3,3500
+Carandiru ,-norte,150,1,1550
+Carandiru ,-norte,120,2,1700
+Carandiru ,-norte,125,2,2500
+Carandiru ,-norte,50,2,1300
